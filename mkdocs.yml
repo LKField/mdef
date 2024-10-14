@@ -24,7 +24,7 @@ theme:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     scheme: slate
     primary: deep purple
-    accent: deep orange
+    accent: orange
   font:
     # See available fonts at https://fonts.google.com/
     text: Roboto
@@ -52,7 +52,9 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
   - admonition
-  - pymdownx.details
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 # plugins:
 #   - glightbox
