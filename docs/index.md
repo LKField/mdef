@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Welcome to my MDEF Journey
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![Sunglasses Headshot](images/headshots/Sitting_Sunglasses_Crop.jpg){ align=right width="300"}
 
-## Commands
+I am a student in the Master in Design for Emergent Futures at the Institute for Institute for Advanced Architecture of Catalonia. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+I will be documenting my journey through the course here.
