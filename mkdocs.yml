@@ -32,6 +32,7 @@ theme:
 
   features:
     - navigation.instant
+    - content.tabs.link
 
 # added markdown extensions
 markdown_extensions:
@@ -55,6 +56,9 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+
+  - pymdownx.tabbed:
+      alternate_style: true
 
 # plugins:
 #   - glightbox
