@@ -54,5 +54,5 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
-plugins:
-  - glightbox
+# plugins:
+#   - glightbox
