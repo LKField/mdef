@@ -1,4 +1,58 @@
-site_name: My MkDocs Material Documentation
-site_url: https://sitename.example
+site_name: Lucretia Field - MDEF
+site_description: Master in Design for Emergent Futures
+site_author: Lucretia Field
+site_url: https://lkfield.github.io/mdef/
+repo_url: https://github.com/LKField/mdef
+
+copyright: Copyleft 2024 "Lucretia Field" - GNU Free Documentation License
+repo_name: 'LKField : mdef'
+
+# navigation 
+nav:
+  - Home: index.md
+  - About: about/me.md
+  - Term 1:
+      - Landing: term1/landing.md
+      - Design Studio 01: term1/design.md
+
+
+# theme edits 
 theme:
   name: material
+    # custom_dir: overrides
+  palette:
+    # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
+    scheme: slate
+    primary: deep purple
+    accent: deep orange
+  font:
+    # See available fonts at https://fonts.google.com/
+    text: Roboto
+    code: Roboto Mono
+
+  features:
+    - navigation.instant
+
+# added markdown extensions
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  # for icons/emjois from https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  # for code from https://squidfunk.github.io/mkdocs-material/reference/code-blocks/
+  # pygments from https://pygments.org/styles/
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+
+plugins:
+  - glightbox
