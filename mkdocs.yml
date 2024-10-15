@@ -11,6 +11,7 @@ repo_name: 'LKField : mdef'
 nav:
   - Home: index.md
   - About: about/me.md
+    # - Reading: about/reading.md
   - Term 1:
       - Landing: term1/landing.md
       - Design Studio 01: term1/design.md
