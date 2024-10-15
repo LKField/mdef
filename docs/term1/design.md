@@ -26,7 +26,8 @@ I sketched up a quick diagram of what I will have access to here. I expect this 
 
 === "Design Space Iteration 01"
     
-    Date: 8 of October 2024 
+    !!! abstract "Date" 
+        8 of October 2024 
 
     ![DS01](../images/term1/designstudio/DesignSpaceOverview_01.png){ align=left }
 
@@ -36,7 +37,8 @@ I sketched up a quick diagram of what I will have access to here. I expect this 
 
 === "Design Space Iteration 02" 
 
-    Date: 9 of October 2024 
+    !!! abstract "Date" 
+        9 of October 2024 
 
     ![DS02](../images/term1/designstudio/DesignSpaceOverview_02.jpeg){ align=left }
 
