@@ -46,6 +46,16 @@ I sketched up a quick diagram of what I will have access to here. I expect this 
 
     Additonally, this Design Space included some of the cards from the Atlas of Weak Signals. 
 
+=== "Design Space Iteration 03" 
+
+    !!! abstract "Date" 
+        17 of October 2024 
+
+    ![DS03](../images/term1/designstudio/DesignSpaceOverview_03.jpeg){ align=left }
+
+    The third design space is a the same as the second design space with a few elements added digitally because I have not printed new additional images or found a more permanent solution for maintaining the design space yet. It is a work in progress and I am sure it will continue to change. 
+
+
 ## Atlas of Weak Signals
 
 ![AoWS Cards](../images/term1/designstudio/AoWS_Cards.jpg){ align=left }
