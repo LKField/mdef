@@ -58,4 +58,15 @@ I sketched up a quick diagram of what I will have access to here. I expect this 
 
 ## Atlas of Weak Signals
 
+The Atlas of Weak Signals (AoWS) is a ideation system that aims at examining trends before they become trends and then considering and discussing the implications of those potential trends. 
+
+In our class, we started by doing an example as a whole class to demonstrate how these cards can be used to speak conversation 
+
 ![AoWS Cards](../images/term1/designstudio/AoWS_Cards.jpg){ align=left }
+
+
+## Reflection 
+
+Below is my audio reflection from the end of Week 3 of MDEF and after one week of Design Studio.
+
+  <audio controls src="../../audio/DesignStudioReflection1.mp3"></audio>
