@@ -1,4 +1,4 @@
-# Design Studio 01 
+# Design Studio 01 - Intro Week 
 
 Our week of Design Studio Intro began with an overview of what the Design Studio is and a list of recommendations for success in the course: 
 
@@ -24,7 +24,7 @@ I sketched up a quick diagram of what I will have access to here. I expect this 
 
 ## Design Space 
 
-Check out my Design Space 
+Check out my Design Space which I will develop during the term to reflect my interests, design process, and trajectory in the course. The Design Space serves as a documentation and navigation tool for organizing, situating, and reflecting upon my personal design practice throughout the course. 
 
 [Design Space](../designStudio/designSpace.md){ .md-button }
 

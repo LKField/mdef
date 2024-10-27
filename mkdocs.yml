@@ -14,8 +14,12 @@ nav:
     # - Reading: about/reading.md
   - Term 1:
       - Landing: term1/landing.md
-      - Design Studio 01: term1/designStudio/designOverview.md
+      - Design Studio 01:
+        - Intro Week: term1/designStudio/designWK01.md
+        - Session Two: term1/designStudio/designWK02.md
+        - Design Space: term1/designStudio/designSpace.md
       - Fundamentals of Digital Fabrication: term1/digfab.md
+      - Machine Paradox: term1/machineParadox.md
 
 
 # theme edits 
@@ -58,7 +62,6 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
-
   - pymdownx.tabbed:
       alternate_style: true
 
