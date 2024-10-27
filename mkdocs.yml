@@ -14,7 +14,7 @@ nav:
     # - Reading: about/reading.md
   - Term 1:
       - Landing: term1/landing.md
-      - Design Studio 01: term1/design.md
+      - Design Studio 01: term1/designStudio/designOverview.md
       - Fundamentals of Digital Fabrication: term1/digfab.md
 
 
