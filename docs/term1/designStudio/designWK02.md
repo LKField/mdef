@@ -1,6 +1,6 @@
 # Design Studio 01 - Second Session 
 
-## Personal Intervention 
+<!-- ## Personal Intervention  -->
 
 
 ## Class Activity
@@ -55,3 +55,4 @@ Check out my Design Space
 Below is my audio reflection after the second session of Design Studio.
 
   <!-- <audio controls src="../../../audio/DesignStudioReflection1.mp3"></audio> -->
+
