@@ -92,6 +92,19 @@ I am a bad detective, that is what I discovered during this exercise. I started 
     |------------------------|--------------------------------|
     | **15:01 First Audio Note** <audio controls src="../../audio/1501_detectiveNote.mp3"></audio> **15:20 Second Audio Note** <audio controls src="../../audio/1520_detectiveNote.mp3"></audio> **15:21 Third Audio Note** <audio controls src="../../audio/1521_detectiveNote.mp3"></audio> | **15:19 Brief Video on walk back** ![WalkBack](../video/1519_WalkingBack.MOV)|
 
+### As a Subject 
+
+
+
+!!! quote "Commodity Defintion" 
+
+    In economics, a commodity is an economic good, usually a resource, that specifically has full or substantial fungibility: that is, the market treats instances of the good as equivalent or nearly so with no regard to who produced them.
+
+    ...
+
+    Other definitions of commodity include something useful or valued[4] and an alternative term for an economic good or service available for purchase in the market.[5] In such standard works as Alfred Marshall's Principles of Economics (1920)[6] and Léon Walras's Elements of Pure Economics ([1926] 1954)[7] 'commodity' serves as general term for an economic good or service.
+
+    [Wikipedia "Commodity"](https://en.wikipedia.org/wiki/Commodity) 
 
 <!--
 Video 01 
