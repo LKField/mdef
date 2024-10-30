@@ -58,7 +58,7 @@ The final prosthetic prompt was to make a prosthetic to judged a certain way. Th
 
 I am a bad detective, that is what I discovered during this exercise. I started trying to follow 'the subject', Hanna, as she left the classroom, walked to Itnig to get coffee, then walked to the beach. I am not sure exactly at what point she knew I was following her, but probbaly almost immediately after she stepped out of the IAAC building, if I am being honest. Well, I guess if I want a future as a Private Investigator, I need to learn discretion. 
 
-
+<!-- 
 ??? note "Evidence" 
 
     | 14:45 Leaving the classroom | 14:50 In Itnig | 14:56 Crossing the street | 
@@ -72,9 +72,26 @@ I am a bad detective, that is what I discovered during this exercise. I started 
     | ![Beach](../images/term1/lwyoi/detective/1513_Sea.jpg){ align=left width="300" } | <audio controls src="../../audio/1520_detectiveNote.mp3"></audio> | ![Video](../video/1519_WalkingBack.MOV) |
     | **15:21 Third Audio Note** | **15:23 Walking back** | **15:30 Walking back by metro** |
     |  <audio controls src="../../audio/1521_detectiveNote.mp3"></audio> | ![Bridge](../images/term1/lwyoi/detective/1523_WalkBack.jpeg){ align=left width="300" }| ![Leaving](../images/term1/lwyoi/detective/1530_WalkBack.jpeg){ align=left width="300" } |
-
+ -->
  
-Audio 
+
+??? abstract "Photo Evidence" 
+
+    | 14:45 Leaving the classroom | 14:50 In Itnig | 14:56 Crossing the street | 
+    |--------|--------|--------|
+    |![Leaving](../images/term1/lwyoi/detective/1445_Leaving.jpeg){ align=left width="300" } |![Itnig](../images/term1/lwyoi/detective/1450_Itnig.jpg){ align=left width="300" } | ![Crossing](../images/term1/lwyoi/detective/1456_Crossing.jpeg){ align=left width="300" }|
+    | **15:03 Crossing Ronda Litoral** | **15:04 Coffee Finished** | **15:06 Digging a hole** |
+    | ![Bridge](../images/term1/lwyoi/detective/1503_Bridge.jpeg){ align=left width="300" }| ![Leaving](../images/term1/lwyoi/detective/1504_Trash.jpeg){ align=left width="300" } | ![Dig](../images/term1/lwyoi/detective/1506_Dig.jpeg){ align=left width="300" } |
+    | **15:07 More digging** | **15:08 Putting something in the hole?** | **15:13 Walking along beach** |
+    | ![Dig](../images/term1/lwyoi/detective/1507_Dig.jpg){ align=left width="300" }| ![Dig](../images/term1/lwyoi/detective/1508_Dig.jpg){ align=left width="300" }| ![Dig](../images/term1/lwyoi/detective/1513_Sea.jpg){ align=left width="300" } |
+    | **15:23 Walking back** | **15:30 Walking back by metro** | |
+    | ![Bridge](../images/term1/lwyoi/detective/1523_WalkBack.jpeg){ align=left width="300" }| ![Leaving](../images/term1/lwyoi/detective/1530_WalkBack.jpeg){ align=left width="300" } | |
+
+??? abstract "Audio and Movie Notes" 
+    | | |
+    |------------------------|--------------------------------|
+    | **15:01 First Audio Note** <audio controls src="../../audio/1501_detectiveNote.mp3"></audio> **15:20 Second Audio Note** <audio controls src="../../audio/1520_detectiveNote.mp3"></audio> **15:21 Third Audio Note** <audio controls src="../../audio/1521_detectiveNote.mp3"></audio> | **15:19 Brief Video on walk back** ![WalkBack](../video/1519_WalkingBack.MOV)|
+
 
 <!--
 Video 01 
