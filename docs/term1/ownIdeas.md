@@ -69,7 +69,7 @@ I am a bad detective, that is what I discovered during this exercise. I started 
     | **15:06 Digging a hole** | **15:07 More digging**| **15:08 Putting something in the hole?** |
     |![Dig](../images/term1/lwyoi/detective/1506_Dig.jpeg){ align=left width="300" } |![Dig](../images/term1/lwyoi/detective/1507_Dig.jpg){ align=left width="300" }| ![Dig](../images/term1/lwyoi/detective/1508_Dig.jpg){ align=left width="300" }|
     | **15:13 Walking along beach** | **15:20 Second Audio Note** | **15:19 Brief Movie** |
-    | ![Beach](../images/term1/lwyoi/detective/1513_Sea.jpg){ align=left width="300" } | <audio controls src="../../audio/1520_detectiveNote.mp3"></audio> | |
+    | ![Beach](../images/term1/lwyoi/detective/1513_Sea.jpg){ align=left width="300" } | <audio controls src="../../audio/1520_detectiveNote.mp3"></audio> | ![Video](../video/1519_WalkingBack.MOV) |
     | **15:21 Third Audio Note** | **15:23 Walking back** | **15:30 Walking back by metro** |
     |  <audio controls src="../../audio/1521_detectiveNote.mp3"></audio> | ![Bridge](../images/term1/lwyoi/detective/1523_WalkBack.jpeg){ align=left width="300" }| ![Leaving](../images/term1/lwyoi/detective/1530_WalkBack.jpeg){ align=left width="300" } |
 
