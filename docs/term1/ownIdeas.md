@@ -1,4 +1,4 @@
-# Living with your own ideas 
+# Living With Your Own ideas 
 
 ## Prosthetic 'to become the best version of yourself' 
 
@@ -27,6 +27,12 @@ From there I started thinking about the balance between focus and rest. I starte
 
 Through wearing this prosthetic, I decided I don't think the implementation of this idea makes sense. Putting 'horse blinders' on to focus on an activity doesn't really work, but it can represent the idea of having focus, energy, and commitment to follow through on implementing or testing ideas. It also embodies the idea of rest and changing perspective. 
 
+Maithili decided to try my prosthetic to help her focus while reading. She commented that it did help a bit, if you covered the sides. I guess for prototype two, I would need to make sure the sides are better covered so that the tunnel effect actually happens. 
+
+![Maithili01](../images/term1/lwyoi/IMG_4312.jpeg){ align=left width="300" }
+![Maithili02](../images/term1/lwyoi/IMG_4313.jpeg){ align=right width="300" }
+
+
 <!-- 
 Video 01 
 Video 02 
@@ -41,11 +47,36 @@ Video 02
 
 Video 01 
 Video 02
+-->
+
 
 ## Prosthetic 'to judge/be judged' 
 
-![FBrainstorm](../images/term1/lwyoi/IMG_4296.jpg){ align=left } 
+The final prosthetic prompt was to make a prosthetic to judged a certain way. The idea was to dictate how we would be perceived by a detective would be following us for an hour while we did our best to be judged in a certain way. 
+
+### Detective Work 
+
+I am a bad detective, that is what I discovered during this exercise. I started trying to follow 'the subject', Hanna, as she left the classroom, walked to Itnig to get coffee, then walked to the beach. I am not sure exactly at what point she knew I was following her, but probbaly almost immediately after she stepped out of the IAAC building, if I am being honest. Well, I guess if I want a future as a Private Investigator, I need to learn discretion. 
+
+
+??? note "Evidence" 
+
+    | 14:45 Leaving the classroom | 14:50 In Itnig | 14:56 Crossing the street | 
+    |--------|--------|--------|
+    |![Leaving](../images/term1/lwyoi/detective/1445_Leaving.jpeg){ align=left width="300" } |![Itnig](../images/term1/lwyoi/detective/1450_Itnig.jpg){ align=left width="300" } | ![Crossing](../images/term1/lwyoi/detective/1456_Crossing.jpeg){ align=left width="300" }|
+    | **15:01 First Audio Note** | **15:03 Crossing Ronda Litoral**| **15:04 Coffee Finished** |
+    |  <audio controls src="../../audio/1501_detectiveNote.mp3"></audio> | ![Bridge](../images/term1/lwyoi/detective/1503_Bridge.jpeg){ align=left width="300" }| ![Leaving](../images/term1/lwyoi/detective/1504_Trash.jpeg){ align=left width="300" } |
+    | **15:06 Digging a hole** | **15:07 More digging**| **15:08 Putting something in the hole?** |
+    |![Dig](../images/term1/lwyoi/detective/1506_Dig.jpeg){ align=left width="300" } |![Dig](../images/term1/lwyoi/detective/1507_Dig.jpg){ align=left width="300" }| ![Dig](../images/term1/lwyoi/detective/1508_Dig.jpg){ align=left width="300" }|
+    | **15:13 Walking along beach** | **15:20 Second Audio Note** | **15:19 Brief Movie** |
+    | ![Beach](../images/term1/lwyoi/detective/1513_Sea.jpg){ align=left width="300" } | <audio controls src="../../audio/1520_detectiveNote.mp3"></audio> | |
+    | **15:21 Third Audio Note** | **15:23 Walking back** | **15:30 Walking back by metro** |
+    |  <audio controls src="../../audio/1521_detectiveNote.mp3"></audio> | ![Bridge](../images/term1/lwyoi/detective/1523_WalkBack.jpeg){ align=left width="300" }| ![Leaving](../images/term1/lwyoi/detective/1530_WalkBack.jpeg){ align=left width="300" } |
+
  
+Audio 
+
+<!--
 Video 01 
 Video 02 
 

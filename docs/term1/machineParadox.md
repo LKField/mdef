@@ -28,3 +28,4 @@ Excerpts from the Obsolescence Forensic Report:
 
 The next week was about taking our objects and reconfiguring them into new objects that are 'almost useless' machines. 
 
+
