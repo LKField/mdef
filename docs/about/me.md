@@ -1,6 +1,6 @@
 # About Me 
 
-![Headshot](../images/headshots/Doune.jpeg){ align=left width="300"}
+![Headshot](../images/headshots/Doune.jpeg){ align=left width="45%"}
 
 My name is Lucretia Field and I have loved to create all sorts of things for as long as I can remember. 
 
