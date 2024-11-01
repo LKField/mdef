@@ -94,7 +94,11 @@ I am a bad detective, that is what I discovered during this exercise. I started 
 
 ### As a Subject 
 
+I started figuring out what my prosthetic to try to control how I was judged would be, as I did with the first prosthetic, but brain dumping all my thoughts onto a piece of paper. I divided it into things that I want to be part of the way people see me in my everyday life, real desires about how I want to be judged, and funny or interesting ideas to explore as part of this exercise, but not something I try to perform in my daily life. 
 
+![Brainstorm](../images/term1/lwyoi/subject/brainstorm.jpg){ align=left }
+
+For some reason, I kept coming back to the word, 'commodity' from my list. I kept thinking about the idea of our personal data being exchanged for money. I thought about the phrase, “if you’re not paying for the product, then you are the product.” I began thinking about what sorts of 'prosthetics' I might be able to make to steer my detective's perception, as well as my own experience during the hour, towards being seen for what I could do, what I could provide, or what I could give away in exchange for things that might typically only be able to be obtained through an exchange of money. 
 
 !!! quote "Commodity Definition" 
 
