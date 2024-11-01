@@ -4,7 +4,6 @@ The Machine Paradox was a session on the idea of understanding machines. We took
 
 ## Obsolescence Forensic Report 
 
-https://hackmd.io/UEEqJYGLQL2XAy4f11dRAg
 
 Excerpts from the Obsolescence Forensic Report: 
 
@@ -17,11 +16,15 @@ Excerpts from the Obsolescence Forensic Report:
     - Made in: China
     - Input: DC15V - 2A
 
+[Obsolescence Forensic Report - Phillips Spotify Multiroom Speaker](https://hackmd.io/@rQJY_Xz8RTK8eVC1g-RlWQ/B1i49MT1kl/edit)
+
 
 !!! note "Object Two Overview" 
     - Mesko Stove 
     - Model Number: MS6508
     - Serial Number: 2010
+
+[Obsolescence Forensic Report - Mesko Stove](https://hackmd.io/@U44nZlfqQPe_jVWHw45SIw/SkDZVVp1Jx/edit)
 
 
 ## Almost Useless Machine 
