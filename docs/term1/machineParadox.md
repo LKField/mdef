@@ -31,4 +31,6 @@ Excerpts from the Obsolescence Forensic Report:
 
 The next week was about taking our objects and reconfiguring them into new objects that are 'almost useless' machines. 
 
+![](https://github.com/user-attachments/assets/66226c49-ab8b-48f2-9bca-f763ef88a4b3)
+
 
