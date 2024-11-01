@@ -1,9 +1,8 @@
 # Machine Paradox 
 
-The Machine Paradox was a session on the idea of understanding machines. We took apart broken, obsolete, or otherwise discarded machines, deeply examined how they work or don't, and then reconfigured them to make our own 'almost useless machines'. 
+The Machine Paradox was a two week seminar on the idea of understanding machines. We took apart broken, obsolete, or otherwise discarded machines, deeply examined how they work or don't, and then reconfigured them to make our own 'almost useless machines'. 
 
 ## Obsolescence Forensic Report 
-
 
 Excerpts from the Obsolescence Forensic Report: 
 
@@ -12,7 +11,7 @@ Excerpts from the Obsolescence Forensic Report:
     - Phillips Spotify Multiroom Speaker 
     - Model Number: SW750M/12
     - Serial Number: LM1A1440001069
-    - Colour: Black
+    - Color: Black
     - Made in: China
     - Input: DC15V - 2A
 
@@ -31,6 +30,9 @@ Excerpts from the Obsolescence Forensic Report:
 
 The next week was about taking our objects and reconfiguring them into new objects that are 'almost useless' machines. 
 
-![](https://github.com/user-attachments/assets/66226c49-ab8b-48f2-9bca-f763ef88a4b3)
+<video src="https://github.com/user-attachments/assets/66226c49-ab8b-48f2-9bca-f763ef88a4b3" controls="controls" style="max-width: 730px;">
+</video>
+
+[Slides Presentation](https://docs.google.com/presentation/d/1xWSH7AEOs1MPdsh6HLzKN5DltwJdVjIe4HFIWQEe8Rs/edit?usp=sharing)
 
 

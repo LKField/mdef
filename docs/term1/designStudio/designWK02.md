@@ -41,7 +41,7 @@ The 4 roles of prototyping that we discussed are:
 
 ![Activity](../../images/term1/designstudio/appGIF.gif){ align=left }
 
-My partner had been researching gig workers, specifically within the food delivery industry, and decided to sign up to deliver food for a day to learn what the process of signing up was and what a day in the life of a delivery driver would be like. This method could be fit into roles 2-4. For my prototype of another research method, I went with a more traditional method, propoding the integration of a rating system into the delivery app itself, not only for the customers, but for the "executives" (the drivers) as well. The idea is that they could rate their most recent delivery and then the data could be compared to the customer's rating, the traffic in their geographical area, the weather at the time of the rating, and perhaps other factors as well. 
+My partner had been researching gig workers, specifically within the food delivery industry, and decided to sign up to deliver food for a day to learn what the process of signing up was and what a day in the life of a delivery driver would be like. This method could be fit into roles 2-4. For my prototype of another research method, I went with a more traditional method, prototyping the integration of a rating system into the delivery app itself, not only for the customers, but for the "executives" (the drivers) as well. The idea is that they could rate their most recent delivery and then the data could be compared to the customer's rating, the traffic in their geographical area, the weather at the time of the rating, and perhaps other factors as well. 
 
 
 ## Design Space Updates 

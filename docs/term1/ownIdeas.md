@@ -2,7 +2,7 @@
 
 ## Prosthetic 'to become the best version of yourself' 
 
-I started by trying to figure out what "the best version of myself" would even mean. I set a timer for 10 minutes, put headphone on with some Scottish folk music and just wrote everthing that came to mind. 
+I started by trying to figure out what "the best version of myself" would even mean. I set a timer for 10 minutes, put headphone on with some Scottish folk music and just wrote everything that came to mind. 
 
 ![Brainstorm](../images/term1/lwyoi/IMG_4296.jpg){ align=left }
 
@@ -56,7 +56,7 @@ The final prosthetic prompt was to make a prosthetic to judged a certain way. Th
 
 ### Detective Work 
 
-I am a bad detective, that is what I discovered during this exercise. I started trying to follow 'the subject', Hanna, as she left the classroom, walked to Itnig to get coffee, then walked to the beach. I am not sure exactly at what point she knew I was following her, but probbaly almost immediately after she stepped out of the IAAC building, if I am being honest. Well, I guess if I want a future as a Private Investigator, I need to learn discretion. 
+I am a bad detective, that is what I discovered during this exercise. I started trying to follow 'the subject', Hanna, as she left the classroom, walked to Itnig to get coffee, then walked to the beach. I am not sure exactly at what point she knew I was following her, but probably almost immediately after she stepped out of the IAAC building, if I am being honest. Well, I guess if I want a future as a Private Investigator, I need to learn discretion. 
 
 <!-- 
 ??? note "Evidence" 
@@ -96,7 +96,7 @@ I am a bad detective, that is what I discovered during this exercise. I started 
 
 
 
-!!! quote "Commodity Defintion" 
+!!! quote "Commodity Definition" 
 
     In economics, a commodity is an economic good, usually a resource, that specifically has full or substantial fungibility: that is, the market treats instances of the good as equivalent or nearly so with no regard to who produced them.
 

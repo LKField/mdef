@@ -20,7 +20,7 @@
 
     The second design space reused a lot of the objects/photos I had in the previous one, but also employed the help of the t-shirt quilt I made in 2016 before I went off to college as a backdrop which could be a bit more permanent than the thin paper we had in class. 
 
-    Additonally, this Design Space included some of the cards from the Atlas of Weak Signals. 
+    Additionally, this Design Space included some of the cards from the Atlas of Weak Signals. 
 
 === "Design Space Iteration 03" 
 

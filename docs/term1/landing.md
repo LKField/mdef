@@ -2,16 +2,16 @@
 
 ## Meeting the Class 
 
-Our first few days of classes were focused on learning more about the program, meeting our teachers, along with the other students, and getting acquained with the place where we will be designing, discussing, and making for the next 10 months. 
+Our first few days of classes were focused on learning more about the program, meeting our teachers, along with the other students, and getting acquainted with the place where we will be designing, discussing, and making for the next 10 months. 
 
 ### Kick-off Task 
 
-The first assignment of our program was a visual intoduction where we were asked to create a collage out of photos we had taken ourselves that represent us in different ways. 
+The first assignment of our program was a visual introduction where we were asked to create a collage out of photos we had taken ourselves that represent us in different ways. 
 
 | Key Objects | Cultural Influences   | More than Human Identity Influences   | Closest Community |
 | ----------- | --------------------- | ------------------------------------- | ----------------- |
 | ![Objects](../images/term1/landing/Objects.jpeg){ align=left } | ![Culture](../images/term1/landing/Background.jpeg){ align=left } | ![Influences](../images/term1/landing/Identity_Influence.jpeg){ align=left } | ![Community](../images/term1/landing/Community.jpeg){ align=left } |
-| Ojects of making that are representative of my creativity as well as being the tools I have used to make many projects in my life. | A project representing my personal heritage as a problem solver, which I inherited from both my parents. One as a fiber arts crafter and the other as an engineer. | The more than human influence on my life is Pinewoods Camp where I grew up doing folk dancing as a child, and have more recently volunteered for an extended persiod over the summer. | The closest community around me is the folk dance community. The far reaching language of dance has let me travel through Europe with places to stay and also kept me grounded and connected at home. |
+| Objects of making that are representative of my creativity as well as being the tools I have used to make many projects in my life. | A project representing my personal heritage as a problem solver, which I inherited from both my parents. One as a fiber arts crafter and the other as an engineer. | The more than human influence on my life is Pinewoods Camp where I grew up doing folk dancing as a child, and have more recently volunteered for an extended period over the summer. | The closest community around me is the folk dance community. The far reaching language of dance has let me travel through Europe with places to stay and also kept me grounded and connected at home. |
 
 ![Collage](../images/term1/landing/Collage.jpg){ align=left }
 
@@ -19,7 +19,7 @@ The first assignment of our program was a visual intoduction where we were asked
 
 We had the pleasure of having a class visit from Nadya Peek, the director of the [Machine Agency](https://depts.washington.edu/machines/){:target="_blank"} research group at the University of Washington in the department of Human-Centered Design and Engineering (HCDE). She spoke with us about her research over the years building machines and shared some of the work of the PhD students in her lab as well.
 
-Her work was inspiring and exciting. I was particularly intersted in the [Jubilee Project](https://jubilee3d.com/index.php?title=Main_Page){:target="_blank"} which is a "extensible multi-tool motion platform" used for automation projects including tool swtiching without a person needing to change the tool. I also found her work on the [Cardboard Machine Kit](https://dl.acm.org/doi/pdf/10.1145/3025453.3025491){:target="_blank"} exciting and look forward to our forecasted MDEF module on cardboard machines. 
+Her work was inspiring and exciting. I was particularly interested in the [Jubilee Project](https://jubilee3d.com/index.php?title=Main_Page){:target="_blank"} which is a "extensible multi-tool motion platform" used for automation projects including tool switching without a person needing to change the tool. I also found her work on the [Cardboard Machine Kit](https://dl.acm.org/doi/pdf/10.1145/3025453.3025491){:target="_blank"} exciting and look forward to our forecasted MDEF module on cardboard machines. 
 
 | Images from Dr. Peek's slides | | 
 | ----------- | --------------------- |
@@ -28,7 +28,7 @@ Her work was inspiring and exciting. I was particularly intersted in the [Jubile
 
 ## Getting Acquainted with Poblenou 
 
-On our second day of class, we went on a morning tour of some of the places around Poblenou, the neighborhood where IAAC is located, to meet some of the local makers and organizers who may become our best resource on colleborations in our upcoming interventions. 
+On our second day of class, we went on a morning tour of some of the places around Poblenou, the neighborhood where IAAC is located, to meet some of the local makers and organizers who may become our best resource on collaborations in our upcoming interventions. 
 
 ![Map](../images/term1/landing/Map.png){ align=left }
 
@@ -38,7 +38,7 @@ We checked out the [Poblenou Urban District](https://poblenouurbandistrict.com/e
 
 ### TransfoLAB BCN
 
-Next, we went to [TransfoLAB BCN](https://www.transfolabbcn.com/home){:target="_blank"} and saw the workspaces they have there including a woodshop, metal shop, bioreactor, a Precious Plastics shop, and jewlery shop. I am excited to learn more about the metalworking classes they have there to learn more about metal fabrication. 
+Next, we went to [TransfoLAB BCN](https://www.transfolabbcn.com/home){:target="_blank"} and saw the workspaces they have there including a wood shop, metal shop, bioreactor, a Precious Plastics shop, and jewelry shop. I am excited to learn more about the metalworking classes they have there to learn more about metal fabrication. 
 
 ### Bioma
 
