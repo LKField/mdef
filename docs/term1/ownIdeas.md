@@ -8,7 +8,7 @@ I started by trying to figure out what "the best version of myself" would even m
 
 The highlights included: 
 
-    * caffeine as an energetics prosthetic? 
+    * caffeine as an energy prosthetic? 
     * ⁠⁠balance of striving/action with rest/recovery 
     * ⁠⁠ability to download skills like in The Matrix 
     * ⁠⁠comfort with failure and imperfection
@@ -17,20 +17,20 @@ The highlights included:
 
 From there I started thinking about the balance between focus and rest. I started prototyping with materials I had lying around and the following prosthetic is the result. The idea is to have focus for a set amount of time - for example, 25 minutes, as is suggested with the Pomodoro Method - and then to have the visor automatically raise to allow me to broaden my focus and to nudge me to rest from the focus. 
 
-![Front01](../images/term1/lwyoi/IMG_4299.jpg){ align=right width="300"}
+![Front01](../images/term1/lwyoi/IMG_4299.jpg){ align=right width="45%"}
 
-![Right](../images/term1/lwyoi/IMG_4302.jpg){ align=left width="300"}
+![Right](../images/term1/lwyoi/IMG_4302.jpg){ align=left width="45%"}
 
-![Left](../images/term1/lwyoi/IMG_4304.jpg){ align=right width="300"}
+![Left](../images/term1/lwyoi/IMG_4304.jpg){ align=right width="45%"}
 
-![Front02](../images/term1/lwyoi/IMG_4305.jpg){ align=left width="300"}
+![Front02](../images/term1/lwyoi/IMG_4305.jpg){ align=left width="45%"}
 
 Through wearing this prosthetic, I decided I don't think the implementation of this idea makes sense. Putting 'horse blinders' on to focus on an activity doesn't really work, but it can represent the idea of having focus, energy, and commitment to follow through on implementing or testing ideas. It also embodies the idea of rest and changing perspective. 
 
 Maithili decided to try my prosthetic to help her focus while reading. She commented that it did help a bit, if you covered the sides. I guess for prototype two, I would need to make sure the sides are better covered so that the tunnel effect actually happens. 
 
-![Maithili01](../images/term1/lwyoi/IMG_4312.jpeg){ align=left width="300" }
-![Maithili02](../images/term1/lwyoi/IMG_4313.jpeg){ align=right width="300" }
+![Maithili01](../images/term1/lwyoi/IMG_4312.jpeg){ align=left width="45%" }
+![Maithili02](../images/term1/lwyoi/IMG_4313.jpeg){ align=right width="45%" }
 
 
 <!-- 
