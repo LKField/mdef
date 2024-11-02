@@ -53,6 +53,10 @@ For this prompt, I looked back at my previous brainstorm session and decided to 
 
 
 
+![Prosthetic2(]https://github.com/user-attachments/assets/2562c26d-0a25-4bab-81a0-f7f4f2f14a25) 
+
+
+
 <!-- 
 Video 01 
 Video 02 
