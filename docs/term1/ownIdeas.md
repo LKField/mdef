@@ -52,9 +52,8 @@ For this prompt, I looked back at my previous brainstorm session and decided to 
 ![Network03](../images/term1/lwyoi/network03.jpg){ align=left width="30%" }
 
 
-
-![Prosthetic2(]https://github.com/user-attachments/assets/2562c26d-0a25-4bab-81a0-f7f4f2f14a25) 
-
+<video src="https://github.com/user-attachments/assets/2562c26d-0a25-4bab-81a0-f7f4f2f14a25" controls="controls" style="max-width: 730px;">
+</video>
 
 
 <!-- 
