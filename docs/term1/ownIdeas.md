@@ -39,8 +39,6 @@ Video 02
 -->
 
 
-
-
 ## Prosthetic 'to become something else (non-human)'
 
 The second prosthetic we were asked to make was inspired by the work of Thomas Thwaites who spoke to our class over video call about his work, specifically about his efforts to become a goat. 
@@ -51,18 +49,20 @@ For this prompt, I looked back at my previous brainstorm session and decided to 
 ![Network02](../images/term1/lwyoi/network02.jpg){ align=left width="30%" }
 ![Network03](../images/term1/lwyoi/network03.jpg){ align=left width="30%" }
 
+The following video contextualizes the network prosthetic as a visualization of the networks that already exist. Nature has so many networks, from mycelium that allows fungi to transfer information, nutrients, and water to bees that use pheromones to communicate across distance. Humans also have systems in place to communicate with one another across distance, but what if we could communicate like fungi? With visible, tangible connections allowing us to see the influence on those in our community when we pull a tread, what could we learn about ourself and those around us? 
 
-<video src="https://github.com/user-attachments/assets/2562c26d-0a25-4bab-81a0-f7f4f2f14a25" controls="controls" style="max-width: 730px;">
-</video>
+<figure markdown="span">
+    <video src="https://github.com/user-attachments/assets/80c882ee-40c1-48df-990f-13cc7cbc51cb" controls="controls" style="max-width: 45%;"></video> 
+    <figcaption></figcaption>
+</figure>
 
-<video src="https://github.com/user-attachments/assets/80c882ee-40c1-48df-990f-13cc7cbc51cb" controls="controls" style="max-width: 730px;">
-</video>
+In the next video, we can see the affects on a single, centralized node when another node takes advantage of the power each individual has. It serves as a reminder to care for our communities and protect the connections we have.
 
+<figure markdown="span">
+    <video src="https://github.com/user-attachments/assets/2562c26d-0a25-4bab-81a0-f7f4f2f14a25" controls="controls" style="max-width: 730px;"></video>
+    <figcaption></figcaption>
+</figure>
 
-<!-- 
-Video 01 
-Video 02 
--->
 
 
 ## Prosthetic 'to judge/be judged' 
@@ -125,6 +125,33 @@ For some reason, I kept coming back to the word, 'commodity' from my list. I kep
 
     [Wikipedia "Commodity"](https://en.wikipedia.org/wiki/Commodity) 
 
+I decided that the way to track how I was doing was to give receipts for each transaction I had. So, my prosthetic for influencing how I was judged was a few pieces of paper: four with personal information like my name, date of birth, former and current addresses, phone numbers, and websites and social media and six blank templates for receipts. I figured that giving out information that is essentially public information in exchange for things that might traditionally be exchanged for money wouldn't work so well when making exchanges with individuals. Corporations who have ways to do things with that information will happily exchange their services for details about ourselves, but individuals don't tend to have much need for that kind of information. So, I made fewer information sheets than I did receipts and how it turned out, my theory was correct. 
+
+
+<div style="page-break-after: always;"></div>
+
+![Receipts](../images/term1/lwyoi/subject/blankReceipts.jpeg){ align=left width="45%" }
+
+![Information](../images/term1/lwyoi/subject/myInfo.jpeg){ align=right width="45%" }
+
+
+Below are the photos of my receipts and the physical items I collected during my time as a subject. 
+
+
+??? abstract "My Prosthetics and Exchanges" 
+
+    | First Exchange Receipt | Second Exchange Receipt | Second Exchange Evidence | 
+    |--------|--------|--------|
+    |![Chiara](../images/term1/lwyoi/subject/receiptChiara.jpg){ align=left } |![Flavio](../images/term1/lwyoi/subject/receiptFlavio.jpg){ align=left } | ![Flavio2](../images/term1/lwyoi/subject/flavio.jpg){ align=left }|
+    | **Third Exchange Receipt** | **Third Exchange Evidence** | **Fourth Exchange Receipt** |
+    | ![Mariana](../images/term1/lwyoi/subject/receiptMariana.jpg){ align=left }| ![Payment](../images/term1/lwyoi/subject/paymentStation.jpg){ align=left } | ![Carlos](../images/term1/lwyoi/subject/receiptCarlos.jpg){ align=left } |
+    | **Fifth Exchange Receipt** | **Fifth Exchange Evidence** | **Sixth Exchange Receipt** |
+    | ![Saúl](../images/term1/lwyoi/subject/receiptSaul.jpg){ align=left }| ![Saúl2](../images/term1/lwyoi/subject/saul.jpg){ align=left }| ![Mateo](../images/term1/lwyoi/subject/receiptMateo.jpg){ align=left } |
+    | **Physical Things I collected** | **Additional things I collected**| |
+    | ![Summary](../images/term1/lwyoi/subject/physicalGoods.jpg){ align=left }| An attempt at being taught the phrase "where is the supermarket?" in Portuguese (I retained none of the phrase) and the promise of a chance to practice Spanish. | |
+
+
+
 <!--
 Video 01 
 Video 02 
@@ -133,3 +160,8 @@ Video 02
 
 ## Reflection
 
+This week was an intense week of recalibrating my definition of 'prosthetic' and re-contextualizing my thoughts about design. In particular, the presentation by Thomas Thwaites was a good reminder to truly embrace the first person perspective of design and to commit fully to experiences. This week felt freeing, by pushing me to break out of the box of my preconceived ideas about design and even this program. 
+
+The detective game, in particular felt freeing for me. I started having conversations with people in more open ways than I might have before, in more normal situations. I have been feeling nervous about my lack of Spanish fluency when it comes to interacting with local communities. With this exercise, there was no way that I was going to be able to communicate what I was hoping to with my knowledge of Spanish, so while this was still a point of anxiety, it gave me permission to enter into interactions with humility and a direct request, in English. Additionally, I have been feeling stuck in my head about a lot of the projects for this course as well as getting bogged down in to-do lists and overthinking. In this way, I think this week was very useful at breaking down my inhibitions and forcing me to act without thinking in a valuable way. I think it is ironic that in my brainstorm notes for how I wanted to be judged, I included wanting to be seen 'as someone who acts on instinct/without overthinking' and yet I had a page full of many notes that could easily be considered overthinking. This week, the speed with which we were expected to prototype required getting out of my head and just starting, just creating.
+
+<!-- For the actual prosthetic for the detective game, it was really interesting to explore the semantics of  -->
