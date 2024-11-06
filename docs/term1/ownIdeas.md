@@ -102,7 +102,7 @@ I am a bad detective, that is what I discovered during this exercise. I started 
     | **15:23 Walking back** | **15:30 Walking back by metro** | |
     | ![Bridge](../images/term1/lwyoi/detective/1523_WalkBack.jpeg){ align=left width="300" }| ![Leaving](../images/term1/lwyoi/detective/1530_WalkBack.jpeg){ align=left width="300" } | |
 
-??? abstract "Audio and Movie Notes" 
+??? abstract "Audio and Video Notes" 
     | | |
     |------------------------|--------------------------------|
     | **15:01 First Audio Note** <audio controls src="../../audio/1501_detectiveNote.mp3"></audio> **15:20 Second Audio Note** <audio controls src="../../audio/1520_detectiveNote.mp3"></audio> **15:21 Third Audio Note** <audio controls src="../../audio/1521_detectiveNote.mp3"></audio> | **15:19 Brief Video on walk back** ![WalkBack](../video/1519_WalkingBack.MOV)|
