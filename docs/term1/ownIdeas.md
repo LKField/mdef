@@ -32,7 +32,7 @@ Maithili decided to try my prosthetic to help her focus while reading. She comme
 ![Maithili01](../images/term1/lwyoi/IMG_4312.jpeg){ align=left width="45%" }
 ![Maithili02](../images/term1/lwyoi/IMG_4313.jpeg){ align=right width="45%" }
 
-![Video01](../video/pros1vid1.mp4){ align=left width="30%" }
+![Video01](../video/pros1_vid1.mp4){ align=left width="30%" }
 
 <figure markdown="span">
     <video src="" controls="controls" style="max-width: 45%;"></video> 
