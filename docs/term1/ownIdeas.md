@@ -34,9 +34,9 @@ Maithili decided to try my prosthetic to help her focus while reading. She comme
 
 
 
-<video src="https://github.com/user-attachments/assets/de19f899-b9ae-4273-ba3f-4e5f22c7bdd6" controls="controls" style="max-width: 45%;"></video> 
+<video src="https://github.com/user-attachments/assets/de19f899-b9ae-4273-ba3f-4e5f22c7bdd6" controls="controls" style="max-width: 49%;"></video> 
 
-<video src="https://github.com/user-attachments/assets/c18b4050-ce65-44ec-be63-add802256668" controls="controls" style="max-width: 45%;"></video> 
+<video src="https://github.com/user-attachments/assets/c18b4050-ce65-44ec-be63-add802256668" controls="controls" style="max-width: 49%;"></video> 
 
 
 ## Prosthetic 'to become something else (non-human)'
@@ -150,13 +150,6 @@ Below are the photos of my receipts and the physical items I collected during my
     | **Physical Things I collected** | **Additional things I collected**| |
     | ![Summary](../images/term1/lwyoi/subject/physicalGoods.jpg){ align=left }| An attempt at being taught the phrase "where is the supermarket?" in Portuguese (I retained none of the phrase) and the promise of a chance to practice Spanish. | |
 
-
-
-<!--
-Video 01 
-Video 02 
-
--->
 
 ## Reflection
 
