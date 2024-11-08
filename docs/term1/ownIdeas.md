@@ -32,9 +32,11 @@ Maithili decided to try my prosthetic to help her focus while reading. She comme
 ![Maithili01](../images/term1/lwyoi/IMG_4312.jpeg){ align=left width="45%" }
 ![Maithili02](../images/term1/lwyoi/IMG_4313.jpeg){ align=right width="45%" }
 
+
+
 <video src="https://github.com/user-attachments/assets/de19f899-b9ae-4273-ba3f-4e5f22c7bdd6" controls="controls" style="max-width: 45%;"></video> 
 
-<video src="https://github.com/user-attachments/assets/5d4f1fc5-616f-47aa-92a6-d10999adf7e7" controls="controls" style="max-width: 45%;"></video> 
+<video src="https://github.com/user-attachments/assets/c18b4050-ce65-44ec-be63-add802256668" controls="controls" style="max-width: 45%;"></video> 
 
 
 ## Prosthetic 'to become something else (non-human)'
