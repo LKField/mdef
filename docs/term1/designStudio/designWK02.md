@@ -3,6 +3,10 @@
 <!-- ## Personal Intervention  -->
 
 
+
+https://github.com/user-attachments/assets/56493d16-5cc0-495d-bd19-8bb8cd8001d1
+
+
 ## Class Activity
 
 For the class activity, we talked in groups about prototypes we have made in the past. Then we took our partner's prototype experiences and reconfigured them into one of the other prototype roles and made a very quick mockup using random materials we had brought from home. 
