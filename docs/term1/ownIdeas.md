@@ -59,7 +59,7 @@ The following video contextualizes the network prosthetic as a visualization of 
 In the next video, we can see the affects on a single, centralized node when another node takes advantage of the power each individual has. It serves as a reminder to care for our communities and protect the connections we have.
 
 <figure markdown="span">
-    <video src="https://github.com/user-attachments/assets/2562c26d-0a25-4bab-81a0-f7f4f2f14a25" controls="controls" style="max-width: 730px;"></video>
+    <video src="https://github.com/user-attachments/assets/2562c26d-0a25-4bab-81a0-f7f4f2f14a25" controls="controls" style="max-width: 100%;"></video>
     <figcaption></figcaption>
 </figure>
 
