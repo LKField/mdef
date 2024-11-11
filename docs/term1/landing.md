@@ -3,7 +3,7 @@
 !!! abstract "Course Details"
     **Name:** Landing 
 
-    **Dates:** 1 October to 3 October 2024 
+    **Dates:** 01 October to 03 October 2024 
 
     **Faculty:** Guillem Camprodon, Jana Tothill Calvo, Roger Guilemany, Josep Marti Elias, Milena Calvo Juarez, & Pablo Zuloaga Betancourt
 

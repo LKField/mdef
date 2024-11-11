@@ -3,7 +3,7 @@
 === "Design Space Iteration 01"
     
     !!! abstract "Date" 
-        8 of October 2024 
+        08 October 2024 
 
     ![DS01](../../images/term1/designstudio/DesignSpaceOverview_01.png){ align=left }
 
@@ -14,7 +14,7 @@
 === "Design Space Iteration 02" 
 
     !!! abstract "Date" 
-        9 of October 2024 
+        09 October 2024 
 
     ![DS02](../../images/term1/designstudio/DesignSpaceOverview_02.jpeg){ align=left }
 
@@ -25,7 +25,7 @@
 === "Design Space Iteration 03" 
 
     !!! abstract "Date" 
-        17 of October 2024 
+        17 October 2024 
 
     ![DS03](../../images/term1/designstudio/DesignSpaceOverview_03.jpeg){ align=left }
 

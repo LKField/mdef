@@ -3,7 +3,7 @@
 !!! abstract "Course Details"
     **Name:** Design Studio 01 - Intro Week 
 
-    **Dates:** 7 October to 10 October 2024 
+    **Dates:** 07 October to 10 October 2024 
 
     **Faculty:** Jana Tothill Calvo & Roger Guilemany
 
