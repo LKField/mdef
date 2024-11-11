@@ -1,5 +1,13 @@
 # Living With Your Own ideas 
 
+!!! abstract "Course Details"
+    **Name:** Living With Your Own Ideas
+
+    **Dates:** 28 October to 31 October 2024 
+
+    **Faculty:** Saúl Baeza
+
+
 ## Prosthetic 'to become the best version of yourself' 
 
 I started by trying to figure out what "the best version of myself" would even mean. I set a timer for 10 minutes, put headphone on with some Scottish folk music and just wrote everything that came to mind. 

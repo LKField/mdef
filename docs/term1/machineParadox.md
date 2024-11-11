@@ -1,5 +1,12 @@
 # Machine Paradox 
 
+!!! abstract "Course Details"
+    **Name:** Machine Paradox
+
+    **Dates:** 15 October to 18 October and 22 October to 25 October 2024 
+
+    **Faculty:** Santiago Fuentemilla Garriga, Guillem Camprodon, Daniel Mateos, Josep Marti Elias, & Adai Surinach
+
 The Machine Paradox was a two week seminar on the idea of understanding machines. We took apart broken, obsolete, or otherwise discarded machines, deeply examined how they work or don't, and then reconfigured them to make our own 'almost useless machines'. 
 
 ## Week One: Taking Machines Apart 

@@ -1,5 +1,10 @@
 # Fundamentals of Digital Fabrication 
 
+!!! abstract "Course Details"
+    **Name:** Fundamentals of Digital Fabrication  
+
+    **Faculty:** Dídac Torrent, Santiago Fuentemilla Garriga, Daniel Mateos, Josep Marti Elias, & Adai Surinach
+
 ## Session 01 
 
 !!! abstract "Session 1" 

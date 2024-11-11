@@ -1,5 +1,12 @@
 # Design Studio 01 - Second Session 
 
+!!! abstract "Course Details"
+    **Name:** Design Studio 01 - Session Two 
+
+    **Dates:** 21 October 2024 
+
+    **Faculty:** Jana Tothill Calvo & Roger Guilemany
+
 ## Personal Intervention 
 
 For my first design intervention, I wanted to examine my relationship with the clothes I own. I often claim that 'most' of my clothes are from thrift stores or homemade, but I have never looked closely at my closet to examine that claim. Also, I think of myself as a clothing minimalist. I traveled for nearly 4 months with only a 35L backpack full of clothes and while I got sick of the few clothing items I had with me, I managed to do it without much difficulty.

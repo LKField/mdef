@@ -1,5 +1,12 @@
 # Landing Week 
 
+!!! abstract "Course Details"
+    **Name:** Landing 
+
+    **Dates:** 1 October to 3 October 2024 
+
+    **Faculty:** Guillem Camprodon, Jana Tothill Calvo, Roger Guilemany, Josep Marti Elias, Milena Calvo Juarez, & Pablo Zuloaga Betancourt
+
 ## Meeting the Class 
 
 Our first few days of classes were focused on learning more about the program, meeting our teachers, along with the other students, and getting acquainted with the place where we will be designing, discussing, and making for the next 10 months. 
