@@ -27,8 +27,9 @@ So, our group all decided to examine and test our relationship with our phone ba
 
 ## Group Design Intervention 
 
+
 <figure markdown="span">
-    <video src="" controls="controls" style="max-width: 100%;"></video>
+    <video src="https://github.com/user-attachments/assets/8b257dcf-efc2-4dc3-9b80-4bbc1e86ad78" controls="controls" style="max-width: 100%;"></video>
     <figcaption></figcaption>
 </figure>
 
