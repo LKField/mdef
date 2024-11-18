@@ -13,17 +13,19 @@ Unfortunately, I was sick during this session. I met with a group of six people 
 
 We discussed a lot about very different ideas, from alternative energy sources to how to change habits to retrofitting, repairing, reusing materials and much more. 
 
-![CollectiveQuestions](../../images/term1/designstudio/CollectiveDS_Questions.jpg){ align=right width=100% }
+![Collective Design Space](../../images/term1/designstudio/CollectiveDS_All.jpg){ align=left width=100% }
+
+
 
 Ultimately, the group I ended up with came up with three questions we wanted to address. From there we came up with an idea to try to test out methods of making my 2019 iPhone 11's battery last longer. I have been thinking of getting a new phone because this one is old, with a battery that runs down very quickly. However, I don't want to buy a new phone. I don't want to spend the money, I don't want to contribute more to the environment impact of of phone, and if I am being honest, because I like the feeling of proving that I can do it. 
 
+![CollectiveQuestions](../../images/term1/designstudio/CollectiveDS_Questions.jpg){ align=right width=100% }
 ![Phone Emissions](../../images/term1/designstudio/PhoneEmissions.jpg){ align=left width=50% }
 
-I saw this graphic at an exhibit in Washington, DC in May and it has stuck in my head since then. While it doesn't have a source to fact check it, I think the general concept feels accurate even if the number is not substantiated. 
+I have been thinking a lot about this graphic at an exhibit in Washington, DC in May. While it doesn't have a source to fact check it, I think the general concept feels accurate even if the number is not substantiated. So, it has become my personal goal to keep my phone, ideally one year past the point when I first started thinking I might need to replace it, which was before I moved to Barcelona to start this program. My logic was that if my phone stopped being functional while I was over here, it would complicate the progress of getting a new one because it may be somewhat challenging to get it to talk to a US network once I went home. However, now my goal is instead, to make this phone last at least through the end of this program. 
 
-So, our group all decided to examine and test our relationship with our phone batteries by trying different strategies and commenting on how it changed our habits and relationships with our phones as well. 
+So, after all our discussions about retrofitting technology, alternative sources of energy, and examining habits, our group decided to all examine and test our relationship with our phone batteries by trying different strategies to make the daily battery last longer then it normally does. We would use this as a chance to explore our relationship with our devices and then also would attempt to make a solar charging system for my phone so that I could test what it would be like to power my phone only off of 'renewable' resources. 
 
-<!-- Photo of Collective Design Space  -->
 
 ## Group Design Intervention 
 
