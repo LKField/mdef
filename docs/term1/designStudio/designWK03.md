@@ -23,6 +23,8 @@ I saw this graphic at an exhibit in Washington, DC in May and it has stuck in my
 
 So, our group all decided to examine and test our relationship with our phone batteries by trying different strategies and commenting on how it changed our habits and relationships with our phones as well. 
 
+<!-- Photo of Collective Design Space  -->
+
 ## Group Design Intervention 
 
 <figure markdown="span">
