@@ -115,6 +115,9 @@ Since our intention was to propose a way to encode this AI system of community g
 
 The small piece of this grand idea that we were able to, at least somewhat, achieve was inputting a question about what might be available in a community garden and then showing a picture and asking if any of the suggested fruits or vegetables were included in the picture. 
 
+<video src="https://github.com/user-attachments/assets/e0970369-a601-4505-973f-5b1ce7edbb6e" controls="controls" style="max-width: 100%;">
+</video>
+
 <!-- Video of our demo  -->
 
 ### Presentation and Article 
