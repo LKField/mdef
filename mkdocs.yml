@@ -13,16 +13,16 @@ nav:
   - About: about/me.md
     # - Reading: about/reading.md
   - Term 1:
-      - Landing: term1/landing.md
       - Design Studio 01:
         - Intro Week: term1/designStudio/designWK01.md
         - Session Two: term1/designStudio/designWK02.md
         - Session Three: term1/designStudio/designWK03.md
         - Design Space: term1/designStudio/designSpace.md
+      - Landing: term1/landing.md
       - Fundamentals of Digital Fabrication: term1/digfab.md
       - Machine Paradox: term1/machineParadox.md
       - Living With Your Own Ideas: term1/ownIdeas.md
-      - Extended Intellignces: term1/extendedIntelligence.md
+      - Extended Intelligences: term1/extendedIntelligence.md
     
 
 

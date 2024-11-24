@@ -1,7 +1,7 @@
-# Extended Intelligence 
+# Extended Intelligences 
 
 !!! abstract "Course Details"
-    **Name:** Extended Intelligence 
+    **Name:** Extended Intelligences 
 
     **Dates:** 05 November to 07 November and 12 November to 15 November 2024 
 
