@@ -118,15 +118,15 @@ The small piece of this grand idea that we were able to, at least somewhat, achi
 <video src="https://github.com/user-attachments/assets/e0970369-a601-4505-973f-5b1ce7edbb6e" controls="controls" style="max-width: 100%;">
 </video>
 
-<!-- Video of our demo  -->
-
 ### Presentation and Article 
 
 The presentation we gave about our project and the article we wrote are linked below. In these documents, you can find more about what we did, what we learned, and what we achieved. 
 
 <!-- ![Article](../images/term1/extended/Documentation.pdf){ align=left width=100% }
 
-![Alt text](../images/term1/extended/Documentation.pdf){ type=application/pdf style="min-height:25vh;width:100%" } -->
+![Alt text](../images/term1/extended/Documentation.pdf){ type=application/pdf style="min-height:25vh;width:100%" } 
+
+TODO: Figure out how to actually embed these -->
 
 [Article](https://drive.google.com/file/d/1a3-h66_XR-Iy2trC186y7mNOoB0CWLuA/view?usp=sharing){:target="_blank"}
 
