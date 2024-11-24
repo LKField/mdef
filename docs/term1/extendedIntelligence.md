@@ -13,7 +13,7 @@ The first three days of Extended Intelligences were very challenging for me beca
 
 So, I will share what I've been listening to to try to stay inspired.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2GLGdJWPiHK98xzuMAMXzk?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border: 0; width:100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2205330591/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1798956047/transparent=true/" seamless><a href="https://gracepetrie.bandcamp.com/album/build-something-better">Build Something Better by Grace Petrie</a></iframe>
 
 We started by situating ourselves in the context of Artificial Intelligence Systems. We tried to define the term 'Artificial Intelligence' and addresses the idea that it is many things and complicated to define. Within this complex context, the language we use to talk about AI matters. 
 
@@ -100,7 +100,7 @@ So, now on to week two where we used AI to try to imagine a better future.
 Once we started using AI in week two, I realized very quickly that I needed to relearn how to talk to a computer. We were writing code to run models and I had to completely shift my relationship with code and how I was interacting with the model. Inputting information as if I was talking to a human became important and remembering that I didn't have to tell the program how to process my question or what to do with the output was a habit I had to break. 
 
 
-![Description](../../images/term1/extended/decription.png){ align=left width=100% }
+![Description](../images/term1/extended/decription.png){ align=left width=100% }
 
 We struggled to find a way to use AI for this vision. In some ways, this system could be implemented with simple sensor networks and an app, so we had a challenge to figure out how to fulfil the assignment while staying true to our vision of this system. 
 
@@ -118,6 +118,16 @@ The small piece of this grand idea that we were able to, at least somewhat, achi
 <!-- Video of our demo  -->
 
 ### Presentation and Article 
+
+The presentation we gave about our project and the article we wrote are linked below. In these documents, you can find more about what we did, what we learned, and what we achieved. 
+
+<!-- ![Article](../images/term1/extended/Documentation.pdf){ align=left width=100% }
+
+![Alt text](../images/term1/extended/Documentation.pdf){ type=application/pdf style="min-height:25vh;width:100%" } -->
+
+[Article](https://drive.google.com/file/d/1a3-h66_XR-Iy2trC186y7mNOoB0CWLuA/view?usp=sharing){:target="_blank"}
+
+[Presentation](https://docs.google.com/presentation/d/1yfB8hbcEqHYPDVfYIKb6_ey23chUatqtnE8GyRNOMGA/edit?usp=sharing){:target="_blank"}
 
 <!-- Embed presentation and article  -->
 
