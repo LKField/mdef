@@ -17,6 +17,16 @@ Here is where I will document my work in the Fundamentals of Digital Design clas
 !!! abstract "Session 2" 
     16 October 2024: Introduction to Arduino IDE and Barduino
 
+
+
+![Pinout](../images/term1/digfab/Barduino%20Pinout.png){ align=left width=25% }
+
+We had an introduction to the Barduino and the Arduino IDE, setting up basic functionality of using the ESP32 with Arduino. 
+
+<br>
+<br>
+<br>
+
 ## Session 03 
 
 !!! abstract "Session 3" 
@@ -30,18 +40,34 @@ Here is where I will document my work in the Fundamentals of Digital Design clas
 ## Session 05 
 
 !!! abstract "Session 5"
-    06 November 2024: Casting and mould design theory
+     13 November 2024: CNC milling
+
+
 
 ## Session 06 
 
 !!! abstract "Session 6"
-    13 November 2024: Networking with microcontrollers
+    19 November 2024: Casting and mould design theory
+
+![MakingBoxes](../images/term1/digfab/IMG_4591.jpeg){ align=left width=30% }
+![Filled](../images/term1/digfab/IMG_4594.jpeg){ align=left width=30% }
+![Silicone](../images/term1/digfab/IMG_4610.jpeg){ align=left width=30% }
 
 ## Session 07 
 
 !!! abstract "Session 7"
-    20 November 2024: CNC milling
+   20 November 2024: Networking with microcontrollers
 
+![NetworkedBarduino](../images/term1/digfab/networked.gif){ align=left width=30% }
+
+During this session we connected our Barduinos to the wifi and made our own local network of devices talking to each other. We could remotely change the colors of the RGB LEDs on the boards of other people in the class which led to a fair amount of hilarity. 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Session 08 
 
