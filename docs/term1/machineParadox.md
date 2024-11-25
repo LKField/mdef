@@ -70,8 +70,12 @@ Our group started by brainstorming about ideas and quickly settled on a general 
 
 Below is the resulting video of our machine and the presentation about our design process is linked as well. [Slides Presentation](https://docs.google.com/presentation/d/1xWSH7AEOs1MPdsh6HLzKN5DltwJdVjIe4HFIWQEe8Rs/edit?usp=sharing)
 
-<video src="https://github.com/user-attachments/assets/66226c49-ab8b-48f2-9bca-f763ef88a4b3" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/user-attachments/assets/02d576b6-13a1-460c-b224-8d8263ea6cc2" controls="controls" style="max-width: 50%;">
 </video>
+
+
+
+
 
 
 
