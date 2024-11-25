@@ -44,6 +44,9 @@ theme:
   features:
     - navigation.instant
     - content.tabs.link
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
 
 # added markdown extensions
 markdown_extensions:
@@ -70,6 +73,7 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.details
+
 
 # plugins:
 #   - glightbox
