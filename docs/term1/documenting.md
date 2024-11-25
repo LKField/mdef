@@ -74,7 +74,9 @@ It was helpful to add a spellchecker to Visual Studio Code so that I could catch
 Additionally, I learned a useful way to embed video into these documents is to directly paste the video into the GitHub page and then build the HTMl class around it. For example, this allows the video have controls and sound which were not working as well when I put in a relative path to the video file in my repository. 
 
 ``` html
-<video src="https://github.com/user-attachments/assets/e0970369-a601-4505-973f-5b1ce7edbb6e" controls="controls" style="max-width: 100%;"></video>
+<video 
+    src="https://github.com/user-attachments/assets/e0970369-a601-4505-973f-5b1ce7edbb6e" controls="controls" style="max-width: 100%;">
+</video>
 ```
 
 I am continuing to learn more and expect that this webpage will keep changing, growing, and becoming more and more personalized as the course goes on. 
