@@ -74,6 +74,11 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.details
 
+extra_css:
+  - style.css
+
+extra_javascript:
+  - extra.js
 
 # plugins:
 #   - glightbox
