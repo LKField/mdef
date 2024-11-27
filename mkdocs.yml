@@ -33,9 +33,9 @@ theme:
     # custom_dir: overrides
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    scheme: slate
-    primary: deep purple
-    accent: orange
+    scheme: slate         # slate = #1d2129
+    primary: deep purple  # deep purple = #7e56c1
+    accent: orange        # orange = #ff9108
   font:
     # See available fonts at https://fonts.google.com/
     text: Roboto

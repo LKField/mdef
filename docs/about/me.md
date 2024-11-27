@@ -8,7 +8,7 @@ I studied Electrical Engineering for my undergrad degree at Northeastern Univers
 
 I am excited to see where this journey takes me! 
 
-**Check out some of my projects prior to this course**
+**Check out some of my prior projects**
 
 [lucretiafield.com](https://lucretiafield.com/){ .md-button target=blank}
 [FieldCrafting](https://www.instructables.com/member/FieldCrafting/){ .md-button target=blank}
