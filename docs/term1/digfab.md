@@ -40,7 +40,7 @@ We had an introduction to the Barduino and the Arduino IDE, setting up basic fun
 ## Session 05 
 
 !!! abstract "Session 5"
-     13 November 2024: CNC milling
+    13 November 2024: CNC milling
 
 
 
@@ -56,7 +56,9 @@ We had an introduction to the Barduino and the Arduino IDE, setting up basic fun
 ## Session 07 
 
 !!! abstract "Session 7"
-   20 November 2024: Networking with microcontrollers
+    20 November 2024: Networking with microcontrollers
+
+    Faculty: Daniel Mateos & Josep Marti Elias
 
 ![NetworkedBarduino](../images/term1/digfab/networked.gif){ align=left width=30% }
 
@@ -72,7 +74,22 @@ During this session we connected our Barduinos to the wifi and made our own loca
 ## Session 08 
 
 !!! abstract "Session 8"
-    27 November 2024: Modular Design 
+    27 November 2024: TouchDesigner 
+
+    Faculty: Tatiana Butts
+
+![TouchDesigner Color](../images/term1/digfab/Colorful.gif){ align=left width=42% }
+
+![TouchDesigner Color](../images/term1/digfab/MotionCapture.gif){ align=right width=50% }
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<!-- 27 November 2024: Modular Design  -->
 
 ## Session 09
 
