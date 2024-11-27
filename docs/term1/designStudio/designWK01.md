@@ -32,9 +32,24 @@ I sketched up a quick diagram of what I will have access to here. I expect this 
 
 ## Design Space 
 
-Check out my Design Space which I will develop during the term to reflect my interests, design process, and trajectory in the course. The Design Space serves as a documentation and navigation tool for organizing, situating, and reflecting upon my personal design practice throughout the course. 
+We started working on our personal Design Spaces: visualizations of where our design interests, references, and progress. I will develop this space throughout the course to reflect my interests, design process, and trajectory. The Design Space serves as a documentation and navigation tool for organizing, situating, and reflecting upon my personal design practice throughout the course. 
 
-[Design Space](../designStudio/designSpace.md){ .md-button }
+<br>
+
+<figure markdown="span"> [Design Space](../designStudio/designSpace.md){ .md-button } </figure>
+
+<!-- <figure markdown="span">  
+    <div style="display:flex; width: 60%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
+        <a style="box-shadow: 0px 0px 0px 0px #181040; display: flex; flex-direction: row; align-items: flex-start; width: 100%; height: 100%; object-fit: cover; background-color: #CABFFF" href="../designStudio/designSpace.md)">
+            <div style="display:flex; align-content: center; justify-content:center; width: 50%">
+            <img src="../../../images/term1/designstudio/DesignSpaceOverview_01.png"></img>
+            </div>
+            <div style="padding: 10px; gap: 10px; width: 50%; color: #181040">
+            Check out my Design Space. 
+            </div>
+        </a>
+    </div> 
+</figure> -->
 
 
 ## Atlas of Weak Signals
@@ -50,4 +65,7 @@ In our class, we started by doing an example as a whole class to demonstrate how
 
 Below is my audio reflection from the end of Week 3 of MDEF and after one week of Design Studio.
 
+<br>
+<figure markdown="span">
   <audio controls src="../../../audio/DesignStudioReflection1.mp3"></audio>
+</figure>

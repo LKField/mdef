@@ -69,11 +69,16 @@ My partner had been researching gig workers, specifically within the food delive
 
 Check out my Design Space 
 
-[Design Space](../designStudio/designSpace.md){ .md-button }
+<br>
+
+<figure markdown="span"> [Design Space](../designStudio/designSpace.md){ .md-button } </figure>
+
 
 ## Reflection 
 
 Below is my audio reflection after the second session of Design Studio.
 
+<br>
+<figure markdown="span">
   <audio controls src="../../../audio/DesignStudioReflection2.mp3"></audio>
-
+</figure>

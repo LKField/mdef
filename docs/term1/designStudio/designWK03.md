@@ -66,11 +66,16 @@ It took a while for me to get the shortcuts set up how I wanted them to work. So
 
 Check out my Design Space. I am in the process of turning my physical design space into a digital one so that I can more easily update it. It is still very much in process, I am sure I will continue to reorganize it and update it going forward. 
 
-[Design Space](../designStudio/designSpace.md){ .md-button }
+<br>
+
+<figure markdown="span"> [Design Space](../designStudio/designSpace.md){ .md-button } </figure>
 
 ## Reflection 
 
-Below is my audio reflection after the second session of Design Studio.
+Below is my audio reflection after the third session of Design Studio.
 
-  <audio controls src="../../../audio/DesignStudioReflection3.mp3"></audio>
+<br>
+<figure markdown="span">
+    <audio controls src="../../../audio/DesignStudioReflection3.mp3"></audio>
+</figure>
 
