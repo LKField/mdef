@@ -15,8 +15,9 @@ Specifically, I am approaching this question from the angle of consumerism and w
 
 We went through many iterations of what the intervention would look like o the point where we ended up running a small discussion group that quickly go dubbed an "art therapy session". 
 
+
 <figure markdown="span">
-    <video src="https://github.com/user-attachments/assets/0a03c20f-e20b-4e57-b2d7-02fa7fb7cb3e" controls="controls" style="max-width: 100%;"></video>
+    <video src="https://github.com/user-attachments/assets/49d8ed59-f1f8-440f-ad92-e462fbde03b1" controls="controls" style="max-width: 100%;"></video>
     <figcaption></figcaption>
 </figure>
 
