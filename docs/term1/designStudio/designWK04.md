@@ -1,4 +1,4 @@
-# Design Studio 01 - Third Session 
+# Design Studio 01 - Fourth Session 
 
 !!! abstract "Course Details"
     **Name:** Design Studio 01 - Session Four 
@@ -23,12 +23,20 @@ We went through many iterations of what the intervention would look like o the p
 
 In this intervention, the way we asked the question probably had a large impact on the answers we received, but for the most part, as I expected the things that people said they valued, formed a relationship with, things that meant something to them, were objects either related to experiences or activities, or with sentimental or emotional ties. 
 
-Many of the responses we got had to do with the meaning of the object rather than the monetary value. Some of the answer were about age or legacy of an object, something old that ties people to another person or a different time in their personal history. This connection to memory was important for many people. Another category we found was objects related to activities, things used to make experiences happen. In some of these cases, the specific object, was not the important thing, but the experience it allowed. For some, the monetary value was important, but often even that was tied more to symbolism than the actual monetary worth of the item. Some objects were deemed too important to bring on a trans-Atlantic move to Barcelona. Some important, meaningful objects were collectively owned, such as a beach or a star-filled night sky. Because of how we framed the question, it makes sense that these were the kinds of objects people mentioned: objects that are meaningful and impactful rather then just expensive, useful, or necessities. 
+!!! quote "Why were the objects important to people?"
+    * for their emotional value rather than their monetary value
+    * because of memories, the object itself was a conduit to another time, being, or place 
+    * because of the activity they allow someone to do, the experience they have using the object 
+    * for the monetary value, but because of what that high sticker price means emotionally rather than financially 
+    * because they belong to everyone and can provide a collective experience when shared 
+    * because the object is old, it is tied to legacy
+
+<!-- Many of the responses we got had to do with the meaning of the object rather than the monetary value. Some of the answer were about age or legacy of an object, something old that ties people to another person or a different time in their personal history. This connection to memory was important for many people. Another category we found was objects related to activities, things used to make experiences happen. In some of these cases, the specific object, was not the important thing, but the experience it allowed. For some, the monetary value was important, but often even that was tied more to symbolism than the actual monetary worth of the item. Some objects were deemed too important to bring on a trans-Atlantic move to Barcelona. Some important, meaningful objects were collectively owned, such as a beach or a star-filled night sky. Because of how we framed the question, it makes sense that these were the kinds of objects people mentioned: objects that are meaningful and impactful rather then just expensive, useful, or necessities.  -->
 
 I think for me, the next step in answer my questions of consumerism would be to examine how more mundane, everyday objects, the disposable ones, the unimportant ones, can start to be viewed as more valuable and worth holding onto, worth viewing with meaning and reverence. 
 
 !!! question 
-    * How can objects we view as disposable become treasured emotional objects that we treat with care and don't seek to replace or change or discard? 
+    How can objects we view as disposable become treasured emotional objects that we treat with care and don't seek to replace, change, or discard? 
 
 Since working on this intervention and discussing the ideas I have with friends and family, both inside and outside of the program, I have even more questions along this line of thinking that I want to explore more. 
 
@@ -53,6 +61,70 @@ As a continuation of my first collective intervention, I wanted to test what a d
 
 In thinking through this personal intervention, I realized that there may *not have not been a single day in approximately 10 years that I have not at least once during the day touched a smartphone*. That realization felt scary and upsetting to me. Now I can say that at least once, there has been more than a 24 hour period where I did not directly use a smartphone or laptop. Somehow that feels freeing. 
 
+<!-- Slideshow container -->
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <img src="../../../images/term1/designstudio/noPhone/DSC07302.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="../../../images/term1/others/DSC07264.JPG" style="width:100%">
+  </div>
+<!--   <div class="mySlides fade">
+    <img src="../../../images/term1/others/DSC07257.JPG" style="width:100%">
+  </div> -->
+
+<!--   <div class="mySlides fade">
+    <img src="../../../images/term1/others/DSC07265.JPG" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="../../../images/term1/others/DSC07267.JPG" style="width:100%">
+  </div> -->
+
+  <div class="mySlides fade">
+        <img src="../../../images/term1/designstudio/noPhone/IMG_4619.jpeg" style="width:32%">
+        <img src="../../../images/term1/designstudio/noPhone/IMG_4621.jpg" style="width:32%">
+        <img src="../../../images/term1/designstudio/noPhone/IMG_4626.jpeg" style="width:32%">
+
+  </div>
+
+<!--   <div class="mySlides fade">
+    <img src="../../../images/term1/others/DSC07273.JPG" style="width:100%">
+  </div> -->
+
+  <div class="mySlides fade">
+    <img src="../../../images/term1/designstudio/noPhone/IMG_4622.jpeg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="../../../images/term1/designstudio/noPhone/IMG_4625.png" style="width:33%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="../../../images/term1/designstudio/noPhone/IMG_4629.jpeg" style="width:100%">
+  </div>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+    <span class="dot" onclick="currentSlide(1)"></span>
+    <span class="dot" onclick="currentSlide(2)"></span>
+    <span class="dot" onclick="currentSlide(3)"></span>
+    <span class="dot" onclick="currentSlide(4)"></span>
+    <span class="dot" onclick="currentSlide(5)"></span>
+    <span class="dot" onclick="currentSlide(6)"></span>
+    <!-- <span class="dot" onclick="currentSlide(7)"></span>
+    <span class="dot" onclick="currentSlide(8)"></span>
+    <span class="dot" onclick="currentSlide(9)"></span> -->
+</div>
+
 
 More will come as I fill out the process of this intervention more and reflect more fully on the experience. 
 
@@ -73,5 +145,5 @@ Below is my audio reflection after the fourth session of Design Studio.
 
 <br>
 <figure markdown="span">
-    <audio controls src="../../../audio/DesignStudioReflection3.mp3"></audio>
+    <audio controls src="../../../audio/DesignStudioReflection4.mp3"></audio>
 </figure>
