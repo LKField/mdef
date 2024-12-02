@@ -97,6 +97,16 @@ After the lecture, we went to L'Hospitalet de Llobregat to visit the collective 
 ![Description](../images/term1/others/IMG_4605.jpeg){ align=left width=22% }
 ![Description](../images/term1/others/IMG_4608.jpeg){ align=left width=29% }
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 Marzia talked about her work with fungi and the various things she has tried to bring her life and her design practice closer to her values of working with mycelium more as a collaborator than as a material or a tool. 
 
 ## Mutan Monkey 
