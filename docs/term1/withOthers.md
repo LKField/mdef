@@ -116,7 +116,7 @@ On the third day of the course, we visited [Mutan Monkey](https://www.mutanmonke
 Laura gave a lecture at Mutan Monkey about Agency Situated Epistemology. She suggested that fiction, as a broad concept, not just literature can be a critical tool to speculate about potential futures and transform the present. This tied nicely into our discussions about Design Fiction during Extended Intelligences, although Laura took it to another level. She suggested that we all live in fictions created by the social narrative we operate in. These preverse fictions that we allow to structure our lives can cause lots of harm and we barely recognize them as fiction.
 
 !!! question
-    * In the cycle of fiction shaping reality and reality shaping fiction, how much does the fiction we write about the past dictate our future by setting the past in stone from which we so often look for inspiration? How do we look back at the non-literature fictions we tell about history and then write those pasts such that they influence our present? 
+    In the cycle of fiction shaping reality and reality shaping fiction, how much does the fiction we write about the past dictate our future by setting the past in stone from which we so often look for inspiration? How do we look back at the non-literature fictions we tell about history and then write those pasts such that they influence our present? 
 
 During our visit to Mutan Monkey, I was performing a personal intervention to experience what a 24 hour period without using an internet connected device with a user interface would be like. More about that project can be found below. 
 
