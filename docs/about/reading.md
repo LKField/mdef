@@ -23,6 +23,11 @@ I have come to realize that there is a lot of unassigned content I would like to
 
 ## Videos/Audio 
 
+All Watched over by Machines of Living Grade - Adam Kurtis 
+Coded Bias - Joy B. 
+Goodpiepal 
+
+
 ## Organizations 
 
 
