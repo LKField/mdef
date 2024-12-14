@@ -9,7 +9,6 @@
 
 
 
-
 <iframe title='World population' src='https://www.theworldcounts.com/embeds/counters/8?background_color=white&color=black&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=14' style='border: none' height='100' width='100%'></iframe>
 
 ## Growing Things
