@@ -183,7 +183,7 @@ The information Arnau gave us about degrowth, mutual aid, and changing perspecti
 
 I found myself, as with ever other session in this week, with many questions and feelings swirling around by brain. 
 
-!!! questions 
+!!! question 
     * How do you maintain a sustainable relationship with creation and action? How do you keep from getting overwhelmed by everything?
     * Do people actually value free things as Robin Wall Kimmerer (and many others including Arnau) suggests? Is it a question of scale? Can people on a global scale value gifts and things freely given or is the nature of globalization to create structures where we want to hoard, to take too much, to exchange some form of 'tangible' value for things? 
 
