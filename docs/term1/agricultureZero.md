@@ -66,33 +66,24 @@ Some of the photos I collected on the walk are below.
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
-    <img src="../../images/term1/agriculture/IMG_4802.jpeg" style="width:100%">
+    <img src="../../images/term1/agriculture/IMG_4802.jpeg" style="width:49%">
+    <img src="../../images/term1/agriculture/IMG_4827.jpeg" style="float:right;width:49%">
   </div>
 
   <div class="mySlides fade">
-    <img src="../../images/term1/agriculture/IMG_4827.jpeg" style="width:100%">
+    <img src="../../images/term1/agriculture/IMG_4803.jpeg" style="width:49%">
+    <img src="../../images/term1/agriculture/IMG_4804.jpeg" style="float:right;width:49%">
   </div>
 
   <div class="mySlides fade">
-    <img src="../../images/term1/agriculture/IMG_4803.jpeg" style="width:100%">
+    <img src="../../images/term1/agriculture/IMG_4807.jpeg" style="width:49%">
+    <img src="../../images/term1/agriculture/IMG_4819.jpeg" style="float:right;width:49%">
   </div>
 
   <div class="mySlides fade">
-    <img src="../../images/term1/agriculture/IMG_4804.jpeg" style="width:100%">
+    <img src="../../images/term1/agriculture/IMG_4837.jpeg" style="width:49%">
+    <img src="../../images/term1/agriculture/IMG_4811.jpg" style="float:right;width:49%">
   </div>
-
-  <div class="mySlides fade">
-    <img src="../../images/term1/agriculture/IMG_4807.jpeg" style="width:100%">
-  </div>
-
-  <div class="mySlides fade">
-    <img src="../../images/term1/agriculture/IMG_4819.jpeg" style="width:100%">
-  </div>
-
-  <div class="mySlides fade">
-    <img src="../../images/term1/agriculture/IMG_4837.jpeg" style="width:100%">
-  </div>
-
 
   <!-- Next and previous buttons -->
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -105,9 +96,6 @@ Some of the photos I collected on the walk are below.
   <span class="dot" onclick="currentSlide(2)"></span>
   <span class="dot" onclick="currentSlide(3)"></span>
   <span class="dot" onclick="currentSlide(4)"></span>
-  <span class="dot" onclick="currentSlide(5)"></span>
-  <span class="dot" onclick="currentSlide(6)"></span>
-  <span class="dot" onclick="currentSlide(7)"></span>
 </div>
 
 Once we arrived at Valldaura, we got a tour of the greenhouse and the gardens. While we didn't have much time, we did do a little bit of weeding in the garden to get our hands dirty before heading back down the mountain to get lunch. 
