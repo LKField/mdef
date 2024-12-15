@@ -86,3 +86,70 @@
   to {opacity: 1}
 }
 
+
+
+/* Slideshow 2 container */
+.slideshow-container-2 {
+  max-width: 100%;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides-2 {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev-2, .next-2 {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next-2 {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev-2:hover, .next-2:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* The dots/bullets/indicators */
+.dot-2 {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active-2, .dot-2:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade-2 {
+  animation-name: fade-2;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade-2 {
+  from {opacity: .4}
+  to {opacity: 1}
+}

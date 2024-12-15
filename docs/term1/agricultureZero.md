@@ -12,6 +12,7 @@
 
 On our first day, we had an introduction to farming practices and approaches. Then after the lecture, we went for a walk to look at two different local farms within a few blocks of IAAC. It was a gorgeous day and nice to get outside and although we didn't spend much time in the dirt, it was nice to spend the time surrounded by plants. 
 
+
 <!-- Slideshow container -->
 <div class="slideshow-container">
 
@@ -59,44 +60,44 @@ It was fun to very briefly be on the Camino de Santiago. For more about my previ
 ![Camino Trail](../images/term1/agriculture/IMG_4799.jpeg){ align=left width=45% }
 ![Camino Arrow](../images/term1/agriculture/IMG_4800.jpeg){ align=right width=45% }
 
-Some of the photos I collected on the walk are below.
+Some of the photos I collected on the walk are below. 
 
 <!-- Slideshow container -->
-<div class="slideshow-container">
+<div class="slideshow-container-2">
 
   <!-- Full-width images with number and caption text -->
-  <div class="mySlides fade">
+  <div class="mySlides-2 fade-2">
       <img src="../../images/term1/agriculture/IMG_4802.jpeg" style="width:49%">
       <img src="../../images/term1/agriculture/IMG_4827.jpeg" style="float:right;width:49%">
   </div>
 
-  <div class="mySlides fade">
+  <div class="mySlides-2 fade-2">
       <img src="../../images/term1/agriculture/IMG_4803.jpeg" style="width:49%">
       <img src="../../images/term1/agriculture/IMG_4804.jpeg" style="float:right;width:49%">
   </div>
 
-  <div class="mySlides fade">
+  <div class="mySlides-2 fade-2">
       <img src="../../images/term1/agriculture/IMG_4807.jpeg" style="width:49%">
       <img src="../../images/term1/agriculture/IMG_4819.jpeg" style="float:right;width:49%">
   </div>
 
-  <div class="mySlides fade">
+  <div class="mySlides-2 fade-2">
       <img src="../../images/term1/agriculture/IMG_4837.jpeg" style="width:49%">
       <img src="../../images/term1/agriculture/IMG_4811.jpg" style="float:right;width:49%">
   </div>
 
   <!-- Next and previous buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
-
+  <a class="prev-2" onclick="plusSlides_2(-1)">&#10094;</a>
+  <a class="next-2" onclick="plusSlides_2(1)">&#10095;</a>
 </div>
+
 
 <!-- The dots/circles -->
 <div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span>
-  <span class="dot" onclick="currentSlide(2)"></span>
-  <span class="dot" onclick="currentSlide(3)"></span>
-  <span class="dot" onclick="currentSlide(4)"></span>
+  <span class="dot-2" onclick="currentSlide_2(1)"></span>
+  <span class="dot-2" onclick="currentSlide_2(2)"></span>
+  <span class="dot-2" onclick="currentSlide_2(3)"></span>
+  <span class="dot-2" onclick="currentSlide_2(4)"></span>
 </div>
 
 
