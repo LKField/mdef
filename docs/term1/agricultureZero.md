@@ -110,7 +110,7 @@ Some of the photos I collected on the walk are below.
   <span class="dot" onclick="currentSlide(7)"></span>
 </div>
 
-Once we arrived at Valldaura, we got a tour of the greenhouse and the gardens. While we didn't have much time, we did do a little bit of weeding in the garden to get our hands dirty before heading back down the mountain to get lunch. ß
+Once we arrived at Valldaura, we got a tour of the greenhouse and the gardens. While we didn't have much time, we did do a little bit of weeding in the garden to get our hands dirty before heading back down the mountain to get lunch. 
 
 ## International Soil Day 
 
