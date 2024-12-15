@@ -146,9 +146,9 @@ Here are some of the photos I took of the Mutan Monkey space on the borrowed cam
   </div>
 
   <div class="mySlides fade">
-        <img src="../../images/term1/others/DSC07270.JPG" style="float:left;width:31%">
-        <img src="../../images/term1/others/DSC07275.JPG" style="width:31%">
-        <img src="../../images/term1/others/DSC07258.JPG" style="float:right;width:31%">
+        <img src="../../images/term1/others/DSC07270.JPG" style="float:left;width:33%">
+        <img src="../../images/term1/others/DSC07275.JPG" style="width:33%">
+        <img src="../../images/term1/others/DSC07258.JPG" style="float:right;width:33%">
   </div>
 
   <div class="mySlides fade">

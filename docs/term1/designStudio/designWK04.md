@@ -85,10 +85,9 @@ In thinking through this personal intervention, I realized that there may *not h
   </div> -->
 
   <div class="mySlides fade">
-        <img src="../../../images/term1/designstudio/noPhone/IMG_4619.jpeg" style="width:32%">
-        <img src="../../../images/term1/designstudio/noPhone/IMG_4621.jpg" style="width:32%">
-        <img src="../../../images/term1/designstudio/noPhone/IMG_4626.jpeg" style="width:32%">
-
+    <img src="../../../images/term1/designstudio/noPhone/IMG_4619.jpeg" style="float:left;width:33%">
+    <img src="../../../images/term1/designstudio/noPhone/IMG_4621.jpg" style="width:33%">
+    <img src="../../../images/term1/designstudio/noPhone/IMG_4626.jpeg" style="float:right;width:33%">
   </div>
 
 <!--   <div class="mySlides fade">
