@@ -17,23 +17,23 @@ On our first day, we had an introduction to farming practices and approaches. Th
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
-    <img src="../../images/term1/agriculture/IMG_4781.jpeg" style="width:100%">
+      <img src="../../images/term1/agriculture/IMG_4781.jpeg" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="../../images/term1/agriculture//IMG_4782.jpeg" style="width:100%">
+      <img src="../../images/term1/agriculture//IMG_4782.jpeg" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="../../images/term1/agriculture//IMG_4786.jpeg" style="width:100%">
+      <img src="../../images/term1/agriculture//IMG_4786.jpeg" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="../../images/term1/agriculture//IMG_4787.jpeg" style="width:100%">
+      <img src="../../images/term1/agriculture//IMG_4787.jpeg" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="../../images/term1/agriculture//IMG_4791.jpeg" style="width:100%">
+      <img src="../../images/term1/agriculture//IMG_4791.jpeg" style="width:100%">
   </div>
 
   <!-- Next and previous buttons -->
@@ -66,28 +66,29 @@ Some of the photos I collected on the walk are below.
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
-    <img src="../../images/term1/agriculture/IMG_4802.jpeg" style="width:49%">
-    <img src="../../images/term1/agriculture/IMG_4827.jpeg" style="float:right;width:49%">
+      <img src="../../images/term1/agriculture/IMG_4802.jpeg" style="width:49%">
+      <img src="../../images/term1/agriculture/IMG_4827.jpeg" style="float:right;width:49%">
   </div>
 
   <div class="mySlides fade">
-    <img src="../../images/term1/agriculture/IMG_4803.jpeg" style="width:49%">
-    <img src="../../images/term1/agriculture/IMG_4804.jpeg" style="float:right;width:49%">
+      <img src="../../images/term1/agriculture/IMG_4803.jpeg" style="width:49%">
+      <img src="../../images/term1/agriculture/IMG_4804.jpeg" style="float:right;width:49%">
   </div>
 
   <div class="mySlides fade">
-    <img src="../../images/term1/agriculture/IMG_4807.jpeg" style="width:49%">
-    <img src="../../images/term1/agriculture/IMG_4819.jpeg" style="float:right;width:49%">
+      <img src="../../images/term1/agriculture/IMG_4807.jpeg" style="width:49%">
+      <img src="../../images/term1/agriculture/IMG_4819.jpeg" style="float:right;width:49%">
   </div>
 
   <div class="mySlides fade">
-    <img src="../../images/term1/agriculture/IMG_4837.jpeg" style="width:49%">
-    <img src="../../images/term1/agriculture/IMG_4811.jpg" style="float:right;width:49%">
+      <img src="../../images/term1/agriculture/IMG_4837.jpeg" style="width:49%">
+      <img src="../../images/term1/agriculture/IMG_4811.jpg" style="float:right;width:49%">
   </div>
 
   <!-- Next and previous buttons -->
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
 </div>
 
 <!-- The dots/circles -->
@@ -97,6 +98,7 @@ Some of the photos I collected on the walk are below.
   <span class="dot" onclick="currentSlide(3)"></span>
   <span class="dot" onclick="currentSlide(4)"></span>
 </div>
+
 
 Once we arrived at Valldaura, we got a tour of the greenhouse and the gardens. While we didn't have much time, we did do a little bit of weeding in the garden to get our hands dirty before heading back down the mountain to get lunch. 
 
