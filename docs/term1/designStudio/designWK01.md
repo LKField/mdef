@@ -34,7 +34,11 @@ I sketched up a quick diagram of what I will have access to here. I expect this 
 
 We started working on our personal Design Spaces: visualizations of where our design interests, references, and progress. I will develop this space throughout the course to reflect my interests, design process, and trajectory. The Design Space serves as a documentation and navigation tool for organizing, situating, and reflecting upon my personal design practice throughout the course. 
 
+![DS01](../../images/term1/designstudio/DesignSpaceOverview_01.png){ align=left }
+
 <br>
+
+I will be updating my design space as my ideas and experiences develop. Check out these updates at the link below to see how the space develops. 
 
 <figure markdown="span"> [Design Space](../designStudio/designSpace.md){ .md-button } </figure>
 
@@ -59,6 +63,10 @@ The Atlas of Weak Signals (AoWS) is a ideation system that aims at examining tre
 In our class, we started by doing an example as a whole class to demonstrate how these cards can be used to speak conversation 
 
 ![AoWS Cards](../../images/term1/designstudio/AoWS_Cards.jpg){ align=left }
+
+Then we broke into groups and did an example of our own. The following are the resulting notes from that exercise. 
+
+![AoWS Example](../../images/term1/designstudio/AoWS_Exercise.jpg){ align=left }
 
 
 ## Reflection 
