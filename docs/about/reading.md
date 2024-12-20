@@ -19,6 +19,11 @@ I have come to realize that there is a lot of unassigned content I would like to
 | Read | Title and Author(s)| Recommended by      | Notes               |
 |------|--------------------|---------------------|---------------------|
 | <input type="checkbox" /> | [The Dawn of Everything by David Graeber & David Wengrow](https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/10/david-graeber-david-wengrow-the-dawn-of-everything_-a-new-history-of-humanity-farrar-straus-and-giroux-2021.pdf){:target="_blank"} | Guillem | |
+| <input type="checkbox" />  | [Example Title and author](https://#){:target="_blank"} |Guillem | a note! | 
+|<input type="checkbox" />|[Example Title and author](https://#){:target="_blank"}|Guillem|a note!|
+|<input type="checkbox" />|[Example Title and author]|Guillem|a note!|
+|<input type="checkbox" />|Example Title and author|Guillem|a note!|
+|<input type="checkbox" />|[Example Title and author](https://#){:target="_blank"}|Guillem|a note!|
 
 
 ## Videos/Audio 
