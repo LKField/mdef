@@ -75,11 +75,15 @@ The resulting images from the intervention asking people what object they value 
 
 ### Phone Charger 
 
-These two photos show an important lesson I learned this term: sometimes the simplest answer really can work. It is probably a better use of time to exhaust the possibility that the simple solution won't work before committing to a more complex one. To make my phone able to charge correctly, I just had to carefully and thoroughly clean the charge port. I had tried before embarking on the wireless charger plan, but I hadn't tried hard enough. So, keep things simple I guess is the most useful lesson to have learned. 
+This photo shows an important lesson I learned this term: sometimes the simplest answer really can work. It is probably a better use of time to exhaust the possibility that the simple solution won't work before committing to a more complex one. I made a whole elaborate system to attach a wireless charger to my phone case when it wouldn't charge correctly from the port. However, to make it able to charge correctly, all I had to do was carefully and thoroughly clean the charge port. I had tried before embarking on the wireless charger plan, but I hadn't tried hard enough. So, keep things simple I guess is the most useful lesson to have learned. 
 
 ![Objects Intervention](../../images/term1/designstudio/endOfTerm/vaccuum.jpg)
 
-![Objects Intervention](../../images/term1/designstudio/endOfTerm/dustyPort.jpg)
+### Phone Habits 
+
+Not using my phone or laptop for over 24 hours was a really interesting experiment to do in this term. Part of me was surprised by how easy it was to do and how nice to felt to disconnect, another part of me knows that I likely won't do it the same way again because it required significant changes to my routine that, while refreshing, would complicate my normal life significantly if I made it a habit. However, maybe going forward in the next term, I will try it again or at least in small doses. 
+
+![No Phone](../../images/term1/designstudio/noPhone/IMG_4625.PNG) 
 
 ### Clothing Mending 
 
