@@ -49,7 +49,7 @@ Here is the draft of my pictoral. The idea has changed a bit since my initial pr
   <span class="dot" onclick="currentSlide(4)"></span>
 </div>
 
-### The text of the letter
+### The text of the letter:
 
 Dear Reader, 																				
 
@@ -67,6 +67,32 @@ Lucretia Field
 
 ## Images from Term 
 
+### Object's Intervention 
+
+The resulting images from the intervention asking people what object they value show a really fun moment in the course. Additionally, this was a moment where I finally engaged with the larger community outside of our direct classroom, which is something I want to do more of going forward. 
+
+![Objects Intervention](../../images/term1/designstudio/endOfTerm/drawings.jpg)
+
+### Phone Charger 
+
+These two photos show an important lesson I learned this term: sometimes the simplest answer really can work. It is probably a better use of time to exhaust the possibility that the simple solution won't work before committing to a more complex one. To make my phone able to charge correctly, I just had to carefully and thoroughly clean the charge port. I had tried before embarking on the wireless charger plan, but I hadn't tried hard enough. So, keep things simple I guess is the most useful lesson to have learned. 
+
+![Objects Intervention](../../images/term1/designstudio/endOfTerm/vaccuum.jpg)
+
+![Objects Intervention](../../images/term1/designstudio/endOfTerm/dustyPort.jpg)
+
+### Clothing Mending 
+
+I did a few different mending projects this term, from my own jeans, to a few pieces of clothing for my classmates, to a moment where I did my best to teach someone else the techniques I know to alter clothes. This photo shows me teaching mending, which I hope to do more of in the next terms, even as I continue to mend clothing for myself and others. 
+
+![Mending](../../images/term1/designstudio/endOfTerm/mending.jpeg)
+
+
+### Design Dialogue Bows 
+
+These bows represent another moment of potentially misguided effort. I committed to making these bows as a visual hook for my presentation at the Design Dialogue and as a symbolic statement about consumerism. Ironically, I made way too many: about 80 bows when only 20 were actually used during the Dialogue. Additionally, it was pointed out to me during the event that I had turned paper that could theoretically be recycled, into non-recyclable junk, which was exactly what I was trying to reduce. So, while I had fun making the bows and they did serve as a conversation starter, perhaps next time it would be useful to take a step back before committing to making quite so many and doing just a little too much when a simpler solution probably would have been more elegant anyway. 
+
+![Bows](../../images/term1/designstudio/endOfTerm/bows.jpg)
 
 ## Design Space Progression 
 
@@ -80,7 +106,7 @@ Lucretia Field
 ![Design Space 01](../../images/term1/designstudio/DesignSpaceOverview_06.png)
 
 
-## Reflections from Design Dialogue 
+<!-- ## Reflections from Design Dialogue 
 
 I think somewhere along the way, I lost my direction again. I think I got caught up in the deadline of the design dialogue and the exhaustion from so much energy spent thinking as part of this program. Somewhere in the past few months between sort of finding direction and now, I lost it again. 
 
@@ -158,3 +184,4 @@ So, from a first person perspective, what am I interested in?
     - show what the impact of your Amazon purchase will actually be somehow or your query on ChatGPT or why you are being shown a specific video. What if it is less about making it harder to buy new, but instead is about making it easier to know what you are buying. Digital material passports... but here's the thing, I don't want to write code, I don't want to mess with blockchain, I want to make things with my hands, sew, sculpt, create in those ways. So... once again, I am back to where I have always been. Wanting to make changes in ways that I don't know how to and don't want to really. BLAH! ugh! 
 
     
+ -->
