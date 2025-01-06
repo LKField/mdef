@@ -102,7 +102,7 @@ These bows represent another moment of potentially misguided effort. I committed
 ### Pydigital Design Space  
 ![Design Space 01](../../images/term1/designstudio/DesignSpaceOverview_03.jpeg)
 
-## Simplified Digital Design Space for Design Dialogue 
+### Simplified Digital Design Space for Design Dialogue 
 ![Design Space 01](../../images/term1/designstudio/DesignSpaceOverview_06.png)
 
 
