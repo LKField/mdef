@@ -5,7 +5,7 @@ I have come to realize that there is a lot of unassigned content I would like to
 
 <!-- 
 <input type="checkbox" />         = Empty Checkbox
-<input type="checkbox" checked /> = Checked Checkbox
+<input checked type="checkbox" /> = Checked Checkbox
 -->
 
 ## Articles 
@@ -18,13 +18,8 @@ I have come to realize that there is a lot of unassigned content I would like to
 
 | Read | Title and Author(s)| Recommended by      | Notes               |
 |------|--------------------|---------------------|---------------------|
-| <input type="checkbox" /> | [The Dawn of Everything by David Graeber & David Wengrow](https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/10/david-graeber-david-wengrow-the-dawn-of-everything_-a-new-history-of-humanity-farrar-straus-and-giroux-2021.pdf){:target="_blank"} | Guillem | |
-| <input type="checkbox" />  | [Example Title and author](https://#){:target="_blank"} |Guillem | a note! | 
-|<input type="checkbox" />|[Example Title and author](https://#){:target="_blank"}|Guillem|a note!|
-|<input type="checkbox" />|[Example Title and author]|Guillem|a note!|
-|<input type="checkbox" />|Example Title and author|Guillem|a note!|
-|<input type="checkbox" />|[Example Title and author](https://#){:target="_blank"}|Guillem|a note!|
-
+|<input type="checkbox" />|[The Dawn of Everything by David Graeber & David Wengrow](https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/10/david-graeber-david-wengrow-the-dawn-of-everything_-a-new-history-of-humanity-farrar-straus-and-giroux-2021.pdf){:target="_blank"}|Guillem, Jonathan |nan|
+|<input checked type="checkbox" />|[Braiding Sweetgrass](https://www.booksfree.org/wp-content/uploads/2021/09/9781571313560.pdf){:target="_blank"}|Jana, Jonathan |In progress |
 
 ## Videos/Audio 
 
