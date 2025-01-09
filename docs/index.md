@@ -9,7 +9,7 @@ I will be documenting my journey through the 2024-2025 course here.
 **Check out some of my projects so far**
 
 <figure markdown="span">
-    [Design Space](term1/designStudio/designSpace.md){ .md-button }
+    [Design Space](designSpace.md){ .md-button }
 </figure>
 
 

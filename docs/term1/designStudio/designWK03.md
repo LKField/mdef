@@ -68,7 +68,7 @@ Check out my Design Space. I am in the process of turning my physical design spa
 
 <br>
 
-<figure markdown="span"> [Design Space](../designStudio/designSpace.md){ .md-button } </figure>
+<figure markdown="span"> [Design Space](../../designSpace.md){ .md-button } </figure>
 
 ## Reflection 
 

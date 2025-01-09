@@ -136,7 +136,7 @@ I will admit that I am missing the physical version of my design space, so it is
 <br>
 
 
-<figure markdown="span"> [Design Space](../designStudio/designSpace.md){ .md-button } </figure>
+<figure markdown="span"> [Design Space](../../designSpace.md){ .md-button } </figure>
 
 ## Reflection 
 

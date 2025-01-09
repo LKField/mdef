@@ -40,7 +40,9 @@ We started working on our personal Design Spaces: visualizations of where our de
 
 I will be updating my design space as my ideas and experiences develop. Check out these updates at the link below to see how the space develops. 
 
-<figure markdown="span"> [Design Space](../designStudio/designSpace.md){ .md-button } </figure>
+<figure markdown="span"> [Design Space](../../designSpace.md){ .md-button } </figure>
+
+
 
 <!-- <figure markdown="span">  
     <div style="display:flex; width: 60%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">

@@ -71,7 +71,7 @@ Check out my Design Space
 
 <br>
 
-<figure markdown="span"> [Design Space](../designStudio/designSpace.md){ .md-button } </figure>
+<figure markdown="span"> [Design Space](../../designSpace.md){ .md-button } </figure>
 
 
 ## Reflection 
