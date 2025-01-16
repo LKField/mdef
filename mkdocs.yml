@@ -14,12 +14,7 @@ nav:
     # - Reading: about/reading.md
   - Design Studio:
     - Design Space: designSpace.md
-    - Design Studio 01:
-      - Intro Week: term1/designStudio/designWK01.md
-      - Session Two: term1/designStudio/designWK02.md
-      - Session Three: term1/designStudio/designWK03.md
-      - Session Four: term1/designStudio/designWK04.md
-      - End of Term: term1/designStudio/termEnd.md
+    - Studio Overview: designOverview.md
 
   - Term 1:
       - Design Studio 01:
