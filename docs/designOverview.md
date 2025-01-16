@@ -78,7 +78,7 @@ Coming Soon!
 <!-- Button with photo in it -->
 <!-- Session 1 -->
 <!-- <div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
-    <a style="box-shadow: 0px 0px 0px 0px #181040; display: flex; flex-direction: row; align-items: flex-start; width: 100%; height: 100%; object-fit: cover; background-color: #7e56c1" href="../term1/designStudio/designWK01">
+    <a style="box-shadow: 0px 0px 0px 0px #181040; display: flex; flex-direction: row; align-items: flex-start; width: 100%; height: 100%; object-fit: cover; background-color: #7e56c1" href="../term1/designStudio/design02WK01">
         <div style="display:flex; align-content: center; justify-content:center; width: 50%">
         <img src="../images/term1/designstudio/thumbnails/DesignSpaceOverview_01.png"></img>
         </div>
