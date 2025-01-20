@@ -193,7 +193,7 @@ For the final design intervention of the term, the group I was with had aspirati
 
 Some of the information we gathered was about concepts and values that are very different from my own and allowed me to step a bit out of my own biases and to view the challenges I am trying to tackle in a different context. Some of the things people in our group cared about were a surprise to me and pushed me to examine my own assumptions. In this way, I was engaging with the content of the Design with Others course by opening myself up to the different realities external to my own, and working to understand the different contexts that the people around me come from. 
 
-<figure markdown="span"> [Intervention with Others](designStudio/designWK04.md){ .md-button } </figure>
+<figure markdown="span"> [Intervention with Others](designStudio/designWK04.md/#group-intervention){ .md-button } </figure>
 
 
 ## Reflection 
