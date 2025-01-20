@@ -187,6 +187,15 @@ I found myself, as with ever other session in this week, with many questions and
     * How do you maintain a sustainable relationship with creation and action? How do you keep from getting overwhelmed by everything?
     * Do people actually value free things as Robin Wall Kimmerer (and many others including Arnau) suggests? Is it a question of scale? Can people on a global scale value gifts and things freely given or is the nature of globalization to create structures where we want to hoard, to take too much, to exchange some form of 'tangible' value for things? 
 
+## Intervention 
+
+For the final design intervention of the term, the group I was with had aspirations to connect with a larger community outside of IAAC and the design ecosystem we find ourselves in. Unfortunately, our imagination ran faster than our implementation was able to. Therefore, we scaled our intervention back to a small focus group within the IAAC/Fab Lab community. Despite scaling our goals to a more manageable size, we were still able to implement some of the things we learned in the Design with Others course. While the people we had in our focus group were all a part of the designer/maker community and have certain privileges to be able to be here in a academic context in Barcelona, they still come from different backgrounds and were able to share different perspectives on the questions we were asking.
+
+Some of the information we gathered was about concepts and values that are very different from my own and allowed me to step a bit out of my own biases and to view the challenges I am trying to tackle in a different context. Some of the things people in our group cared about were a surprise to me and pushed me to examine my own assumptions. In this way, I was engaging with the content of the Design with Others course by opening myself up to the different realities external to my own, and working to understand the different contexts that the people around me come from. 
+
+<figure markdown="span"> [Intervention with Others](designStudio/designWK04.md){ .md-button } </figure>
+
+
 ## Reflection 
 
 Through out this entire week, I often felt that my head was going to explode with questions, contradictions, and nuances. I think the purpose of this week was to take our deep seated beliefs and to pull them into the light so we could examine them. *Does the world have to be structured the way you have always experienced it being structured?* Laura seemed to be asking us at every turn. She asked us to examine who is included in design and in future/world building and to carefully look at who is not. To look at our assumptions with the critical eye. 
