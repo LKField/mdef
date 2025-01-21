@@ -27,9 +27,13 @@ I will be documenting my journey through the 2024-2025 course here.
 
 
 <figure markdown="span">
+    [Design Studio Overview](designOverview.md){ .md-button }
+</figure>
+
+<!-- <figure markdown="span">
     [The Machine Paradox](term1/machineParadox.md){ .md-button }
 </figure>
 
 <figure markdown="span">
     [Living with Your Own Ideas](term1/ownIdeas.md){ .md-button }
-</figure>
+</figure> -->
