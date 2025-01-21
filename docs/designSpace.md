@@ -1,6 +1,6 @@
 # Design Space 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width=100% height=500px src="https://embed.figma.com/board/3CL2yCODewyK2T6kgpq39g/Design-Space-New?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width=100% height=500px src="https://embed.figma.com/board/msRCytVlzBiSf6fdEdZBc4/Simplified-Design-Space?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
 
 === "Design Space - 01"
@@ -50,3 +50,16 @@
 
     ![DS05](images/term1/designstudio/DesignSpaceOverview_05.png){ align=left }
 
+=== "Design Space - 06 (For Design Dialogue 1)" 
+
+    !!! abstract "Date" 
+        17 December 2024 
+
+    ![DS06](images/term1/designstudio/DesignSpaceOverview_06.png){ align=left }
+
+=== "Design Space - 07" 
+
+    !!! abstract "Date" 
+        20 January 2025
+
+    ![DS07](images/term2/designstudio/DesignSpaceOverview_07.png){ align=left }
