@@ -3,7 +3,7 @@
 !!! abstract "Course Details"
     **Name:** Living Materials 
 
-    **Dates:** 15 January to 17 January 2025
+    **Dates:** 15 to 17 January 2025
 
     **Faculty:** Petra Garajová
 
