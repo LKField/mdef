@@ -220,7 +220,7 @@ We decided to change to a different recipe and attempt it again, this time just 
 
 </div>
 
-<video src="" controls="controls" style="max-width: 100%;">
+<video src="https://github.com/user-attachments/assets/88baa750-75a9-43a5-918a-0e0cb6d0605c" controls="controls" style="max-width: 100%;">
 </video>
 
 INCLUDE VIDEO 
@@ -230,6 +230,10 @@ INCLUDE VIDEO
   ![Time Lapse of process](../images/term2/materials/my_materials/timeLapse.gif)
   <figcaption>Time lapse of the mixing process</figcaption>
 </figure>
+
+
+
+
 
 !!! note "Next Steps"
 
