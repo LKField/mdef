@@ -135,7 +135,10 @@ We got a tour of their space and I found myself wondering if a artist space like
 <img src=../../images/term2/materials/sbiotica/IMG_5261.jpeg alt="S-Biotica Space" style="width:49%">
 <img src=../../images/term2/materials/sbiotica/IMG_5262.jpg alt="S-Biotica Radio Dish" style="float:right;width:49%">
 
-Then we had a very quick workshop with Jessica about mycelium.
+<figure markdown="span">
+  ![Kineco Mycelium Growth](../images/term2/materials/sbiotica/IMG_5470.jpg){ width=50%}
+  <figcaption>Then we had a very quick workshop with Jessica about mycelium</figcaption>
+</figure>
 
 
 ## My Biomaterials 
