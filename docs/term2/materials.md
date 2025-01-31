@@ -223,16 +223,16 @@ We decided to change to a different recipe and attempt it again, this time just 
 <video src="https://github.com/user-attachments/assets/88baa750-75a9-43a5-918a-0e0cb6d0605c" controls="controls" style="max-width: 100%;">
 </video>
 
-INCLUDE VIDEO 
+Here is a video of our process of making our second attempt at a gelatin biomaterial for the soles of my slippers. We used a modified recipe and made a much higher volume than the first attempt. We ended up filling up two extra molds because we made too much volume in an attempt to have enough unlike our first attempt.
 
+<img src=../../images/term2/materials/my_materials/mold.jpeg alt="Minesweeper Mold" style="width:33%">
+<img src=../../images/term2/materials/my_materials/dino.jpeg alt="Dino Mold" style="float:right;width:33%">
+<img src=../../images/term2/materials/my_materials/shrinkage.jpeg alt="Shrinkage of biomaterial" style="float:right;width:33%">
 
 <figure markdown="span">
   ![Time Lapse of process](../images/term2/materials/my_materials/timeLapse.gif)
   <figcaption>Time lapse of the mixing process</figcaption>
 </figure>
-
-
-
 
 
 !!! note "Next Steps"
