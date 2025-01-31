@@ -8,13 +8,15 @@
     **Faculty:** Petra Garajová
 
 
-## Biomaterials 
+## Biomaterials Class
 
-![Table Setup](../images/term2/materials/IMG_5173.jpeg){ width=43%, align=left }
+<div class="grid" markdown>
 
-We started the workshop with a presentation about sustainability vs. regenerative practices and how bioplastics fit into these methodologies. She introduced us to some fabrication techniques and showed biomaterial projects for inspiration. 
+![Table Setup](../images/term2/materials/IMG_5173.jpeg)
 
-After the presentation, we had a hands-on portion of the class where we created some bioplastics using three different biopolymers and with different recipes to create materials with different properties. 
+We started the workshop with a presentation about sustainability vs. regenerative practices and how bioplastics fit into these methodologies. She introduced us to some fabrication techniques and showed biomaterial projects for inspiration. After the presentation, we had a hands-on portion of the class where we created some bioplastics using three different biopolymers and with different recipes to create materials with different properties. 
+
+</div>
 
 === "Alginate String"
 
