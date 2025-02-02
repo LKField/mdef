@@ -9,6 +9,8 @@
 
 ## Situated Intervention 
 
+
+
 ### Autoethnographic Research 
 
 - <b>Defined study boundaries:</b> Can I understand the object of my study? Can I define the boundaries of my study?
@@ -18,7 +20,8 @@
 - <b>Self-revealing communication:</b> Did I show my work transparently? Was there something I didn’t show? Why?
 - <b>Ability to Generalize:</b> Does it relate to others, can it be meaningful for others? What kind of profile is the one which I am looking at?
 
-### Statement of Alternative Present 
+### Infect Algorithms
+#### Statement of Alternative Present
 
 <div class="grid" markdown>
 !!! quote "Present Continuity"
@@ -37,6 +40,100 @@
 
     Intervention 2: How can we scale the algorithm infection to be modular and portable to make a larger impact? 
 
+#### What we did 
+
+[Flavio](https://flavio-grimaldi-students-iaac.gitbook.io/flavio_grimaldi){:target="_blank"} had an unused iPhone which we installed YouTube and Instagram on. We logged into my students.iaac.net Google Account on YouTube to simulate a fresh YouTube account. Simultaneously, Flavio made a new account on Instagram to use for reels. 
+
+[Mohit](https://mohitchopra.notion.site/Home-11cf63009b748004a336e4cc92903c61){:target="_blank"} and I used YouTube Shorts, screen recording our normal account's suggested Shorts and those of the new phone. We did not search for any content on the new phone, just interacted as we would normally with the content provided to us by the blank algorithm. I used the search function on my normal account to look for channels with a clear visual details which would be noticeable in the infinite scroll. The goal was to see if the content from our normal accounts could influence what was shown on the new account.
+
+Flavio and [Ramon](https://ramon-prat-gibert.gitbook.io/ramon-prat-mdef-website){:target="_blank"} did the same with Instagram. 
+
+#### Insights 
+
+At the start of the YouTube experiment the fresh algorithm showed a lot of random things. A few of the types of Videos I had seen before 
+
+<div class="grid" markdown>
+<figure markdown="span">
+    ![Fresh Algorithm First Recording](../../images/term2/designstudio/algorithms/LF_2901_1235_New.gif){width=75%}
+    <figcaption>Fresh algorithm first screen recording</figcaption>
+</figure>
+
+
+<figure markdown="span">
+    ![My YouTube Shorts Algorithm First Recording](../../images/term2/designstudio/algorithms/LF_2901_1238_Personal.gif){width=75%}
+    <figcaption>My algorithm first screen recording</figcaption>
+</figure>
+
+</div>
+
+Some of the videos were similar to videos I had seen before by YouTube algorithm had become so personally tailored to me, but what I saw on the new account did not directly relate to what my algorithm is like now. 
+
+As the experiment went on, I did not see any of the specific videos from the channels I had searched for pop up on the fresh account. Below are some of the types of videos I tried to 'infect' the other algorithm with. 
+
+![Make Some Noise Screenshot](../../images/term2/designstudio/algorithms/MSN_screenshot.jpg){width=24%}
+![Ginny Di Screenshot](../../images/term2/designstudio/algorithms/GinnyDi_screenshot.jpg){width=24%}
+![Swing Dance Screenshot](../../images/term2/designstudio/algorithms/SwingDance_screenshot.jpg){width=24%}
+![SciShow Screenshot](../../images/term2/designstudio/algorithms/SciShow_Screenshot.jpg){width=24%}
+
+We did eventually notice some of the same videos appearing across devices. This happened after Flavio, Mohit, and I were sharing a local WiFi network at Falvio's house. It is possible that the noise of IAAC's WiFi was too overpowering or that it took more time for the crosstalk between the devices to take hold. 
+
+<div class="grid" markdown>
+<figure markdown="span">
+    ![My Algorithm Video](../../images/term2/designstudio/algorithms/LF_2901_2107_SameVideo.gif){width=75%}
+    <figcaption>Video from 29 January on my algorithm</figcaption>
+</figure>
+
+
+<figure markdown="span">
+    ![New Algorithm Video](../../images/term2/designstudio/algorithms/New_0202_1732_SameVideo.gif){width=75%}
+    <figcaption>Same video from 2 February on new algorithm</figcaption>
+</figure>
+
+</div>
+
+Another moment we saw the same video pop up was on 2 February when the same random video showed up on my personal account and on the new device. Again, this was only after we were sharing the same WiFi. 
+
+<div class="grid" markdown>
+<figure markdown="span">
+    ![My Algorithm Video](../../images/term2/designstudio/algorithms/Personal_Concrete.gif){width=75%}
+    <figcaption>Video from 2 February at 17:47 on my algorithm</figcaption>
+</figure>
+
+
+<figure markdown="span">
+    ![New Algorithm Video](../../images/term2/designstudio/algorithms/New_Concrete.gif){width=75%}
+    <figcaption>Video from 2 February at 16:06 on new algorithm</figcaption>
+</figure>
+
+</div>
+
+We also observed that the new phone, Mohit's account, and Flavio's YouTube showed the same random picture at one point when we were on the same WiFi. Flavio had not opened YouTube shorts in a long time. Mohit has a very specific, tailored algorithm and so this was introducing a random video into his video which we assume was because of the shared WiFi. 
+
+<figure markdown="span">
+    ![Three Phones with the same video](../../images/term2/designstudio/algorithms/3_phones.gif){width=75%}
+    <figcaption></figcaption>
+</figure>
+
+We concluded that there is definitely crosstalk among devices on the same network, but not necessarily in a way we can control. More investigation will need to be done to determine if 'infection' is actually possible the way we had hoped. It seems likely that creating noise is possible, but dictating what the content of that noise is may not be possible. We will have to test more to find out if it is. 
+
+### Other Ongoing Investigations 
+
+#### Trans-Atlantic Letter 
+
+Another investigation I started recently is an investigation to estimate what the impact of sending a physical trans-Atlantic is. I approached this by sending a Tile tracking device through the mail to my parents back in the US. It has been interesting to watch the journey. 
+
+#### Statement of Alternative Present
+
+<div class="grid" markdown>
+!!! quote "Present Continuity"
+    
+
+!!! quote "Alternative Present"
+
+
+</div>
+
+#### Network 
 
 
 ## Design Space 
