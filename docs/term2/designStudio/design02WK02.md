@@ -138,9 +138,9 @@ Another investigation I started recently is an investigation to estimate what th
 
 ## Design Space 
 
-Updates to my Design Space 
+Updates to my Design Space to include the community and contacts I am starting to make here in Barcelona and some of those back home as well. 
 
-<!-- <figure markdown="span"> [Design Space](../../designSpace.md/#__tabbed_1_7){ .md-button } </figure> -->
+<figure markdown="span"> [Design Space](../../designSpace.md/#__tabbed_1_8){ .md-button } </figure> 
 
 
 ## Reflection 
