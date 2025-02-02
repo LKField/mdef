@@ -55,7 +55,7 @@ When we transitioned to talking about Decentralized Autonomous Organizations (DA
 
 <div class="grid" markdown>
 <figure markdown="span">
-    <p>Below is an additional audio reflection about the second day content. </p>
+    <p>Below is an additional audio reflection about the third day content. </p>
     <audio controls src="../../audio/ci_day3.mp3"></audio>
 </figure>
 
