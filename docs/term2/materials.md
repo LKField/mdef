@@ -243,3 +243,16 @@ Here is a video of our process of making our second attempt at a gelatin biomate
 
 ### Living Material 
 
+Maithili and I had hoped to grow mycelium for this material, but our initial idea of growing it on clay ended up being something we realized wouldn't work how we had envisioned it. We eventually pivoted to coloring the scoby with mica and drying it out to create a leather. 
+
+<img src=../../images/term2/materials/my_materials/kombucha_cutting.gif alt="Cutting Scoby" style="width:39%">
+<img src=../../images/term2/materials/my_materials/kombucha_mica.gif alt="Adding Mica Scoby" style="width:29%">
+<img src=../../images/term2/materials/my_materials/kombucha_dry.gif alt="Dried Scoby" style="width:29%">
+
+We had hoped to make a bracelet out of the leather, but it became very very thin after drying and ripped when we were removing it from the mold. I would have liked the experience of growing the scoby to make a much thicker leather, but that will take more time than we had for this project. I would like to set up a kombucha fermentation chamber in the classroom at some point and hope that this can happen as we progress further into the program. 
+
+Additionally, I would like to create something with the dried scoby leather we did manage to make. Perhaps it could be a pendant or charm. I hope to explore this option more going forward. 
+
+## Reflection 
+
+Overall, I enjoyed the Living Materials workshop and projects. While I was less excited about the persistent smell in our classroom, I found experimenting with biomaterials to be interesting and exciting in a way that I had not necessarily anticipated. I hope to get the chance to do more later. Specifically, I have a project I want to do experimenting with pine resin.
