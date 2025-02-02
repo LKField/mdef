@@ -116,24 +116,56 @@ We also observed that the new phone, Mohit's account, and Flavio's YouTube showe
 
 We concluded that there is definitely crosstalk among devices on the same network, but not necessarily in a way we can control. More investigation will need to be done to determine if 'infection' is actually possible the way we had hoped. It seems likely that creating noise is possible, but dictating what the content of that noise is may not be possible. We will have to test more to find out if it is. 
 
-### Other Ongoing Investigations 
-
-#### Trans-Atlantic Letter 
+### Trans-Atlantic Letter 
 
 Another investigation I started recently is an investigation to estimate what the impact of sending a physical trans-Atlantic is. I approached this by sending a Tile tracking device through the mail to my parents back in the US. It has been interesting to watch the journey. 
 
-#### Statement of Alternative Present
+<figure markdown="span">
+    ![Sending Tile Letter](../../images/term2/designstudio/letter/letter.jpeg){width=50%}
+    <figcaption></figcaption>
+</figure>
+
+<div class="grid" markdown>
+
+<figure markdown="span">
+    ![Letter Tracking Stuck](../../images/term2/designstudio/letter/roadside.PNG){width=75%}
+    <figcaption>The letter sat on the side of a road for 2 days without moving</figcaption>
+</figure>
+<figure markdown="span">
+    ![Letter Tracking Transatlantic](../../images/term2/designstudio/letter/transatlantic.PNG){width=75%}
+    <figcaption>The letter crossed the Atlantic to Miami then flew to NYC</figcaption>
+</figure>
+
+</div>
+
+<!-- #### Statement of Alternative Present
 
 <div class="grid" markdown>
 !!! quote "Present Continuity"
     
 
-!!! quote "Alternative Present"
+!!! quote "Alternative Present" 
 
 
-</div>
+</div> -->
 
-#### Network 
+### Network 
+
+I have recently started meeting with people involved in the various projects and research that I am interested in. I do not yet feel I have built a network, but I am beginning to feel I am forming connections that may be useful in the future. 
+
+!!! abstract "People I've met" 
+
+    * Blanca Callén - met before a Restart Barcelona party. Writes and speaks a lot about repair 
+    * Anand Pandian - met through Blanca. Lives in Baltimore, MD, USA a block from the first house I lived in. Is teaching about repair 
+    * Penny Papachristodoulou - met through Blanca. Artist working with weaving and textile repair. Interested in collaborating on an electronics/textile project of some kind 
+    * Adrián Pascual Pujó - met through Saúl. Elisava student who researched about algorithm manipulation and filter bubbles 
+    * Paolo Cirio - spoke briefly after Beyond Session about algorithm manipulation 
+
+    * Many former contacts who I want to reach out to within the context of my MDEF project of uncovering blackboxes and repairing systems and products 
+
+### Folk Dance Community 
+
+An area of intervention that I have just started thinking about is the world of folk dance that has been an integral part of my life for all of it. I do not yet know exactly how this will manifest, but I hope to organize a dance workshop when my friend from the USA is in town to explore if this is an area of intervention that I want to commit to exploring more. 
 
 
 ## Design Space 
@@ -145,7 +177,9 @@ Updates to my Design Space to include the community and contacts I am starting t
 
 ## Reflection 
 
+Below is my audio reflection after the first intervention of term 2.
+
 <br>
 <figure markdown="span">
-  <!-- <audio controls src="../../../audio/DesignStudioReflection1.mp3"></audio> -->
+    <audio controls src="../../../audio/DesignStudioReflection_02Feb.mp3"></audio>
 </figure>
