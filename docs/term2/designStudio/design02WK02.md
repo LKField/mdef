@@ -163,6 +163,10 @@ I have recently started meeting with people involved in the various projects and
 
     * Many former contacts who I want to reach out to within the context of my MDEF project of uncovering blackboxes and repairing systems and products 
 
+The updates to my design space show the growing network and community I am building. This is a basic visualization of the conversations I have been having and the connections I am looking forward to forming as well. 
+
+![Design Space with Network](../../images/term2/designstudio/DesignSpaceOverview_08.png)    
+
 ### Folk Dance Community 
 
 An area of intervention that I have just started thinking about is the world of folk dance that has been an integral part of my life for all of it. I do not yet know exactly how this will manifest, but I hope to organize a dance workshop when my friend from the USA is in town to explore if this is an area of intervention that I want to commit to exploring more. 
