@@ -9,9 +9,7 @@
 
 ## Situated Intervention 
 
-
-
-### Autoethnographic Research 
+<!-- ### Autoethnographic Research 
 
 - <b>Defined study boundaries:</b> Can I understand the object of my study? Can I define the boundaries of my study?
 - <b>Authenticity:</b> Was my first person perspective authentic? Was it meaningful?
@@ -19,7 +17,7 @@
 - <b>Criticality:</b> So what? Did my actions make me learn about other things?
 - <b>Self-revealing communication:</b> Did I show my work transparently? Was there something I didn’t show? Why?
 - <b>Ability to Generalize:</b> Does it relate to others, can it be meaningful for others? What kind of profile is the one which I am looking at?
-
+ -->
 ### Infect Algorithms
 #### Statement of Alternative Present
 
