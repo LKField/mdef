@@ -8,7 +8,19 @@
     **Faculty:** Jana Tothill Calvo & Roger Guilemany
 
 ## Situated Intervention 
+### Folk Dance Event Planning  
+#### Statement of Alternative Present
 
+<div class="grid" markdown>
+!!! quote "Present Continuity"
+        
+    Users of internet platforms like myself are inundated with information fed to us by algorithms that we cannot see or understand. These algorithms influence how we think, what we value, and how we spend our time and money. We are often not aware of where these influences come from and have little power to fight back against these filter bubbles which may not truly reflect our own values, but instead come from the external influence of our algorithms. The algorithms hold us in thought patterns and social circles that further validate our current beliefs, creating a polarized world where we unquestioningly believe propaganda and are unwilling to engage with ideas that differ from our own. 
+
+
+!!! quote "Alternative Present"
+
+    Users of internet platforms like myself are able to directly influence what information is shown to us by hacking our algorithms to take back control. These hacked algorithms challenge us to examine how we think, what we value, and how we spend our time and money. We have control over what information feeds our algorithms and fight back against filter bubbles by introducing randomness and opposing views to actively challenge our beliefs and deeply examine our values. The hacked algorithms push us out of our current thought patterns, enabling us to question propaganda, and to open space for engaging in new social circles where we are empowered to have constructive conversation with people who hold beliefs different from our own. 
+</div>
 
 
 ## Reflection on Toni Navarro Talk 

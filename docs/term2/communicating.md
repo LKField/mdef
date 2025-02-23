@@ -41,3 +41,65 @@ The answer I was able to provide was that I am thinking about repair from many d
 
 !!! quote "Describe your project in 8 words" 
     Break open black boxes to empower system repair 
+
+
+## Project Definition - A Chat with ChatGPT 
+
+### My Reflections on using Chat 
+
+I really did not want to use ChatGPT in general. I struggle with 
+
+
+https://deteapot.com/chatgpts-carbon-footprint-how-much-energy-does-your-ai-prompt-really-use
+
+
+### The Chat 
+
+Great! Let's dive in. Here's my first question for you:
+
+**1. What is the core idea or concept behind your project, and what specific problem does it aim to solve?**
+
+I am hoping to up a conversation about repair and understanding of how systems and products or objects work to allow people to engage more with their owned objects and to learn to repair them without resorting to buying new and increasing mass global consumption. I hope to address the issues of over-consumption and challenge people to act and think more for themselves. 
+
+That's a powerful and timely goal! Let’s explore further.
+
+**2. Who is your target audience, and how do you envision them engaging with your project?**
+
+My target audience is not yet fully defined, this is partly because I have too many projects happening all at once. I am hoping to engage with people who are already interested in repair but maybe do not yet know how to repair. I am hoping there will be active interaction, engaging in physical space with the projects I am presenting. I hope to start conversations but also allow people to gain practical skills in repair and demystifying black boxes 
+
+This gives a great sense of who you're aiming to reach. Let's move on.
+
+**3. What makes your project unique compared to other initiatives focused on sustainability or repair?**
+
+I will engage in conversations that bring together different fields, from engineering and hardware technology to textile and woven repair to understanding global systems of how information and materials are shared around the world.
+
+That multidisciplinary approach sounds intriguing! Let’s go a bit deeper.
+
+**4. What specific impact or change would you like to see as a result of your project?**
+
+More people repairing their objects and buying less.
+
+That's a clear and impactful goal. Now, let's get into some practical aspects.
+
+**5. What are some of the key activities or experiences you plan to offer people as part of your project (workshops, demonstrations, tools, etc.)?**
+
+Interactive exhibitions and perhaps workshops to learn how to repair and to engage in conversations about consumption and material goods.
+
+Thanks for sharing those details! Based on your answers, here's a concise project definition for you:
+
+---
+
+### Project Definition:
+
+This project seeks to spark meaningful conversations around repair and sustainable consumption, inviting people to rethink their relationship with material goods. It aims to empower individuals by providing practical repair skills, while also encouraging a deeper understanding of how systems and objects work. By demystifying the "black boxes" of products and materials, the project fosters a sense of agency and self-reliance in repairing everyday items rather than discarding them.
+
+Through interactive exhibitions and hands-on workshops, the project will bridge various fields, from engineering and hardware technology to textile and woven repair. Participants will explore the global systems that shape consumption and production, fostering both knowledge and action. The ultimate goal is to reduce mass global consumption by inspiring individuals to repair their objects and make more thoughtful choices in their consumption habits.
+
+---
+
+Now, let's refine the purpose of your project using Simon Sinek’s Golden Circle framework.
+
+We’ll start with **What**: 
+
+**1. What exactly does your project do, from a practical standpoint?**
+
