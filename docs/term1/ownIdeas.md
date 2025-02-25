@@ -55,12 +55,11 @@ The second prosthetic we were asked to make was inspired by the work of Thomas T
 
 For this prompt, I looked back at my previous brainstorm session and decided to try to make a prosthetic to become a network, a community. Taking inspiration from mycelial networks, I thought about creating a physical connection to transmit motion and information between the nodes. 
 
+<figure markdown="span">
 ![Network01](../images/term1/lwyoi/network01.jpeg){ align=left width="31%" }
 ![Network02](../images/term1/lwyoi/network02.jpg){ align=left width="31%" }
-![Network03](../images/term1/lwyoi/network03.jpg){ align=right width="31%" }
-
-
-<br/><br/>
+![Network03](../images/term1/lwyoi/network03.jpg){ align=left width="31%" }
+</figure>
 
 
 The following video contextualizes the network prosthetic as a visualization of the networks that already exist. Nature has so many networks, from mycelium that allows fungi to transfer information, nutrients, and water to bees that use pheromones to communicate across distance. Humans also have systems in place to communicate with one another across distance, but what if we could communicate like fungi? With visible, tangible connections allowing us to see the influence on those in our community when we pull a tread, what could we learn about ourself and those around us? 
