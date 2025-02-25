@@ -55,9 +55,9 @@ The second prosthetic we were asked to make was inspired by the work of Thomas T
 
 For this prompt, I looked back at my previous brainstorm session and decided to try to make a prosthetic to become a network, a community. Taking inspiration from mycelial networks, I thought about creating a physical connection to transmit motion and information between the nodes. 
 
-![Network01](../images/term1/lwyoi/network01.jpeg){ align=left width="30%" }
-![Network02](../images/term1/lwyoi/network02.jpg){ align=left width="30%" }
-![Network03](../images/term1/lwyoi/network03.jpg){ align=left width="30%" }
+![Network01](../images/term1/lwyoi/network01.jpeg){ align=left width="31%" }
+![Network02](../images/term1/lwyoi/network02.jpg){ align=left width="31%" }
+![Network03](../images/term1/lwyoi/network03.jpg){ align=right width="31%" }
 
 
 <br/><br/>
