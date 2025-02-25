@@ -59,6 +59,7 @@ For this prompt, I looked back at my previous brainstorm session and decided to 
 ![Network02](../images/term1/lwyoi/network02.jpg){ align=left width="30%" }
 ![Network03](../images/term1/lwyoi/network03.jpg){ align=left width="30%" }
 
+
 <br/><br/>
 
 

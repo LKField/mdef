@@ -1,6 +1,11 @@
 # About Me 
 
 <div class="grid" markdown>
+
+<figure markdown="span">
+![Headshot](../images/headshots/Doune.jpeg)
+</figure>
+
 <figure markdown="span">
     My name is Lucretia Field and I have loved to create all sorts of things for as long as I can remember. 
 
@@ -17,7 +22,5 @@
 
 </figure>
 
-<figure markdown="span">
-![Headshot](../images/headshots/Doune.jpeg)
-</figure>
+
 </div>
