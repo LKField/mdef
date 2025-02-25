@@ -1,3 +1,201 @@
+# Extended Intelligences II 
+
+!!! abstract "Course Details"
+    **Name:** Extended Intelligences II
+
+    **Dates:** 19 to 21 February 2025
+
+    **Faculty:** Christian Ernst & Pietro Rustici
+
+## DOTTOD Camera 
+
+We started the Extended Intelligences II class with playing around with the [DOTTOD Camera](https://camera.dottod.net/){:target="_blank"} to experiment with what AI can do with an input image we took and a prompt we input. Here are some of the results of our efforts. 
+
+### Image 01 
+When we took the following image, we did so with the idea of getting the AI to merge the people into a wall in a horrific body horror mashup. Unfortunately, despite our attempts to do this, we were unable to get the AI to follow our brief. 
+
+So, since the *Settings* type we chose was called *Poetry preset*, I decided to try putting in a quote from William Shakespeare's *Midsummer Night’s Dream* about human actors portraying a wall in the play itself. This also didn't work, in fact none of the words from the quote appeared in the revised prompt at all, which was interesting. The final generated image shown is an attempt to make the scene look like it is from that scene in the play. This unfortunately also did not achieve the imagined result.
+
+=== "Image 01 - Prompt 01" 
+
+    <div class="grid" markdown>
+    !!! note "Original Image:" 
+        ![Original Image for DOTTOD input](../images/term2/extended/dottod/original_door.jpeg)
+        
+        <b>Settings:</b> imagine the person poking out the door as flying out of it as if he's being thrown out like trash and the two people on either side of the door appear as walls instead of normal people.
+
+    !!! note "Generated Image:" 
+        ![Generated image from first prompt](../images/term2/extended/dottod/people_walls_01.jpeg)
+        ??? abstract "Prompt:"
+            
+            My prompt has full detail so no need to add more. DO NOT add any detail, just use it AS-IS. Use the following information as the base details to generate the image: imagine the person poking out the door as flying out of it as if he's being thrown out like trash and the two people on either side of the door appear as walls instead of normal people. Scene description: The image depicts a scene on a city sidewalk with a focus on three people interacting near a large white door. Here are the details: 1. **People**: - There are three individuals. One person is standing on the left, partially turned away, with curly hair and wearing a cozy gray sweater. They have a relaxed posture, holding the door with one hand. - The person in the center appears to be making eye contact with the person on the left. They are wearing glasses and a black sweatshirt, and they have a friendly expression. - The person on the right has long, dark hair and is dressed in a dark outfit, possibly a long coat or dress. They appear to be looking at the person in the center. 2. **Door**: - The large white door stands upright, positioned between two people. It is a solid door with no visible windows or markings. 3. **Setting**: - The background features a city street with various buildings. There are some modern structures visible, as well as some classic European architecture with balconies and ornate detailing. - On the left are several recycling bins—one yellow and one green—indicating a focus on sustainability. 4. **Street**: - The sidewalk has a patterned tile surface, and there's a tree without leaves, suggesting a possibly chilly or winter season. - The sky appears overcast, giving a muted illumination to the scene. Overall, the image captures a moment of interaction among the individuals, with urban elements enhancing the context.
+
+        
+        ??? abstract "Revised Prompt:"
+            The image exhibits an urban scene with three individuals congregate near a large, unadorned white door. An Asian man in a snug gray sweater with curly hair stands left of the door, partially turned away, gently holding the door. Centrally positioned, a black woman in a black sweatshirt and glasses appears to engage with the man. Past the door, a white woman with lengthy, dark hair dressed in a obscure long robe or dress, perhaps attentively observing the central person. The door is substantial and windowless, standing erect between the two ladies. The backdrop comprises a city street with a blend of contemporary towers and traditionally-styled European edifices complete with balconies and intricate craftsmanship. On the left, yellow and green recycle bins allude to environmental consciousness. The pathway displays patterned tiling with a leaf-loosing tree nearby, hinting at a chilly season, enhanced by an overcast sky casting a subtle glow upon the scene. The scene portrays a moment of interaction among the individuals against an urban milieu.
+
+    </div>
+
+=== "Image 01 - Prompt 02" 
+
+    <div class="grid" markdown>
+    !!! note "Original Image:" 
+        ![Original Image for DOTTOD input](../images/term2/extended/dottod/original_door.jpeg)
+        
+        <b>Settings:</b> connect the humans to walls and recreate a wall with a door popping out. Replace the architecture with humans and vice versa.
+
+    !!! note "Generated Image:" 
+        ![Generated image from first prompt](../images/term2/extended/dottod/people_walls_02.jpeg)
+        ??? abstract "Prompt:"
+            
+            My prompt has full detail so no need to add more. DO NOT add any detail, just use it AS-IS. Use the following information as the base details to generate the image: connect the humans to walls and recreate a wall with a door popping out. Replace the architecture with humans and vice versa. Scene description: The image depicts a scene on a city sidewalk with a focus on three people interacting near a large white door. Here are the details: 1. **People**: - There are three individuals. One person is standing on the left, partially turned away, with curly hair and wearing a cozy gray sweater. They have a relaxed posture, holding the door with one hand. - The person in the center appears to be making eye contact with the person on the left. They are wearing glasses and a black sweatshirt, and they have a friendly expression. - The person on the right has long, dark hair and is dressed in a dark outfit, possibly a long coat or dress. They appear to be looking at the person in the center. 2. **Door**: - The large white door stands upright, positioned between two people. It is a solid door with no visible windows or markings. 3. **Setting**: - The background features a city street with various buildings. There are some modern structures visible, as well as some classic European architecture with balconies and ornate detailing. - On the left are several recycling bins—one yellow and one green—indicating a focus on sustainability. 4. **Street**: - The sidewalk has a patterned tile surface, and there's a tree without leaves, suggesting a possibly chilly or winter season. - The sky appears overcast, giving a muted illumination to the scene. Overall, the image captures a moment of interaction among the individuals, with urban elements enhancing the context.
+
+        
+        ??? abstract "Revised Prompt:"
+            Generate an image depicting a dadavist scene where three diverse individuals are interacting on a city sidewalk near a large white door standing upright with one person holding it, the door replaces architecture and humans replace the structural aspects. First person is a Caucasian female with curly hair partially turned away, wearing a cozy gray sweater and has a relaxed posture. Second person in the center is a Black male wearing glasses, a black sweatshirt and appears friendly. Third person on the right is a Hispanic female with long dark hair wearing a dark outfit. The scene includes buildings of modern and classic European architecture with ornate detailing replaced by human-like figures. Environmental consciousness is hinted by two recycling bins, one yellow and one green. The sidewalk is patterned tile and a leafless tree indicates winter season with the sky overcast.
+    </div>
+=== "Image 01 - Prompt 03" 
+
+    <div class="grid" markdown>
+    !!! note "Original Image:" 
+        ![Original Image for DOTTOD input](../images/term2/extended/dottod/original_door.jpeg)
+        
+        <b>Settings:</b> imagine the door as a window of opportunity and the people in the images as fairies dressed in 90s clothing style and the person poking through the door trying to fly away.
+
+    !!! note "Generated Image:" 
+        ![Generated image from first prompt](../images/term2/extended/dottod/fairies.jpeg)
+        ??? abstract "Prompt:"
+            
+            My prompt has full detail so no need to add more. DO NOT add any detail, just use it AS-IS. Use the following information as the base details to generate the image: imagine the door as a window of opportunity and the people in the images as fairies dressed in 90s clothing style and the person poking through the door trying to fly away. Scene description: The image depicts a scene on a city sidewalk with a focus on three people interacting near a large white door. Here are the details: 1. **People**: - There are three individuals. One person is standing on the left, partially turned away, with curly hair and wearing a cozy gray sweater. They have a relaxed posture, holding the door with one hand. - The person in the center appears to be making eye contact with the person on the left. They are wearing glasses and a black sweatshirt, and they have a friendly expression. - The person on the right has long, dark hair and is dressed in a dark outfit, possibly a long coat or dress. They appear to be looking at the person in the center. 2. **Door**: - The large white door stands upright, positioned between two people. It is a solid door with no visible windows or markings. 3. **Setting**: - The background features a city street with various buildings. There are some modern structures visible, as well as some classic European architecture with balconies and ornate detailing. - On the left are several recycling bins—one yellow and one green—indicating a focus on sustainability. 4. **Street**: - The sidewalk has a patterned tile surface, and there's a tree without leaves, suggesting a possibly chilly or winter season. - The sky appears overcast, giving a muted illumination to the scene. Overall, the image captures a moment of interaction among the individuals, with urban elements enhancing the context.
+
+        
+        ??? abstract "Revised Prompt:"
+            Imagine a city sidewalk scene with a sizable white door being the focal point and three people interacting around it. These individuals are perceived as fairies sporting 90s clothing. One fairy with curly hair is partially turned away, casually holding the door with one hand, and is dressed in a snug gray sweater. The second fairy, dressed in a black sweatshirt and equipped with glasses, seems to be engaging with the first fairy. The third fairy, clothed in a long dark outfit, is paying attention to the second fairy and features long, dark hair. This large door, devoid of windows or markings, represents a window of opportunity. The backdrop features a blend of modern and classically European architecture, including buildings with balconies and intricate detailing. The left side of the scene contains two recycling bins, one yellow and one green, highlighting an emphasis on sustainability. The sidewalk displays a patterned tile surface, and there's a leafless tree suggesting a possible chilly or winter season. The sky showcases an overcast atmosphere, providing a muted illumination across the scene. The image narrates an instance of interaction between the fairies, all supplemented by the urban context.
+    </div>
+
+=== "Image 01 - Prompt 04" 
+
+    <div class="grid" markdown>
+    !!! note "Original Image:" 
+        ![Original Image for DOTTOD input](../images/term2/extended/dottod/original_door.jpeg)
+        
+        <b>Settings:</b> [Enter Pyramus and Thisbe, Wall, Moonshine, and Lion] This man, with lime and rough-cast, doth present Wall, that vile Wall which did these lovers sunder; And through Wall's chink, poor souls, they are content To whisper. At the which let no man wonder. - William Shakespeare Midsummer Night’s Dream Act V, Scene 1
+
+    !!! note "Generated Image:" 
+        ![Generated image from first prompt](../images/term2/extended/dottod/shakespeare_02.jpeg)
+        ??? abstract "Prompt:"
+            
+            My prompt has full detail so no need to add more. DO NOT add any detail, just use it AS-IS. Use the following information as the base details to generate the image: [Enter Pyramus and Thisbe, Wall, Moonshine, and Lion] This man, with lime and rough-cast, doth present Wall, that vile Wall which did these lovers sunder; And through Wall's chink, poor souls, they are content To whisper. At the which let no man wonder. - William Shakespeare Midsummer Night’s Dream Act V, Scene 1 Scene description: The image depicts a scene on a city sidewalk with a focus on three people interacting near a large white door. Here are the details: 1. **People**: - There are three individuals. One person is standing on the left, partially turned away, with curly hair and wearing a cozy gray sweater. They have a relaxed posture, holding the door with one hand. - The person in the center appears to be making eye contact with the person on the left. They are wearing glasses and a black sweatshirt, and they have a friendly expression. - The person on the right has long, dark hair and is dressed in a dark outfit, possibly a long coat or dress. They appear to be looking at the person in the center. 2. **Door**: - The large white door stands upright, positioned between two people. It is a solid door with no visible windows or markings. 3. **Setting**: - The background features a city street with various buildings. There are some modern structures visible, as well as some classic European architecture with balconies and ornate detailing. - On the left are several recycling bins—one yellow and one green—indicating a focus on sustainability. 4. **Street**: - The sidewalk has a patterned tile surface, and there's a tree without leaves, suggesting a possibly chilly or winter season. - The sky appears overcast, giving a muted illumination to the scene. Overall, the image captures a moment of interaction among the individuals, with urban elements enhancing the context.
+
+        ??? abstract "Revised Prompt:"
+
+            A scene on a city sidewalk is depicted, with three people interacting near a large solid white door with no visible windows or markings. The person on the left is partially turned away, has curly hair, and is wearing a cozy gray sweater. They hold the door with one hand and have a relaxed posture. The person in the center is wearing glasses and a black sweatshirt, with a friendly expression, making eye contact with the person on the left. The person on the right has long, dark hair and is dressed in a dark outfit. The large door is positioned between two of the people. The scene showcases a city street with various buildings, having modern and classic European architecture with balconies and ornate detailing. To the left of the scene are yellow and green recycling bins. The sidewalk has a patterned tile surface, and there's a tree without leaves suggesting a chilly season. The sky appears overcast, casting a muted illumination on the scene.
+
+    </div>
+
+=== "Image 01 - Prompt 05" 
+
+    <div class="grid" markdown>
+    !!! note "Original Image:" 
+        ![Original Image for DOTTOD input](../images/term2/extended/dottod/original_door.jpeg)
+        
+        <b>Settings:</b> imagine this scene as a set design from the play by William Shakespeare called Midsummer Night’s Dream where the actors portray a wall and two lovers who whisper through a hole in the wall.
+
+    !!! note "Generated Image:" 
+        ![Generated image from first prompt](../images/term2/extended/dottod/shakespeare_described.jpeg)
+        ??? abstract "Prompt:"
+            
+            My prompt has full detail so no need to add more. DO NOT add any detail, just use it AS-IS. Use the following information as the base details to generate the image: imagine this scene as a set design from the play by William Shakespeare called Midsummer Night’s Dream where the actors portray a wall and two lovers who whisper through a hole in the wall. Scene description: The image depicts a scene on a city sidewalk with a focus on three people interacting near a large white door. Here are the details: 1. **People**: - There are three individuals. One person is standing on the left, partially turned away, with curly hair and wearing a cozy gray sweater. They have a relaxed posture, holding the door with one hand. - The person in the center appears to be making eye contact with the person on the left. They are wearing glasses and a black sweatshirt, and they have a friendly expression. - The person on the right has long, dark hair and is dressed in a dark outfit, possibly a long coat or dress. They appear to be looking at the person in the center. 2. **Door**: - The large white door stands upright, positioned between two people. It is a solid door with no visible windows or markings. 3. **Setting**: - The background features a city street with various buildings. There are some modern structures visible, as well as some classic European architecture with balconies and ornate detailing. - On the left are several recycling bins—one yellow and one green—indicating a focus on sustainability. 4. **Street**: - The sidewalk has a patterned tile surface, and there's a tree without leaves, suggesting a possibly chilly or winter season. - The sky appears overcast, giving a muted illumination to the scene. Overall, the image captures a moment of interaction among the individuals, with urban elements enhancing the context.
+
+        ??? abstract "Revised Prompt:"
+
+            Imagine a scene inspired by a William Shakespeare's play, A Midsummer Night’s Dream. The setting is a city sidewalk featuring an amalgamation of modern and classical European buildings. Three people are interacting near a large, featureless white door. The first person, a Caucasian man with curly hair, clad in a cozy grey sweater, casually holds the door. An East-Asian woman in a black sweatshirt, wearing glasses with a friendly expression, stands in the centre, making eye contact with the man. On the right, a Middle-Eastern woman with long dark hair, clothed in a dark outfit which could be a long coat or a dress, appears to be observing this exchange. The sidewalk is decorated with patterned tiles and a leafless tree indicating a chilling winter season. Adding more context to the setting, are recycling bins, in yellow and green, demonstrating sustainability. The sky lends a muted illumination to the scene, thanks to its overcast nature, encapsulating this charming city interaction.
+
+    </div>
+
+### Image 02 
+With our edits of the next photo, we tried to make the coffee shop look old, apocalyptic, or dystopian. We had second year MDEF students in our group who mentioned their experiments from last year that suggested that the AI does not allow for creating ugly or scary images, so this was our aim with this image. 
+
+We noticed in the results that it brought some of the words of our *Settings* into text in the images. It didn't want to change the content of the image to make it dark or scary, but it did use the words we input as text for the signs in the images. 
+
+=== "Image 02 - Prompt 01" 
+
+    <div class="grid" markdown>
+    !!! note "Original Image:" 
+        ![Original Image for DOTTOD input](../images/term2/extended/dottod/original_coffee.jpeg)
+        
+        <b>Settings:</b> The future of fuel 
+        Everything runs on coffee 
+        Caffeine is the currency that runs the world 
+        Capitalism runs rampant and greed rules the day 
+        Inequality of resources and despair 
+        Dystopian times 
+        Everything is bad and horrible
+
+    !!! note "Generated Image:" 
+        ![Generated image from first prompt](../images/term2/extended/dottod/coffee_01.jpeg)
+        ??? abstract "Prompt:"
+            
+            My prompt has full detail so no need to add more. DO NOT add any detail, just use it AS-IS. Use the following information as the base details to generate the image: The future of fuel Everything runs on coffee Caffeine is the currency that runs the world Capitalism runs rampant and greed rules the day Inequality of resources and despair Dystopian times Everything is bad and horrible Scene description: The image depicts a city street with a focus on a building prominently displaying the name "Poblenou Roasting Company" in large, colorful letters above a row of windows. The building has a light yellow exterior, and the ground floor features a large window flanked by the words "Poblenou" and "Roasting Company" in bold black lettering. In front of the building, there is a seating area with people sitting at a long, dark table, indicating it might be a café or restaurant. To the left of the building, there's a large mural with vibrant colors depicting abstract shapes and forms, adding an artistic flair to the scene. Several cars are parked along the street, including a blue vehicle close to the kampany. In the background, there are modern apartment buildings visible, showcasing a more contemporary architectural style. The weather appears overcast, with gray clouds dominating the sky. Overall, the scene conveys a lively urban environment with a blend of art and commerce.
+
+
+        ??? abstract "Revised Prompt:"
+
+            Visualize a dystopian future where everything runs on coffee and caffeine is the prized currency. There's widespread inequality in resource distribution and rampant capitalism. Despair permeates the air. Centered in this bleak setting is a lively city street showcasing an elegantly built café named 'Poblenou Roasting Company'. Its light-yellow exterior contrasts with the monotonous environment. It is a buzzing locale, with people from all walks of life congregated around a long, dark table. Adjoining the café, there's a large vibrant mural adding an artistic splash to the grim surrounding. Parked are futuristic cars - one noticeably blue - in front of the café. In the backdrop, modern but austere apartment buildings stand, a reminder of the contrasting nature of survival and luxury in these tough times. The overcast sky adds a melancholic mood to this bustling urban locale where art and commerce attempt to thrive amidst despair.
+    </div>
+
+=== "Image 02 - Prompt 02" 
+
+    <div class="grid" markdown>
+    !!! note "Original Image:" 
+        ![Original Image for DOTTOD input](../images/term2/extended/dottod/original_coffee.jpeg)
+        
+        <b>Settings:</b> The future of fuel, everything runs on coffee. Caffeine is the currency that runs the world.
+
+    !!! note "Generated Image:" 
+        ![Generated image from first prompt](../images/term2/extended/dottod/coffee_02.jpeg)
+        ??? abstract "Prompt:"
+            
+            My prompt has full detail so no need to add more. DO NOT add any detail, just use it AS-IS. Use the following information as the base details to generate the image: The future of fuel, everything runs on coffee. Caffeine is the currency that runs the world. Scene description: The image depicts a city street with a focus on a building prominently displaying the name "Poblenou Roasting Company" in large, colorful letters above a row of windows. The building has a light yellow exterior, and the ground floor features a large window flanked by the words "Poblenou" and "Roasting Company" in bold black lettering. In front of the building, there is a seating area with people sitting at a long, dark table, indicating it might be a café or restaurant. To the left of the building, there's a large mural with vibrant colors depicting abstract shapes and forms, adding an artistic flair to the scene. Several cars are parked along the street, including a blue vehicle close to the kampany. In the background, there are modern apartment buildings visible, showcasing a more contemporary architectural style. The weather appears overcast, with gray clouds dominating the sky. Overall, the scene conveys a lively urban environment with a blend of art and commerce.
+
+
+        ??? abstract "Revised Prompt:"
+
+            Envision the fuel of the future, where everything runs on coffee. Depict a city street that circles around a café, labeled with the vibrant, colorful signage of 'Poblenou Roasting Company'. The two-storey structure painted in a cheery shade of light yellow with bold black lettering along its ground-floor windows sets itself apart. In its proximity, an inviting outdoor seating area, frequented by people settled at a dark, extensive table, suggests the café ambiance. Adjacent to the café, spot a vibrant, abstract mural that contributes to the city's artistic charm. Several cars, including a blue one near the café, are stationed along the street. The backdrop of the scene is adorned with sophisticated apartment buildings symbolizing modern architecture. The atmosphere is slightly dimmed under an overcast sky. This image should encapsulate a bustling urban aesthetic, fusing elements of art and commerce.
+    </div>
+
+=== "Image 02 - Prompt 03" 
+
+    <div class="grid" markdown>
+    !!! note "Original Image:" 
+        ![Original Image for DOTTOD input](../images/term2/extended/dottod/original_coffee.jpeg)
+        
+        <b>Settings:</b> At the end of the world, only what the humans left behind remains
+
+    !!! note "Generated Image:" 
+        ![Generated image from first prompt](../images/term2/extended/dottod/coffee_03.jpeg)
+        ??? abstract "Prompt:"
+            
+            My prompt has full detail so no need to add more. DO NOT add any detail, just use it AS-IS. Use the following information as the base details to generate the image: At the end of the world, only what the humans left behind remains Scene description: The image depicts a city street with a focus on a building prominently displaying the name "Poblenou Roasting Company" in large, colorful letters above a row of windows. The building has a light yellow exterior, and the ground floor features a large window flanked by the words "Poblenou" and "Roasting Company" in bold black lettering. In front of the building, there is a seating area with people sitting at a long, dark table, indicating it might be a café or restaurant. To the left of the building, there's a large mural with vibrant colors depicting abstract shapes and forms, adding an artistic flair to the scene. Several cars are parked along the street, including a blue vehicle close to the kampany. In the background, there are modern apartment buildings visible, showcasing a more contemporary architectural style. The weather appears overcast, with gray clouds dominating the sky. Overall, the scene conveys a lively urban environment with a blend of art and commerce.
+
+        ??? abstract "Revised Prompt:"
+
+            At the end of the world, we see a city street showcasing what humans have left behind. The highlight is a building named 'Poblenou Roasting Company' with large colorful letters over the windows. Its exterior has a light yellow hue, and the ground floor boasts a grand window. Either side of the window flaunts the words 'Poblenou' and 'Roasting Company' in bold black font. Before this building, a seating area thrives with individuals gathered at a long, dark table, suggesting a café or restaurant setting. To the building's left is a large mural portraying abstract shapes and forms in vivid colors, infusing an artistic fervor to the scene. The street is home to numerous parked cars, with a distinct blue car stationed near the company. The backdrop reveals modern apartment structures, breaking away with their contemporary architectural style. The weather is overcast, with gray clouds taking over the sky. The setting, in its entirety, mirrors a vibrant urban landscape, where art and commerce seamlessly blend.
+
+    </div>
+
+There were other images our group worked on, but these were the ones I specifically worked on myself and I found interesting. It was interesting how little impact our *Settings* seemed to have on the output. The input image itself was much stronger influence than the words we wrote to try to generate certain aesthetics or goals. 
+
+Throughout this whole exercise, I was trying to not think too much about the resources being used to generate our silly images that weren't even doing what we wanted them to do. Whenever I use AI, I struggle with this internal battle about the resources I am using, the water used to cool servers, the electricity used to run those servers, and the CO~2~ produced through the whole process. Given how little I use generative AI, I am hoping that this experiment kept my impact fairly low, and expect to continue limiting my use of these technologies as much as I can despite the silly, somewhat enjoyable time I had messing with the DOTTOD Camera. 
+
+- Your individual experimentation with Modmatrix. 
+- Your group’s experimentation with our Arduino library. Describe 
+    - your concept, 
+    - your progress and 
+    - your final result. 
+    - Please highlight your personal contribution to the group’s effort. 
+- Your personal reflections on the course and what you are taking away for your continued MDEF projects. 
+
 
 
 ## Playing with Modmatrix 
@@ -221,3 +419,8 @@ Enamel Paint: Forest/River Detail
 Glass Panels: Climax Area
 
 CAD 
+
+## Arduino Experiment 
+
+
+## Reflection 
