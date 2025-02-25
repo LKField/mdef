@@ -57,8 +57,10 @@ The following day, we went on a trip up to [Valldaura Labs](https://valldaura.ne
 
 It was fun to very briefly be on the Camino de Santiago. For more about my previous experience on a very different part of the Camino, check out my [blog posts](https://lucretiafield.com/category/travel-2023/spain/camino/page/2/){:target="_blank"} about it. 
 
+<div class="grid" markdown>
 ![Camino Trail](../images/term1/agriculture/IMG_4799.jpeg){ align=left width=45% }
 ![Camino Arrow](../images/term1/agriculture/IMG_4800.jpeg){ align=right width=45% }
+</div>
 
 Some of the photos I collected on the walk are below. 
 
@@ -67,23 +69,31 @@ Some of the photos I collected on the walk are below.
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides-2 fade-2">
-      <img src="../../images/term1/agriculture/IMG_4802.jpeg" style="width:49%">
-      <img src="../../images/term1/agriculture/IMG_4827.jpeg" style="float:right;width:49%">
+    <div class="grid" markdown>
+    <img src="../../images/term1/agriculture/IMG_4802.jpeg">
+    <img src="../../images/term1/agriculture/IMG_4827.jpeg">
+    </div>
   </div>
 
   <div class="mySlides-2 fade-2">
-      <img src="../../images/term1/agriculture/IMG_4803.jpeg" style="width:49%">
-      <img src="../../images/term1/agriculture/IMG_4804.jpeg" style="float:right;width:49%">
+    <div class="grid" markdown>
+    <img src="../../images/term1/agriculture/IMG_4803.jpeg">
+    <img src="../../images/term1/agriculture/IMG_4804.jpeg">
+    </div>
   </div>
 
   <div class="mySlides-2 fade-2">
-      <img src="../../images/term1/agriculture/IMG_4807.jpeg" style="width:49%">
-      <img src="../../images/term1/agriculture/IMG_4819.jpeg" style="float:right;width:49%">
+    <div class="grid" markdown>
+    <img src="../../images/term1/agriculture/IMG_4807.jpeg">
+    <img src="../../images/term1/agriculture/IMG_4819.jpeg">
+    </div>
   </div>
 
   <div class="mySlides-2 fade-2">
-      <img src="../../images/term1/agriculture/IMG_4837.jpeg" style="width:49%">
-      <img src="../../images/term1/agriculture/IMG_4811.jpg" style="float:right;width:49%">
+    <div class="grid" markdown>
+    <img src="../../images/term1/agriculture/IMG_4837.jpeg">
+    <img src="../../images/term1/agriculture/IMG_4811.jpg">
+    </div>
   </div>
 
   <!-- Next and previous buttons -->

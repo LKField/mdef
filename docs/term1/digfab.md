@@ -53,6 +53,8 @@ We had an introduction to the Barduino and the Arduino IDE, setting up basic fun
 ![Filled](../images/term1/digfab/IMG_4594.jpeg){ align=left width=30% }
 ![Silicone](../images/term1/digfab/IMG_4610.jpeg){ align=left width=30% }
 
+<div style="page-break-after: always;"></div>
+
 ## Session 07 
 
 !!! abstract "Session 7"

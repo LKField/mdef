@@ -36,11 +36,10 @@ We also noticed a few design choices that were part of the Design for Manufactur
 
 We were unable to get the device working as a whole, but we did manage to get some simple pieces of it working. We did not try to get the Wifi board working and instead focused on the components that we could more easily understand, like the LED indicators, push buttons, and the speakers themselves. 
 
-
+<div class="grid" markdown>
 ![LED](../images/term1/machine/3LED.jpeg){ align=left width="46%"} 
-
 ![ButtonLED](../images/term1/machine/buttonLED.gif){ align=right width="46%"}
-
+</div>
 
 
 ### The Stove
