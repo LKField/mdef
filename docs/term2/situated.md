@@ -115,9 +115,6 @@
 
 <!-- Slideshow container -->
 <div class="slideshow-container-2">
-
-/Users/lucretiafield/Documents/School/MDEF/WebsiteMDEF/mdef-journey/docs/
-
   <!-- Full-width images with number and caption text -->
   <div class="mySlides-2 fade-2">
     <img src="../../images/term2/situated/IMG_5553.jpeg" style="width:100%">
