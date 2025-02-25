@@ -61,6 +61,7 @@ For this prompt, I looked back at my previous brainstorm session and decided to 
 
 <div style="page-break-after: always;"></div>
 
+
 The following video contextualizes the network prosthetic as a visualization of the networks that already exist. Nature has so many networks, from mycelium that allows fungi to transfer information, nutrients, and water to bees that use pheromones to communicate across distance. Humans also have systems in place to communicate with one another across distance, but what if we could communicate like fungi? With visible, tangible connections allowing us to see the influence on those in our community when we pull a tread, what could we learn about ourself and those around us? 
 
 <figure markdown="span">
