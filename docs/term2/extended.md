@@ -11,7 +11,7 @@
 
 We started the Extended Intelligences II class with playing around with the [DOTTOD Camera](https://camera.dottod.net/){:target="_blank"} to experiment with what AI can do with an input image we took and a prompt we input. Here are some of the results of our efforts. 
 
-### Image 01 
+### Door Image
 When we took the following image, we did so with the idea of getting the AI to merge the people into a wall in a horrific body horror mashup. Unfortunately, despite our attempts to do this, we were unable to get the AI to follow our brief. 
 
 So, since the *Settings* type we chose was called *Poetry preset*, I decided to try putting in a quote from William Shakespeare's *Midsummer Night’s Dream* about human actors portraying a wall in the play itself. This also didn't work, in fact none of the words from the quote appeared in the revised prompt at all, which was interesting. The final generated image shown is an attempt to make the scene look like it is from that scene in the play. This unfortunately also did not achieve the imagined result.
@@ -25,7 +25,7 @@ So, since the *Settings* type we chose was called *Poetry preset*, I decided to 
         <b>Settings:</b> imagine the person poking out the door as flying out of it as if he's being thrown out like trash and the two people on either side of the door appear as walls instead of normal people.
 
     !!! note "Generated Image:" 
-        ![Generated image from first prompt](../images/term2/extended/dottod/people_walls_01.jpeg)
+        ![Generated image from prompt](../images/term2/extended/dottod/people_walls_01.jpeg)
         ??? abstract "Prompt:"
             
             My prompt has full detail so no need to add more. DO NOT add any detail, just use it AS-IS. Use the following information as the base details to generate the image: imagine the person poking out the door as flying out of it as if he's being thrown out like trash and the two people on either side of the door appear as walls instead of normal people. Scene description: The image depicts a scene on a city sidewalk with a focus on three people interacting near a large white door. Here are the details: 1. **People**: - There are three individuals. One person is standing on the left, partially turned away, with curly hair and wearing a cozy gray sweater. They have a relaxed posture, holding the door with one hand. - The person in the center appears to be making eye contact with the person on the left. They are wearing glasses and a black sweatshirt, and they have a friendly expression. - The person on the right has long, dark hair and is dressed in a dark outfit, possibly a long coat or dress. They appear to be looking at the person in the center. 2. **Door**: - The large white door stands upright, positioned between two people. It is a solid door with no visible windows or markings. 3. **Setting**: - The background features a city street with various buildings. There are some modern structures visible, as well as some classic European architecture with balconies and ornate detailing. - On the left are several recycling bins—one yellow and one green—indicating a focus on sustainability. 4. **Street**: - The sidewalk has a patterned tile surface, and there's a tree without leaves, suggesting a possibly chilly or winter season. - The sky appears overcast, giving a muted illumination to the scene. Overall, the image captures a moment of interaction among the individuals, with urban elements enhancing the context.
@@ -45,7 +45,7 @@ So, since the *Settings* type we chose was called *Poetry preset*, I decided to 
         <b>Settings:</b> connect the humans to walls and recreate a wall with a door popping out. Replace the architecture with humans and vice versa.
 
     !!! note "Generated Image:" 
-        ![Generated image from first prompt](../images/term2/extended/dottod/people_walls_02.jpeg)
+        ![Generated image from prompt](../images/term2/extended/dottod/people_walls_02.jpeg)
         ??? abstract "Prompt:"
             
             My prompt has full detail so no need to add more. DO NOT add any detail, just use it AS-IS. Use the following information as the base details to generate the image: connect the humans to walls and recreate a wall with a door popping out. Replace the architecture with humans and vice versa. Scene description: The image depicts a scene on a city sidewalk with a focus on three people interacting near a large white door. Here are the details: 1. **People**: - There are three individuals. One person is standing on the left, partially turned away, with curly hair and wearing a cozy gray sweater. They have a relaxed posture, holding the door with one hand. - The person in the center appears to be making eye contact with the person on the left. They are wearing glasses and a black sweatshirt, and they have a friendly expression. - The person on the right has long, dark hair and is dressed in a dark outfit, possibly a long coat or dress. They appear to be looking at the person in the center. 2. **Door**: - The large white door stands upright, positioned between two people. It is a solid door with no visible windows or markings. 3. **Setting**: - The background features a city street with various buildings. There are some modern structures visible, as well as some classic European architecture with balconies and ornate detailing. - On the left are several recycling bins—one yellow and one green—indicating a focus on sustainability. 4. **Street**: - The sidewalk has a patterned tile surface, and there's a tree without leaves, suggesting a possibly chilly or winter season. - The sky appears overcast, giving a muted illumination to the scene. Overall, the image captures a moment of interaction among the individuals, with urban elements enhancing the context.
@@ -63,7 +63,7 @@ So, since the *Settings* type we chose was called *Poetry preset*, I decided to 
         <b>Settings:</b> imagine the door as a window of opportunity and the people in the images as fairies dressed in 90s clothing style and the person poking through the door trying to fly away.
 
     !!! note "Generated Image:" 
-        ![Generated image from first prompt](../images/term2/extended/dottod/fairies.jpeg)
+        ![Generated image from prompt](../images/term2/extended/dottod/fairies.jpeg)
         ??? abstract "Prompt:"
             
             My prompt has full detail so no need to add more. DO NOT add any detail, just use it AS-IS. Use the following information as the base details to generate the image: imagine the door as a window of opportunity and the people in the images as fairies dressed in 90s clothing style and the person poking through the door trying to fly away. Scene description: The image depicts a scene on a city sidewalk with a focus on three people interacting near a large white door. Here are the details: 1. **People**: - There are three individuals. One person is standing on the left, partially turned away, with curly hair and wearing a cozy gray sweater. They have a relaxed posture, holding the door with one hand. - The person in the center appears to be making eye contact with the person on the left. They are wearing glasses and a black sweatshirt, and they have a friendly expression. - The person on the right has long, dark hair and is dressed in a dark outfit, possibly a long coat or dress. They appear to be looking at the person in the center. 2. **Door**: - The large white door stands upright, positioned between two people. It is a solid door with no visible windows or markings. 3. **Setting**: - The background features a city street with various buildings. There are some modern structures visible, as well as some classic European architecture with balconies and ornate detailing. - On the left are several recycling bins—one yellow and one green—indicating a focus on sustainability. 4. **Street**: - The sidewalk has a patterned tile surface, and there's a tree without leaves, suggesting a possibly chilly or winter season. - The sky appears overcast, giving a muted illumination to the scene. Overall, the image captures a moment of interaction among the individuals, with urban elements enhancing the context.
@@ -82,7 +82,7 @@ So, since the *Settings* type we chose was called *Poetry preset*, I decided to 
         <b>Settings:</b> [Enter Pyramus and Thisbe, Wall, Moonshine, and Lion] This man, with lime and rough-cast, doth present Wall, that vile Wall which did these lovers sunder; And through Wall's chink, poor souls, they are content To whisper. At the which let no man wonder. - William Shakespeare Midsummer Night’s Dream Act V, Scene 1
 
     !!! note "Generated Image:" 
-        ![Generated image from first prompt](../images/term2/extended/dottod/shakespeare_02.jpeg)
+        ![Generated image from prompt](../images/term2/extended/dottod/shakespeare_02.jpeg)
         ??? abstract "Prompt:"
             
             My prompt has full detail so no need to add more. DO NOT add any detail, just use it AS-IS. Use the following information as the base details to generate the image: [Enter Pyramus and Thisbe, Wall, Moonshine, and Lion] This man, with lime and rough-cast, doth present Wall, that vile Wall which did these lovers sunder; And through Wall's chink, poor souls, they are content To whisper. At the which let no man wonder. - William Shakespeare Midsummer Night’s Dream Act V, Scene 1 Scene description: The image depicts a scene on a city sidewalk with a focus on three people interacting near a large white door. Here are the details: 1. **People**: - There are three individuals. One person is standing on the left, partially turned away, with curly hair and wearing a cozy gray sweater. They have a relaxed posture, holding the door with one hand. - The person in the center appears to be making eye contact with the person on the left. They are wearing glasses and a black sweatshirt, and they have a friendly expression. - The person on the right has long, dark hair and is dressed in a dark outfit, possibly a long coat or dress. They appear to be looking at the person in the center. 2. **Door**: - The large white door stands upright, positioned between two people. It is a solid door with no visible windows or markings. 3. **Setting**: - The background features a city street with various buildings. There are some modern structures visible, as well as some classic European architecture with balconies and ornate detailing. - On the left are several recycling bins—one yellow and one green—indicating a focus on sustainability. 4. **Street**: - The sidewalk has a patterned tile surface, and there's a tree without leaves, suggesting a possibly chilly or winter season. - The sky appears overcast, giving a muted illumination to the scene. Overall, the image captures a moment of interaction among the individuals, with urban elements enhancing the context.
@@ -102,7 +102,7 @@ So, since the *Settings* type we chose was called *Poetry preset*, I decided to 
         <b>Settings:</b> imagine this scene as a set design from the play by William Shakespeare called Midsummer Night’s Dream where the actors portray a wall and two lovers who whisper through a hole in the wall.
 
     !!! note "Generated Image:" 
-        ![Generated image from first prompt](../images/term2/extended/dottod/shakespeare_described.jpeg)
+        ![Generated image from prompt](../images/term2/extended/dottod/shakespeare_described.jpeg)
         ??? abstract "Prompt:"
             
             My prompt has full detail so no need to add more. DO NOT add any detail, just use it AS-IS. Use the following information as the base details to generate the image: imagine this scene as a set design from the play by William Shakespeare called Midsummer Night’s Dream where the actors portray a wall and two lovers who whisper through a hole in the wall. Scene description: The image depicts a scene on a city sidewalk with a focus on three people interacting near a large white door. Here are the details: 1. **People**: - There are three individuals. One person is standing on the left, partially turned away, with curly hair and wearing a cozy gray sweater. They have a relaxed posture, holding the door with one hand. - The person in the center appears to be making eye contact with the person on the left. They are wearing glasses and a black sweatshirt, and they have a friendly expression. - The person on the right has long, dark hair and is dressed in a dark outfit, possibly a long coat or dress. They appear to be looking at the person in the center. 2. **Door**: - The large white door stands upright, positioned between two people. It is a solid door with no visible windows or markings. 3. **Setting**: - The background features a city street with various buildings. There are some modern structures visible, as well as some classic European architecture with balconies and ornate detailing. - On the left are several recycling bins—one yellow and one green—indicating a focus on sustainability. 4. **Street**: - The sidewalk has a patterned tile surface, and there's a tree without leaves, suggesting a possibly chilly or winter season. - The sky appears overcast, giving a muted illumination to the scene. Overall, the image captures a moment of interaction among the individuals, with urban elements enhancing the context.
@@ -113,7 +113,7 @@ So, since the *Settings* type we chose was called *Poetry preset*, I decided to 
 
     </div>
 
-### Image 02 
+### Coffee Shop Image
 With our edits of the next photo, we tried to make the coffee shop look old, apocalyptic, or dystopian. We had second year MDEF students in our group who mentioned their experiments from last year that suggested that the AI does not allow for creating ugly or scary images, so this was our aim with this image. 
 
 We noticed in the results that it brought some of the words of our *Settings* into text in the images. It didn't want to change the content of the image to make it dark or scary, but it did use the words we input as text for the signs in the images. 
@@ -133,7 +133,7 @@ We noticed in the results that it brought some of the words of our *Settings* in
         Everything is bad and horrible
 
     !!! note "Generated Image:" 
-        ![Generated image from first prompt](../images/term2/extended/dottod/coffee_01.jpeg)
+        ![Generated image from prompt](../images/term2/extended/dottod/coffee_01.jpeg)
         ??? abstract "Prompt:"
             
             My prompt has full detail so no need to add more. DO NOT add any detail, just use it AS-IS. Use the following information as the base details to generate the image: The future of fuel Everything runs on coffee Caffeine is the currency that runs the world Capitalism runs rampant and greed rules the day Inequality of resources and despair Dystopian times Everything is bad and horrible Scene description: The image depicts a city street with a focus on a building prominently displaying the name "Poblenou Roasting Company" in large, colorful letters above a row of windows. The building has a light yellow exterior, and the ground floor features a large window flanked by the words "Poblenou" and "Roasting Company" in bold black lettering. In front of the building, there is a seating area with people sitting at a long, dark table, indicating it might be a café or restaurant. To the left of the building, there's a large mural with vibrant colors depicting abstract shapes and forms, adding an artistic flair to the scene. Several cars are parked along the street, including a blue vehicle close to the kampany. In the background, there are modern apartment buildings visible, showcasing a more contemporary architectural style. The weather appears overcast, with gray clouds dominating the sky. Overall, the scene conveys a lively urban environment with a blend of art and commerce.
@@ -173,7 +173,7 @@ We noticed in the results that it brought some of the words of our *Settings* in
         <b>Settings:</b> At the end of the world, only what the humans left behind remains
 
     !!! note "Generated Image:" 
-        ![Generated image from first prompt](../images/term2/extended/dottod/coffee_03.jpeg)
+        ![Generated image from prompt](../images/term2/extended/dottod/coffee_03.jpeg)
         ??? abstract "Prompt:"
             
             My prompt has full detail so no need to add more. DO NOT add any detail, just use it AS-IS. Use the following information as the base details to generate the image: At the end of the world, only what the humans left behind remains Scene description: The image depicts a city street with a focus on a building prominently displaying the name "Poblenou Roasting Company" in large, colorful letters above a row of windows. The building has a light yellow exterior, and the ground floor features a large window flanked by the words "Poblenou" and "Roasting Company" in bold black lettering. In front of the building, there is a seating area with people sitting at a long, dark table, indicating it might be a café or restaurant. To the left of the building, there's a large mural with vibrant colors depicting abstract shapes and forms, adding an artistic flair to the scene. Several cars are parked along the street, including a blue vehicle close to the kampany. In the background, there are modern apartment buildings visible, showcasing a more contemporary architectural style. The weather appears overcast, with gray clouds dominating the sky. Overall, the scene conveys a lively urban environment with a blend of art and commerce.
@@ -188,7 +188,307 @@ There were other images our group worked on, but these were the ones I specifica
 
 Throughout this whole exercise, I was trying to not think too much about the resources being used to generate our silly images that weren't even doing what we wanted them to do. Whenever I use AI, I struggle with this internal battle about the resources I am using, the water used to cool servers, the electricity used to run those servers, and the CO~2~ produced through the whole process. Given how little I use generative AI, I am hoping that this experiment kept my impact fairly low, and expect to continue limiting my use of these technologies as much as I can despite the silly, somewhat enjoyable time I had messing with the DOTTOD Camera. 
 
-- Your individual experimentation with Modmatrix. 
+## Playing with Modmatrix 
+
+Next we played around individually with [Modmatrix](https://modmatrix.app/){:target="_blank"}, to experiment with different types of AI prompting for prototyping. It has various input options like photo, text, audio (which I didn't use because I didn't want to enable microphone permissions if I could avoid it) and some output options like photo, text, CAD and perhaps more that I have forgotten. 
+
+I tried a few different inputs and outputs, check out my musings below
+
+### Photo
+
+=== "Photo to Photo" 
+
+    <div class="grid" markdown>
+    !!! note "Original Image:" 
+        ![Original Image for DOTTOD input](../images/term1/lwyoi/detective/1508_Dig.jpg)
+
+        **Generated Description of photo:**
+        The image depicts a person crouching on a sandy beach near the shoreline. They are wearing a green jacket and dark pants or skirt, with their hair pulled back. The person is interacting with a small electronic device or setup on the sand next to a structure, possibly part of a lifeguard station, which displays a blue cross symbol. The ocean waves are visible in the background under an overcast sky.
+
+        **My input for Modified prompt:** Make it a dystopian future version of the same image
+
+
+    !!! note "Generated Image:" 
+        ![Generated image from first prompt](../images/term2/extended/generated_01.png)
+
+        ??? abstract "**New Generated prompt:**"  
+            In this dystopian future version of the image, the once pristine sandy beach is now a desolate and polluted landscape. The sand is littered with debris and remnants of human civilization, including twisted metal, shattered glass, and discarded plastic waste. The ocean, now a murky and oily body of water, laps lethargically at the shore, with toxic froth lining its edge.
+
+            The person, wearing a worn and weathered green jacket, is crouched amidst this wasteland. Their outfit now incorporates makeshift protective gear made from salvaged materials, including a mask and goggles to guard against the harsh, contaminated air and biting winds. The sky overhead is a smog-choked expanse with an eerie, sickly yellow tint.
+
+            The electronic device they are interacting with no longer looks modern or intact but is a cobbled-together apparatus of salvaged technology, sparking occasionally, reflecting the scarcity of resources. The nearby structure, which used to display a blue cross, now appears dilapidated and repurposed. Its once clearly marked symbol is faded and graffitied over with signs of rebellion or distress, such as an anarchy symbol or desperate plea for help.
+
+            The entire scene is cast in a dim, muted palette, with shadows extending long under the diffuse, artificial light from occasional flickering, solar-powered street lamps and distant industrial fires that dot the horizon. The oppressive atmosphere hints at a world struggling to survive and adapt in the face of environmental collapse and societal upheaval.
+
+    </div>
+
+=== "Text to Photo - Prompt 01" 
+
+    <div class="grid" markdown>
+    !!! note "Input:" 
+        Gentles, perchance you wonder at this show; <br>
+        But wonder on, till truth make all things plain. <br>
+        This man is Pyramus, if you would know; <br>
+        This beauteous lady Thisby is certain. <br>
+        This man, with lime and rough-cast, doth present <br>
+        Wall, that vile Wall which did these lovers sunder;  <br>
+        And through Wall's chink, poor souls, they are content <br>
+        To whisper. At the which let no man wonder. <br>
+        This man, with lanthorn, dog, and bush of thorn, <br>
+        Presenteth Moonshine; for, if you will know, <br>
+        By moonshine did these lovers think no scorn <br>
+        To meet at Ninus' tomb, there, there to woo. <br>
+        This grisly beast, which Lion hight by name, <br>
+        The trusty Thisby, coming first by night, <br>
+        Did scare away, or rather did affright; <br>
+        And, as she fled, her mantle she did fall, <br> 
+        Which Lion vile with bloody mouth did stain. <br>
+        Anon comes Pyramus, sweet youth and tall, <br>
+        And finds his trusty Thisby's mantle slain: <br>
+        Whereat, with blade, with bloody blameful blade, <br>
+        He bravely broach'd is boiling bloody breast; <br> 
+        And Thisby, tarrying in mulberry shade, <br>
+        His dagger drew, and died. For all the rest, <br>
+        Let Lion, Moonshine, Wall, and lovers twain <br>
+        At large discourse, while here they do remain. <br>
+
+        [A Midsummer Night's Dream - Act V, Scene 1](https://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=midsummer&Act=5&Scene=1&Scope=scene){:target="_blank"}
+
+        **My input for Modified prompt:** Make the text solarpunk
+
+    !!! note "Generated Image:" 
+        ![Generated image from first prompt](../images/term2/extended/solarpunk_shakespeare.png)
+        ??? abstract "New Generated Prompt:" 
+            Gentle friends, behold this cheerful scene; <br>
+            With hope, let truth illuminate the green. <br>
+            Here is Pyramus, with dreams so bright; <br>
+            And beloved Thisby, glowing with delight. <br>
+            This kind soul, with plants and vines adorned, <br>
+            Is the Wall through which their love has soared; <br>
+            And through green tendrils, whispers softly shared, <br>
+            A bond that blooms, their love declared. <br>
+
+            There stands the Moon, with lantern glow so warm, <br>
+            Amid the trees that shelter in the storm. <br>
+            By moonlight's grace, this pair does gently meet, <br>
+            In gardens lush, where their spirits greet. <br>
+            The gentle Lion, guardian of the night, <br>
+            Watches o’er all with wisdom’s gentle might. <br>
+            Though Thisby first, with playful start did flee, <br>
+            She soon returns to join in harmony. <br>
+
+            As Pyramus arrives, their union strong, <br>
+            In nature’s cradle, they find where they belong. <br>
+            With seeds of future sown upon the earth, <br>
+            Their love, a testament to life's rebirth. <br>
+            And Thisby, under canopies of green, <br>
+            Draws promise forth; their vision clear and keen. <br>
+            Let Lion, Moon’s glow, Wall, and lovers dear, <br>
+            Share tales of hope in verdant spaces here. <br>
+
+    </div>
+
+=== "Text to Photo - Prompt 02" 
+
+    <div class="grid" markdown>
+    !!! note "Input:" 
+        Gentles, perchance you wonder at this show; <br>
+        But wonder on, till truth make all things plain. <br>
+        This man is Pyramus, if you would know; <br>
+        This beauteous lady Thisby is certain. <br>
+        This man, with lime and rough-cast, doth present <br>
+        Wall, that vile Wall which did these lovers sunder;  <br>
+        And through Wall's chink, poor souls, they are content <br>
+        To whisper. At the which let no man wonder. <br>
+        This man, with lanthorn, dog, and bush of thorn, <br>
+        Presenteth Moonshine; for, if you will know, <br>
+        By moonshine did these lovers think no scorn <br>
+        To meet at Ninus' tomb, there, there to woo. <br>
+        This grisly beast, which Lion hight by name, <br>
+        The trusty Thisby, coming first by night, <br>
+        Did scare away, or rather did affright; <br>
+        And, as she fled, her mantle she did fall, <br> 
+        Which Lion vile with bloody mouth did stain. <br>
+        Anon comes Pyramus, sweet youth and tall, <br>
+        And finds his trusty Thisby's mantle slain: <br>
+        Whereat, with blade, with bloody blameful blade, <br>
+        He bravely broach'd is boiling bloody breast; <br> 
+        And Thisby, tarrying in mulberry shade, <br>
+        His dagger drew, and died. For all the rest, <br>
+        Let Lion, Moonshine, Wall, and lovers twain <br>
+        At large discourse, while here they do remain. <br>
+
+        [A Midsummer Night's Dream - Act V, Scene 1](https://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=midsummer&Act=5&Scene=1&Scope=scene){:target="_blank"}
+
+        **My input for Modified prompt:** Make it cyber punk 
+
+    !!! note "Generated Image:" 
+        ![Generated image from first prompt](../images/term2/extended/cyberpunk_shakespeare.png)
+        ??? abstract "New Generated Prompt:"
+            Ladies and gents, plug in and prepare for the show; Let curiosity roam, till the truth uploads below. This hacker is Pyramus, a rogue you should know; This stunning hacker Thisby is certain to show. This guy, with neon and cold steel, does project Firewall, that nasty code which did these lovers disconnect. Through Firewall’s glitch, poor souls are content To whisper data streams; let no one dissent. This dude, with holo-lantern, drone, and vines of wire, Portrays LunarGlow; for, if you desire, By moonlight’s cyber glow these lovers dared To meet at Ninus’ grave, where love-scripts they shared. This fearsome entity, known as the Lion AI, Scared away loyal Thisby, when it caught her eye. And as she fled, she dropped her digital cloak, Which Lion AI with its red mouth broke. Soon arrives Pyramus, young and tall, Finds his loyal Thisby's cloak, now a corrupted thrall: Whereupon, with blade, a laser-edged knife, He code-slices his heart from cyber-life. And Thisby, waiting beneath neon glow, Draws his cyber blade, and ends her own show. For all the rest, let Lion AI, LunarGlow, Firewall, and hackers both, Narrate their digital tale, while code fragments loath.
+    
+    </div>
+
+=== "Text to Text for CAD" 
+
+    <div class="grid" markdown>
+    !!! note "Input:" 
+        **Text:** Once upon a time, in a castle on a hill, lived a dragon who wanted to see the world. 
+        **Modifying prompt:** Describe a technical engineering drawing of a story. Include details such as dimensions, extrusions, and a bill of materials.
+
+        The output was too long and complicated to generate an engineering CAD from, so it was shortened again using the following prompt
+
+        **New Modified Prompt:** shorten the prompt to become a very concise, clear technical description that can be used to generate a CAD model 
+
+    !!! note "Output:" 
+        ??? abstract "Initial Output" 
+            Creating a technical engineering drawing of a story requires a unique blend of creativity and technical precision. Let's envision a story as a structure and draft a conceptual drawing along with its details.
+
+            Technical Engineering Drawing: "The Journey of the Dragon"
+            Title: The Dragon’s Adventurous Pathway
+            1. Dimensions and Layout:
+
+            Overall Dimensions:
+
+            Length: 200 meters (represents the entirety of the dragon's journey).
+            Width: 50 meters (accommodating various story elements like settings, characters, and plot points).
+            Height Variances: 0 to 30 meters (representing the rise and fall of story tension).
+            Zones:
+
+            Starting Point Zone: 0-20 meters; Entrance of the castle (Depicted with height gradually increasing from 0 to 5 meters).
+            Open World Zone: 20-100 meters; Encompasses different terrains (Flat with occasional hillock extrusions representing different escapades).
+            Climactic Zone: 100-180 meters; Mountainous regions (Height peaks at 30 meters, symbolizing the story's climax).
+            Resolution Zone: 180-200 meters; Peaceful valleys and the dragon's return (Heights gradually decrease back to 0 meters).
+            2. Extrusions and Features:
+
+            Castle on the Hill: Starts at 0 meter mark, a 5m x 5m extrusion rising to 10 meters in height, representing the dragon’s home.
+            Mountain Peaks: Located from 120 to 160 meters; various peak extrusions rise and fall between 15-30 meters in height, emulating story tension with a complexity of plot.
+            Forests and Rivers: Detailed as 3D surface textures with depth cutouts and mock elevation changes, representing the story’s diverse setting.
+            Pathways: A winding, linear pathway runs from start to finish, symbolizing the narrative’s progression.
+            3. Bill of Materials:
+
+            Structural Materials:
+
+            Concrete Aggregate: For foundational elements like the castle and major terrain features.
+            Steel Reinforcement: Sections within mountainous regions to simulate story cliffhangers and support elevated structures.
+            Decorative Elements:
+
+            Enamel Paint: For artistically rendering areas like forests and rivers, providing visual depth to the open-world experiences.
+            Glass Paneling: Implemented in the climax zone, allowing light and shadow interplay to represent the dynamic nature of the story's high point.
+            Mechanical Components:
+
+            Motorized Elevators: Within the castle (initial 10 meters) and outposts on mountain peaks (for dynamic movements representing plot shifts).
+            4. Annotations and Notes:
+
+            Annotations should detail critical story arcs at specific dimensional sections, like plot twists noted at 110 meters and resolutions near the journey's end at 190 meters.
+
+            Color Coding: Utilize different colors to indicate emotional tones associated with each section (e.g., green for tranquility, red for conflict).
+
+            This drawing represents not just a physical structure but embodies the abstract journey of the dragon, turning narrative elements into tangible constructs while retaining clarity in its storytelling.
+
+        ??? abstract "Final Text Output"
+
+            Title: The Dragon’s Adventurous Pathway
+
+            Dimensions and Layout:
+
+            Length: 200m
+            Width: 50m
+            Height: 0-30m
+            Zones:
+
+            Starting Point (0-20m): Castle entrance, height 0-5m.
+            Open World (20-100m): Flat terrain with hillocks.
+            Climactic (100-180m): Mountainous, peaking at 30m.
+            Resolution (180-200m): Valleys, height decreasing to 0m.
+            Features:
+
+            Castle: 0-5m, 5m x 5m x 10m extrusion.
+            Mountain Peaks: 120-160m, 15-30m height peaks.
+            Forests/Rivers: 3D textures with elevation changes.
+            Paths: Winding from start to finish.
+            Materials:
+
+            Concrete, Steel for foundation/terrain.
+            Enamel paint for forest/river detail.
+            Glass Panels in climax area.
+            Mechanical Components:
+
+            Motorized Elevators in castle and mountain outposts.
+            Annotations and color coding should mark critical arcs, emotional tones, and plot points throughout the layout.    
+
+    </div>
+
+=== "Text to CAD" 
+    <div class="grid" markdown>
+    !!! note "Input:" 
+        Title: Dragon’s Adventurous Pathway
+
+        Dimensions:
+
+        Length: 200m, Width: 50m, Height: 0-30m
+        Zones:
+
+        Starting Point (0-20m): Castle, Height 0-5m
+        Castle: 5m x 5m x 10m extrusion
+        Open World (20-100m): Flat terrain with hillocks
+        Climactic (100-180m): Mountain peaks, height 15-30m
+        Resolution (180-200m): Valleys, height 0m
+        Features:
+
+        Forests and Rivers: 3D textures, elevation changes
+        Paths: Winding from start to finish
+        Materials:
+
+        Concrete, Steel: Foundation/Terrain
+        Enamel Paint: Forest/River Detail
+        Glass Panels: Climax Area
+
+    !!! note "Generated CAD:" 
+        ![Generated CAD from a single line story](../images/term2/extended/CAD.gif)
+        <figure markdown="span">
+            <a href="../images/term2/extended/model.stl" download>Click to Download STL File</a>
+        </figure>
+
+    </div>
+
+## Arduino Experiment
+
+### Concept: Read the Room
+My group consisted of [David](https://davmdef.github.io/MDEFWEB/index.html){:target="_blank"}, [Ziming](https://smuzs-organization.gitbook.io/smuz-mdef){:target="_blank"} and myself. After a lot of discussion and deliberation we decided to try to use the light and temperature sensor on the Barduino to determine the "mood" of the room and have the AI play a tune or note that corresponds to that mood. 
+
+When we shared this idea with the class, someone suggested the name "Read the Room" for the project. 
+
+### Progress 
+
+We pretty quickly got the temperature and light sensors working in their own small programs by just running the example code from the Barduino [website](https://fablabbcn-projects.gitlab.io/electronics/barduino-docs/examples/){:target="_blank"}. We then got the buzzer to work using the same example code files. This was the easy part, and what came next turned out to be much harder. 
+
+Much of my programming experience is in python and while I have used Arduino before, it always takes me a little while to get back into the flow of writing Arduino code. However, when we were using the examples, it was pretty straightforward. What got challenging was when we started using the [files](https://github.com/matta-pie/MDEF){:target="_blank"} provided by Pietro and Chris which accessed the OpenAI API. 
+
+Eventually we figured out how to create our own functions from which the AI would be able to draw based on our prompt. 
+
+!!! question "TO DO"
+    
+    What else needs to go here? Video of the pieces working (temp, light, buzzer)
+
+### Final(ish) Result 
+
+!!! question "TO DO"
+    
+    What else needs to go here? 
+        - Prompt we input 
+        - Video of it "working" 
+
+We had started this project out with a fairly strightforward idea which seemed fairly simple, but as always with projects, especially coding ones, it took twice as long (or more) than expected to get even a 'hello world' program up and running. By the end of the seminar, we had simplified our idea so much that I found myself frustrated by the fact that if we had just written the code using traditional coding methods, we would have achieved our project goal better than we were ever able to get the AI to do. However, I understand that this was not the purpose of the assignment and so the results were not exactly what we had hoped, but they technically used the AI, which was ultimately the purpose of the project. 
+
+We had an issue where the Barduino kept rebooting itself after running the AI prompt once, we never did figure out why that was, but it rebooted pretty quickly, so we just worked with it. 
+
+<figure markdown="span">
+    [read_the_room GitHub](https://github.com/LKField/read_the_room){ .md-button }
+</figure>
+
+
+
 - Your group’s experimentation with our Arduino library. Describe 
     - your concept, 
     - your progress and 
@@ -197,230 +497,5 @@ Throughout this whole exercise, I was trying to not think too much about the res
 - Your personal reflections on the course and what you are taking away for your continued MDEF projects. 
 
 
-
-## Playing with Modmatrix 
-### Photo
-/Users/lucretiafield/Documents/School/MDEF/WebsiteMDEF/mdef-journey/docs/images/term1/lwyoi/detective/1508_Dig.jpg
-
-Description of photo: 
-
-The image depicts a person crouching on a sandy beach near the shoreline. They are wearing a green jacket and dark pants or skirt, with their hair pulled back. The person is interacting with a small electronic device or setup on the sand next to a structure, possibly part of a lifeguard station, which displays a blue cross symbol. The ocean waves are visible in the background under an overcast sky.
-
-Modified prompt: Make it a dystopian future version of the same image
-
-New prompt: 
-
-In this dystopian future version of the image, the once pristine sandy beach is now a desolate and polluted landscape. The sand is littered with debris and remnants of human civilization, including twisted metal, shattered glass, and discarded plastic waste. The ocean, now a murky and oily body of water, laps lethargically at the shore, with toxic froth lining its edge.
-
-The person, wearing a worn and weathered green jacket, is crouched amidst this wasteland. Their outfit now incorporates makeshift protective gear made from salvaged materials, including a mask and goggles to guard against the harsh, contaminated air and biting winds. The sky overhead is a smog-choked expanse with an eerie, sickly yellow tint.
-
-The electronic device they are interacting with no longer looks modern or intact but is a cobbled-together apparatus of salvaged technology, sparking occasionally, reflecting the scarcity of resources. The nearby structure, which used to display a blue cross, now appears dilapidated and repurposed. Its once clearly marked symbol is faded and graffitied over with signs of rebellion or distress, such as an anarchy symbol or desperate plea for help.
-
-The entire scene is cast in a dim, muted palette, with shadows extending long under the diffuse, artificial light from occasional flickering, solar-powered street lamps and distant industrial fires that dot the horizon. The oppressive atmosphere hints at a world struggling to survive and adapt in the face of environmental collapse and societal upheaval.
-
-/Users/lucretiafield/Documents/School/MDEF/WebsiteMDEF/mdef-journey/docs/images/term2/extended/generated_01.png
-
-### Shakespeare Text 01 
-
-Gentles, perchance you wonder at this show; 
-But wonder on, till truth make all things plain.
-This man is Pyramus, if you would know;
-This beauteous lady Thisby is certain.
-This man, with lime and rough-cast, doth present
-Wall, that vile Wall which did these lovers sunder; 
-And through Wall's chink, poor souls, they are content
-To whisper. At the which let no man wonder.
-This man, with lanthorn, dog, and bush of thorn,
-Presenteth Moonshine; for, if you will know,
-By moonshine did these lovers think no scorn 
-To meet at Ninus' tomb, there, there to woo.
-This grisly beast, which Lion hight by name,
-The trusty Thisby, coming first by night,
-Did scare away, or rather did affright;
-And, as she fled, her mantle she did fall, 
-Which Lion vile with bloody mouth did stain.
-Anon comes Pyramus, sweet youth and tall,
-And finds his trusty Thisby's mantle slain:
-Whereat, with blade, with bloody blameful blade,
-He bravely broach'd is boiling bloody breast; 
-And Thisby, tarrying in mulberry shade,
-His dagger drew, and died. For all the rest,
-Let Lion, Moonshine, Wall, and lovers twain
-At large discourse, while here they do remain.
-
-
-Modified prompt: Make the text solarpunk
-
-New Prompt: 
-Gentle friends, behold this cheerful scene;
-With hope, let truth illuminate the green.
-Here is Pyramus, with dreams so bright;
-And beloved Thisby, glowing with delight.
-This kind soul, with plants and vines adorned,
-Is the Wall through which their love has soared;
-And through green tendrils, whispers softly shared,
-A bond that blooms, their love declared.
-
-There stands the Moon, with lantern glow so warm,
-Amid the trees that shelter in the storm.
-By moonlight's grace, this pair does gently meet,
-In gardens lush, where their spirits greet.
-The gentle Lion, guardian of the night,
-Watches o’er all with wisdom’s gentle might.
-Though Thisby first, with playful start did flee,
-She soon returns to join in harmony.
-
-As Pyramus arrives, their union strong,
-In nature’s cradle, they find where they belong.
-With seeds of future sown upon the earth,
-Their love, a testament to life's rebirth.
-And Thisby, under canopies of green,
-Draws promise forth; their vision clear and keen.
-Let Lion, Moon’s glow, Wall, and lovers dear,
-Share tales of hope in verdant spaces here.
-
-### Shakespeare Text 02
-
-Modify prompt: Make it cyber punk 
-
-New Prompt: 
-Behold, a spectacle unfolds in the neon glow;
-Marvel at it until the truth lays bare the code.
-This figure before you is Pyramus, if you'd scan;
-This striking figure is certain Thisby scanned.
-This entity, with cyber-spackle and digital dust,
-Represents Wall, that vile Firewall which did lovers break;
-And through Wall's glitch, poor souls, they dare
-Whisper their encoded secrets. Let none glitch at this act.
-This figure, with neon lantern, drone, and fiber net,
-Represents Moonshine; for under Moonshine's electric light,
-These lovers rendezvoused without digital disgrace
-At Ninus' tomb, their holographic place to woo.
-This fearsome construct, called Lion by code,
-Sent terrified Thisby, as first she did log in,
-With scare alerts racing in her visual links;
-As she logged out, her VR cloak fell,
-Which Lion corrupted with a corrupted bite.
-Anon, Pyramus, youthful hacker tall,
-Finds his binary bonded Thisby's fallen digital:
-Whereat, with virtual blade, coding with cyber blame,
-Bravely hacks his own overheating core;
-And Thisby, in shadows of virtual mulberry,
-Drew her digital dagger, and logged out for good.
-For all the rest, let Lion, Moonshine, Wall, and lovers binary
-Spin their data tales, while plugged into the matrix, they remain.
-
-New Prompt Take 2: 
-Ladies and gents, plug in and prepare for the show; Let curiosity roam, till the truth uploads below. This hacker is Pyramus, a rogue you should know; This stunning hacker Thisby is certain to show. This guy, with neon and cold steel, does project Firewall, that nasty code which did these lovers disconnect. Through Firewall’s glitch, poor souls are content To whisper data streams; let no one dissent. This dude, with holo-lantern, drone, and vines of wire, Portrays LunarGlow; for, if you desire, By moonlight’s cyber glow these lovers dared To meet at Ninus’ grave, where love-scripts they shared. This fearsome entity, known as the Lion AI, Scared away loyal Thisby, when it caught her eye. And as she fled, she dropped her digital cloak, Which Lion AI with its red mouth broke. Soon arrives Pyramus, young and tall, Finds his loyal Thisby's cloak, now a corrupted thrall: Whereupon, with blade, a laser-edged knife, He code-slices his heart from cyber-life. And Thisby, waiting beneath neon glow, Draws his cyber blade, and ends her own show. For all the rest, let Lion AI, LunarGlow, Firewall, and hackers both, Narrate their digital tale, while code fragments loath.
-
-### Engineering Drawing of a story 
-
-Text: Once upon a time, in a castle on a hill, lived a dragon who wanted to see the world. 
-
-Modifying prompt: Describe a technical engineering drawing of a story. Include details such as dimensions, extrusions, and a bill of materials.
-
-Creating a technical engineering drawing of a story requires a unique blend of creativity and technical precision. Let's envision a story as a structure and draft a conceptual drawing along with its details.
-
-Technical Engineering Drawing: "The Journey of the Dragon"
-Title: The Dragon’s Adventurous Pathway
-1. Dimensions and Layout:
-
-Overall Dimensions:
-
-Length: 200 meters (represents the entirety of the dragon's journey).
-Width: 50 meters (accommodating various story elements like settings, characters, and plot points).
-Height Variances: 0 to 30 meters (representing the rise and fall of story tension).
-Zones:
-
-Starting Point Zone: 0-20 meters; Entrance of the castle (Depicted with height gradually increasing from 0 to 5 meters).
-Open World Zone: 20-100 meters; Encompasses different terrains (Flat with occasional hillock extrusions representing different escapades).
-Climactic Zone: 100-180 meters; Mountainous regions (Height peaks at 30 meters, symbolizing the story's climax).
-Resolution Zone: 180-200 meters; Peaceful valleys and the dragon's return (Heights gradually decrease back to 0 meters).
-2. Extrusions and Features:
-
-Castle on the Hill: Starts at 0 meter mark, a 5m x 5m extrusion rising to 10 meters in height, representing the dragon’s home.
-Mountain Peaks: Located from 120 to 160 meters; various peak extrusions rise and fall between 15-30 meters in height, emulating story tension with a complexity of plot.
-Forests and Rivers: Detailed as 3D surface textures with depth cutouts and mock elevation changes, representing the story’s diverse setting.
-Pathways: A winding, linear pathway runs from start to finish, symbolizing the narrative’s progression.
-3. Bill of Materials:
-
-Structural Materials:
-
-Concrete Aggregate: For foundational elements like the castle and major terrain features.
-Steel Reinforcement: Sections within mountainous regions to simulate story cliffhangers and support elevated structures.
-Decorative Elements:
-
-Enamel Paint: For artistically rendering areas like forests and rivers, providing visual depth to the open-world experiences.
-Glass Paneling: Implemented in the climax zone, allowing light and shadow interplay to represent the dynamic nature of the story's high point.
-Mechanical Components:
-
-Motorized Elevators: Within the castle (initial 10 meters) and outposts on mountain peaks (for dynamic movements representing plot shifts).
-4. Annotations and Notes:
-
-Annotations should detail critical story arcs at specific dimensional sections, like plot twists noted at 110 meters and resolutions near the journey's end at 190 meters.
-
-Color Coding: Utilize different colors to indicate emotional tones associated with each section (e.g., green for tranquility, red for conflict).
-
-This drawing represents not just a physical structure but embodies the abstract journey of the dragon, turning narrative elements into tangible constructs while retaining clarity in its storytelling.
-
-New Modified Prompt: shorten the prompt to become a very concise, clear technical description that can be used to generate a CAD model 
-
-Output: 
-Title: The Dragon’s Adventurous Pathway
-
-Dimensions and Layout:
-
-Length: 200m
-Width: 50m
-Height: 0-30m
-Zones:
-
-Starting Point (0-20m): Castle entrance, height 0-5m.
-Open World (20-100m): Flat terrain with hillocks.
-Climactic (100-180m): Mountainous, peaking at 30m.
-Resolution (180-200m): Valleys, height decreasing to 0m.
-Features:
-
-Castle: 0-5m, 5m x 5m x 10m extrusion.
-Mountain Peaks: 120-160m, 15-30m height peaks.
-Forests/Rivers: 3D textures with elevation changes.
-Paths: Winding from start to finish.
-Materials:
-
-Concrete, Steel for foundation/terrain.
-Enamel paint for forest/river detail.
-Glass Panels in climax area.
-Mechanical Components:
-
-Motorized Elevators in castle and mountain outposts.
-Annotations and color coding should mark critical arcs, emotional tones, and plot points throughout the layout.
-
-New Prompt: 
-Title: Dragon’s Adventurous Pathway
-
-Dimensions:
-
-Length: 200m, Width: 50m, Height: 0-30m
-Zones:
-
-Starting Point (0-20m): Castle, Height 0-5m
-Castle: 5m x 5m x 10m extrusion
-Open World (20-100m): Flat terrain with hillocks
-Climactic (100-180m): Mountain peaks, height 15-30m
-Resolution (180-200m): Valleys, height 0m
-Features:
-
-Forests and Rivers: 3D textures, elevation changes
-Paths: Winding from start to finish
-Materials:
-
-Concrete, Steel: Foundation/Terrain
-Enamel Paint: Forest/River Detail
-Glass Panels: Climax Area
-
-CAD 
-
-## Arduino Experiment 
-
-
 ## Reflection 
+
