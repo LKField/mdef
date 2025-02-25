@@ -23,9 +23,9 @@ Here is where I will document my work in the Fundamentals of Digital Design clas
 
 We had an introduction to the Barduino and the Arduino IDE, setting up basic functionality of using the ESP32 with Arduino. 
 
-<br>
-<br>
-<br>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 ## Session 03 
 
@@ -53,6 +53,8 @@ We had an introduction to the Barduino and the Arduino IDE, setting up basic fun
 ![Filled](../images/term1/digfab/IMG_4594.jpeg){ align=left width=30% }
 ![Silicone](../images/term1/digfab/IMG_4610.jpeg){ align=left width=30% }
 
+<br/><br/>
+<br/><br/>
 <br/><br/>
 
 ## Session 07 
