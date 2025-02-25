@@ -18,14 +18,11 @@ Here is where I will document my work in the Fundamentals of Digital Design clas
     16 October 2024: Introduction to Arduino IDE and Barduino
 
 
-
+<figure markdown="span">
 ![Pinout](../images/term1/digfab/Barduino%20Pinout.png){ align=left width=25% }
+We had an introduction to the Barduino and the Arduino IDE, setting up basic functionality of using the ESP32 with Arduino.
+</figure>
 
-We had an introduction to the Barduino and the Arduino IDE, setting up basic functionality of using the ESP32 with Arduino. 
-
-<br/><br/>
-<br/><br/>
-<br/><br/>
 
 ## Session 03 
 
@@ -49,13 +46,11 @@ We had an introduction to the Barduino and the Arduino IDE, setting up basic fun
 !!! abstract "Session 6"
     19 November 2024: Casting and mould design theory
 
+<figure markdown="span">
 ![MakingBoxes](../images/term1/digfab/IMG_4591.jpeg){ align=left width=30% }
 ![Filled](../images/term1/digfab/IMG_4594.jpeg){ align=left width=30% }
 ![Silicone](../images/term1/digfab/IMG_4610.jpeg){ align=left width=30% }
-
-<br/><br/>
-<br/><br/>
-<br/><br/>
+</figure>
 
 ## Session 07 
 
@@ -64,16 +59,11 @@ We had an introduction to the Barduino and the Arduino IDE, setting up basic fun
 
     Faculty: Daniel Mateos & Josep Marti Elias
 
+<figure markdown="span">
 ![NetworkedBarduino](../images/term1/digfab/networked.gif){ align=left width=30% }
-
 During this session we connected our Barduinos to the wifi and made our own local network of devices talking to each other. We could remotely change the colors of the RGB LEDs on the boards of other people in the class which led to a fair amount of hilarity. 
+</figure>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## Session 08 
 
@@ -82,16 +72,10 @@ During this session we connected our Barduinos to the wifi and made our own loca
 
     Faculty: Tatiana Butts
 
+<figure markdown="span">
 ![TouchDesigner Color](../images/term1/digfab/Colorful.gif){ align=left width=42% }
-
 ![TouchDesigner Color](../images/term1/digfab/MotionCapture.gif){ align=right width=50% }
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+</figure>
 
 <!-- 27 November 2024: Modular Design  -->
 
