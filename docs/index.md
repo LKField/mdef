@@ -1,17 +1,32 @@
 # Welcome to my MDEF Journey
 
-![Sunglasses Headshot](images/headshots/Sitting_Sunglasses_Crop.jpg){ align=right width="45%"}
-
-I am a student in the Master in Design for Emergent Futures at the Institute for Advanced Architecture of Catalonia. 
-
-I will be documenting my journey through the 2024-2025 course here.
-
-**Check out some of my projects so far**
-
+<div class="grid" markdown>
 <figure markdown="span">
-    [Design Space](designSpace.md){ .md-button }
+
+    I am a student in the Master in Design for Emergent Futures at the Institute for Advanced Architecture of Catalonia. 
+
+    I will be documenting my journey through the 2024-2025 course here.
+    
+    <br/><br/>
+
+    **Check out some of my projects so far**
+
+    <figure markdown="span">
+        [Design Space](designSpace.md){ .md-button }
+        
+        <br/><br/>
+
+        [Design Studio Overview](designOverview.md){ .md-button }
+    </figure>
+
+
 </figure>
 
+<figure markdown="span">
+![Sunglasses Headshot](images/headshots/Sitting_Sunglasses_Crop.jpg)
+</figure>
+
+</div>
 
 <!-- Button with photo in it -->
 <!-- <div style="display:flex; width: 50%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
@@ -26,9 +41,7 @@ I will be documenting my journey through the 2024-2025 course here.
 </div> -->
 
 
-<figure markdown="span">
-    [Design Studio Overview](designOverview.md){ .md-button }
-</figure>
+
 
 <!-- <figure markdown="span">
     [The Machine Paradox](term1/machineParadox.md){ .md-button }

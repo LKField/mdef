@@ -59,7 +59,7 @@ For this prompt, I looked back at my previous brainstorm session and decided to 
 ![Network02](../images/term1/lwyoi/network02.jpg){ align=left width="30%" }
 ![Network03](../images/term1/lwyoi/network03.jpg){ align=left width="30%" }
 
-<div style="page-break-after: always;"></div>
+<br/><br/>
 
 
 The following video contextualizes the network prosthetic as a visualization of the networks that already exist. Nature has so many networks, from mycelium that allows fungi to transfer information, nutrients, and water to bees that use pheromones to communicate across distance. Humans also have systems in place to communicate with one another across distance, but what if we could communicate like fungi? With visible, tangible connections allowing us to see the influence on those in our community when we pull a tread, what could we learn about ourself and those around us? 
@@ -141,7 +141,7 @@ For some reason, I kept coming back to the word, 'commodity' from my list. I kep
 I decided that the way to track how I was doing was to give receipts for each transaction I had. So, my prosthetic for influencing how I was judged was a few pieces of paper: four with personal information like my name, date of birth, former and current addresses, phone numbers, and websites and social media and six blank templates for receipts. I figured that giving out information that is essentially public information in exchange for things that might traditionally be exchanged for money wouldn't work so well when making exchanges with individuals. Corporations who have ways to do things with that information will happily exchange their services for details about ourselves, but individuals don't tend to have much need for that kind of information. So, I made fewer information sheets than I did receipts and how it turned out, my theory was correct. 
 
 
-<div style="page-break-after: always;"></div>
+<br/><br/>
 
 <div class="grid" markdown>
 ![Receipts](../images/term1/lwyoi/subject/blankReceipts.jpeg){ align=left width="45%" }
