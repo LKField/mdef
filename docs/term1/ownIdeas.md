@@ -25,26 +25,28 @@ The highlights included:
 
 From there I started thinking about the balance between focus and rest. I started prototyping with materials I had lying around and the following prosthetic is the result. The idea is to have focus for a set amount of time - for example, 25 minutes, as is suggested with the Pomodoro Method - and then to have the visor automatically raise to allow me to broaden my focus and to nudge me to rest from the focus. 
 
+<div class="grid" markdown>
+
 ![Front01](../images/term1/lwyoi/IMG_4299.jpg){ align=right width="45%"}
-
 ![Right](../images/term1/lwyoi/IMG_4302.jpg){ align=left width="45%"}
-
 ![Left](../images/term1/lwyoi/IMG_4304.jpg){ align=right width="45%"}
-
 ![Front02](../images/term1/lwyoi/IMG_4305.jpg){ align=left width="45%"}
+
+</div>
 
 Through wearing this prosthetic, I decided I don't think the implementation of this idea makes sense. Putting 'horse blinders' on to focus on an activity doesn't really work, but it can represent the idea of having focus, energy, and commitment to follow through on implementing or testing ideas. It also embodies the idea of rest and changing perspective. 
 
 Maithili decided to try my prosthetic to help her focus while reading. She commented that it did help a bit, if you covered the sides. I guess for prototype two, I would need to make sure the sides are better covered so that the tunnel effect actually happens. 
 
+<div class="grid" markdown>
 ![Maithili01](../images/term1/lwyoi/IMG_4312.jpeg){ align=left width="45%" }
 ![Maithili02](../images/term1/lwyoi/IMG_4313.jpeg){ align=right width="45%" }
+</div>
 
-
-
-<video src="https://github.com/user-attachments/assets/de19f899-b9ae-4273-ba3f-4e5f22c7bdd6" controls="controls" style="max-width: 49%;"></video> 
-
-<video src="https://github.com/user-attachments/assets/c18b4050-ce65-44ec-be63-add802256668" controls="controls" style="max-width: 49%;"></video> 
+<div class="grid" markdown>
+<video src="https://github.com/user-attachments/assets/de19f899-b9ae-4273-ba3f-4e5f22c7bdd6" controls="controls"></video> 
+<video src="https://github.com/user-attachments/assets/c18b4050-ce65-44ec-be63-add802256668" controls="controls" ></video> 
+</div>
 
 
 ## Prosthetic 'to become something else (non-human)'
@@ -56,6 +58,8 @@ For this prompt, I looked back at my previous brainstorm session and decided to 
 ![Network01](../images/term1/lwyoi/network01.jpeg){ align=left width="30%" }
 ![Network02](../images/term1/lwyoi/network02.jpg){ align=left width="30%" }
 ![Network03](../images/term1/lwyoi/network03.jpg){ align=left width="30%" }
+
+<div style="page-break-after: always;"></div>
 
 The following video contextualizes the network prosthetic as a visualization of the networks that already exist. Nature has so many networks, from mycelium that allows fungi to transfer information, nutrients, and water to bees that use pheromones to communicate across distance. Humans also have systems in place to communicate with one another across distance, but what if we could communicate like fungi? With visible, tangible connections allowing us to see the influence on those in our community when we pull a tread, what could we learn about ourself and those around us? 
 
@@ -138,10 +142,10 @@ I decided that the way to track how I was doing was to give receipts for each tr
 
 <div style="page-break-after: always;"></div>
 
+<div class="grid" markdown>
 ![Receipts](../images/term1/lwyoi/subject/blankReceipts.jpeg){ align=left width="45%" }
-
 ![Information](../images/term1/lwyoi/subject/myInfo.jpeg){ align=right width="45%" }
-
+</div>
 
 Below are the photos of my receipts and the physical items I collected during my time as a subject. 
 
