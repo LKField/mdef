@@ -19,6 +19,7 @@ Our work throughout the week was documented in the following GitHub repository.
 ## Reflection 
 
 ## Resources 
-Resources: https://toplap.cat/posts/alo/
-https://iclc.toplap.org/2025/#important-dates
-https://toplapbarcelona.hangar.org/index.php/live-coding-sessions/
+
+- [https://toplap.cat/posts/alo/](https://toplap.cat/posts/alo/){:target="_blank"}
+- [https://iclc.toplap.org/2025](https://iclc.toplap.org/2025/#important-dates){:target="_blank"}
+- [https://toplapbarcelona.hangar.org](https://toplapbarcelona.hangar.org/index.php/live-coding-sessions/){:target="_blank"}
