@@ -190,7 +190,7 @@ Throughout this whole exercise, I was trying to not think too much about the res
 
 ## Playing with Modmatrix 
 
-Next we played around individually with [Modmatrix](https://modmatrix.app/){:target="_blank"}, to experiment with different types of AI prompting for prototyping. It has various input options like photo, text, audio (which I didn't use because I didn't want to enable microphone permissions if I could avoid it) and some output options like photo, text, CAD and perhaps more that I have forgotten. 
+Next we played around individually with [Modmatrix](https://modmatrix.app/){:target="_blank"}, to experiment with different types of AI prompting for prototyping. It has various input options like image upload, webcam photo, text, and audio (which I didn't use because I didn't want to enable microphone permissions if I could avoid it) and some output options like image, text, audio, and CAD. 
 
 I tried a few different inputs and outputs, check out my musings below
 
