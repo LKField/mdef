@@ -550,12 +550,9 @@ We had an issue where the Barduino kept rebooting itself after running the AI pr
 
 <div class="grid" markdown>
 The functionality we were able to achieve was that the AI system would choose a mood based on the light level and play the corresponding sound, however it proceeded to play all of the subsequent tones as well. Basically if we covered the sensor, it would choose a "sad" or "gloomy" function but then it would play "neutral", "happy", and "excited" after. If it just chose "happy" it would follow that with "excited". We tried many different prompts in an attempt to get it to call just one of the functions, however it never seemed to work. We also tried simplifying the prompt to make it maybe clearer to the device. This also didn't seem to work. 
-<video src="" controls="controls" ></video> 
-</div>
-
-<div class="grid" markdown>
-<video src="" controls="controls" ></video> 
-<video src="" controls="controls" ></video> 
+<video src="https://github.com/user-attachments/assets/88f5a51f-14af-4988-8797-c0edcbd95296" controls="controls" ></video> 
+<video src="https://github.com/user-attachments/assets/7f6d6d60-bcb4-46e4-ae63-48818afe2ff0" controls="controls" ></video> 
+<video src="https://github.com/user-attachments/assets/871c5afc-d23e-45e2-9a90-09f81a5c87b9" controls="controls" ></video> 
 </div>
 
 ![Screen Recording of the output](../images/term2/extended/screeenRecord.gif)
