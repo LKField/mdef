@@ -455,47 +455,132 @@ I tried a few different inputs and outputs, check out my musings below
 ## Arduino Experiment
 
 ### Concept: Read the Room
-My group consisted of [David](https://davmdef.github.io/MDEFWEB/index.html){:target="_blank"}, [Ziming](https://smuzs-organization.gitbook.io/smuz-mdef){:target="_blank"} and myself. After a lot of discussion and deliberation we decided to try to use the light and temperature sensor on the Barduino to determine the "mood" of the room and have the AI play a tune or note that corresponds to that mood. 
+My group consisted of [David](https://davmdef.github.io/MDEFWEB/index.html){:target="_blank"}, [Ziming](https://smuzs-organization.gitbook.io/smuz-mdef){:target="_blank"} and myself. After some discussion and deliberation we decided to try to use the light and temperature sensor on the Barduino to determine the "mood" of the room and have the AI play a song or note that corresponds to that mood. 
 
-When we shared this idea with the class, someone suggested the name "Read the Room" for the project. 
+When we shared this idea with the class, someone suggested the name "Read the Room" for the project, so that's what we went with. 
 
 ### Progress 
 
 We pretty quickly got the temperature and light sensors working in their own small programs by just running the example code from the Barduino [website](https://fablabbcn-projects.gitlab.io/electronics/barduino-docs/examples/){:target="_blank"}. We then got the buzzer to work using the same example code files. This was the easy part, and what came next turned out to be much harder. 
 
-Much of my programming experience is in python and while I have used Arduino before, it always takes me a little while to get back into the flow of writing Arduino code. However, when we were using the examples, it was pretty straightforward. What got challenging was when we started using the [files](https://github.com/matta-pie/MDEF){:target="_blank"} provided by Pietro and Chris which accessed the OpenAI API. 
+Much of my programming experience is in python and while I have used Arduino before, it always takes me a little while to get back into the flow of writing Arduino code and there are often things I know how to do in python that I cannot figure out how to do in Arduino. However, when we were using the examples, it was pretty straightforward. What got challenging was when we started using the [files](https://github.com/matta-pie/MDEF){:target="_blank"} provided by Pietro and Chris which accessed the OpenAI API. 
 
-Eventually we figured out how to create our own functions from which the AI would be able to draw based on our prompt. 
+=== "Light Sensor basic code"
+    ``` c++
+    int sensor = 3;
 
-!!! question "TO DO"
-    
-    What else needs to go here? Video of the pieces working (temp, light, buzzer)
+    void setup() {
+    pinMode(sensor, INPUT);
+    Serial.begin(115200);
+    }
+
+    void loop() {
+    int light = analogRead(sensor);
+    Serial.print("The level of light is: ");
+    Serial.println(light);
+    delay(500);
+    } 
+    ```
+=== "Temperature Sensor basic code"
+    ``` c++
+    #include <Temperature_LM75_Derived.h>
+
+    TI_TMP102 temperature;
+
+    void setup() {
+    Serial.begin(115200);
+    Wire.begin();
+    }
+
+    void loop() {
+    Serial.print("Temperature = ");
+    Serial.print(temperature.readTemperatureC());
+    Serial.println(" C");
+
+    delay(250);
+    }
+    ```
+=== "Buzzer basic code:"
+    ``` c++
+    #include <ESP32Servo.h>
+    #include "pitches.h"
+
+    int buzzer = 46;
+
+    // notes in the melody:
+    int melody[] = {
+    NOTE_C4, NOTE_G3, NOTE_G3, NOTE_A3, NOTE_G3, 0, NOTE_B3, NOTE_C4
+    };
+
+    // note durations: 4 = quarter note, 8 = eighth note, etc.:
+    int noteDurations[] = {
+    4, 8, 8, 4, 4, 4, 4, 4
+    };
+
+    void setup() {
+    // iterate over the notes of the melody:
+    for (int thisNote = 0; thisNote < 8; thisNote++) {
+
+        // to calculate the note duration, take one second divided by the note type.
+        //e.g. quarter note = 1000 / 4, eighth note = 1000/8, etc.
+        int noteDuration = 1000 / noteDurations[thisNote];
+        tone(buzzer, melody[thisNote], noteDuration);
+
+        // to distinguish the notes, set a minimum time between them.
+        // the note's duration + 30% seems to work well:
+        int pauseBetweenNotes = noteDuration * 1.30;
+        delay(pauseBetweenNotes);
+        // stop the tone playing:
+        noTone(buzzer);
+    }
+    }
+
+    void loop() {
+    // no need to repeat the melody.
+    }
+    ```
+
+After struggling to even understand the code, because as always happens when accessing code that I haven't written myself, I have a hard time understand it. Eventually we figured out how to create our own functions from which the AI would be able to choose based on our prompt. It also turned out that the code provided to us by Pietro and Chris had each of the sensors and buzzer functionality already built in.
 
 ### Final(ish) Result 
 
-!!! question "TO DO"
-    
-    What else needs to go here? 
-        - Prompt we input 
-        - Video of it "working" 
+We had started this project out with a fairly straightforward idea which seemed simple, but as always with projects, especially coding ones, it took twice as long (or more) than expected to get even a 'hello world' program up and running. By the end of the seminar, we had simplified our idea so much that I found myself frustrated by the fact that if we had just written the code using traditional coding methods, we would have achieved our project goal better than we were ever able to get the AI to do. However, I understand that this was not the purpose of the assignment and so while the results were not exactly what we had hoped, they technically used the AI, which was ultimately the purpose of the project. 
 
-We had started this project out with a fairly strightforward idea which seemed fairly simple, but as always with projects, especially coding ones, it took twice as long (or more) than expected to get even a 'hello world' program up and running. By the end of the seminar, we had simplified our idea so much that I found myself frustrated by the fact that if we had just written the code using traditional coding methods, we would have achieved our project goal better than we were ever able to get the AI to do. However, I understand that this was not the purpose of the assignment and so the results were not exactly what we had hoped, but they technically used the AI, which was ultimately the purpose of the project. 
+We had an issue where the Barduino kept rebooting itself after running the AI prompt once, we never did figure out why that was, but it rebooted pretty quickly, so we just worked with it.
 
-We had an issue where the Barduino kept rebooting itself after running the AI prompt once, we never did figure out why that was, but it rebooted pretty quickly, so we just worked with it. 
+<div class="grid" markdown>
+The functionality we were able to achieve was that the AI system would choose a mood based on the light level and play the corresponding sound, however it proceeded to play all of the subsequent tones as well. Basically if we covered the sensor, it would choose a "sad" or "gloomy" function but then it would play "neutral", "happy", and "excited" after. If it just chose "happy" it would follow that with "excited". We tried many different prompts in an attempt to get it to call just one of the functions, however it never seemed to work. We also tried simplifying the prompt to make it maybe clearer to the device. This also didn't seem to work. 
+<video src="" controls="controls" ></video> 
+</div>
+
+<div class="grid" markdown>
+<video src="" controls="controls" ></video> 
+<video src="" controls="controls" ></video> 
+</div>
+
+![Screen Recording of the output](../images/term2/extended/screeenRecord.gif)
+
+!!! note "Last prompt we tried:"
+
+    Goal: Begin by reading the current light level from the light sensor. The brightest light is a value of 4095, the middle light is a value of 2095, and the darkest light is a value of 10. A higher light value is happier, a middle light value is neutral, while a lower light value is sadder. Do not play more than one melody, select only the single corresponding melody. Then play only the one melody that corresponds to the current mood of the room that you determined from reading the light sensor value.
+
+
+As someone with experience in coding, I did much of the coding itself and maintained the GitHub repository for the project as well. David and Ziming were helpful with ideation, suggesting prompts and changes to our functions, and tested the code on their own Barduinos to try out different prompts. 
+
+Something I did learn in this process, though, was how to create an *arduino_secrets.h* file so that we could hide the API key while pushing to GitHub. While I have done a similar thing in python before, this was the first time I did it with Arduino and it was useful to learn to do that. I have already used that in a different project. 
+
+Here is the GitHub for our project with the latest prompt we tried to use to get it working. 
 
 <figure markdown="span">
     [read_the_room GitHub](https://github.com/LKField/read_the_room){ .md-button }
 </figure>
 
-
-
-- Your group’s experimentation with our Arduino library. Describe 
-    - your concept, 
-    - your progress and 
-    - your final result. 
-    - Please highlight your personal contribution to the group’s effort. 
-- Your personal reflections on the course and what you are taking away for your continued MDEF projects. 
-
-
 ## Reflection 
 
+Reflecting on this course leaves me still not convinced that AI is all that great. I think given more time and perhaps some more individual attention from Chris and Pietro to help explain the code to us, we maybe could have gotten it working correctly. However, because we had to simplify our idea so much to get it to even do something close to what we did, I felt like we could have just used traditional coding methods such as setting thresholds and playing the corresponding melody. 
+
+We had ambitions to connect the Barduino to the Spotify API to have the AI system make a playlist based on the mood of the room, but considering we had only a few days and couldn't get even a "hello world" program working the way we wanted, that proved to be too ambitious for the time we had. I think the challenge I had personally with this project was that I do not understand if our problem was with our code or the prompt. I think by turning over the control to the AI system, we removed the clarity of what was happening. We gave up our agency and thus were unable to figure out what was happening or how to fix it. 
+
+Unfortunately, I found it really frustrating that we were unable to get it functioning the way we wanted. During MDEF seminars in general, it often feels like they are so rushed that we don't have time or the resources available to actually finish any of the projects we start. This has been bothering me for a while and unfortunately this seminar was another time where that happened. I would like to get it working so that I could feel like I had at least a very basic application 'complete' and so that I could understand why it wasn't working before, however because of how quick these seminars are and how packed our schedule is, I don't think I will have the time nor resources to do that and so I find myself with another unfinished project and the frustration about that. 
+
+So, while I think perhaps one day I might find this kind of technology useful, for now I remain skeptical and unfortunately a bit disappointed in myself and with the course. I understand very well how complicated coding is, but at least when it is code I am writing myself or with a group, I can understand what it is doing and even though I often encounter many problems, I know that the problem is mine and I know I just need to search for the issue. With this project through, I cannot say I even understood why it wasn't working and I am not sure how to proceed with fixing something I do not understand how to talk to. 
