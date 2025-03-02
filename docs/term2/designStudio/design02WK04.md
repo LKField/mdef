@@ -156,7 +156,7 @@ The options are many, and it was nice to get started actually testing this metho
 
 ### Research Questions 
 
-Some initial thoughts about research questions: 
+Some initial thoughts about research questions. There will likely be more, and broaden 
 
 - How does using 'visible mending' practices, such as darning or weaving patches with colorful thread or adding embroidery or colorful patches to clothing, elevate or diminish the desirability for people to wear the garment being modified? 
 - How does adding electronic interaction, through soft sensors, lights, and sounds, to add character and story influence people's engagement with the concept of repair and change how they might approach repair in their own lives? 

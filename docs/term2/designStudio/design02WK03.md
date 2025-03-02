@@ -39,6 +39,7 @@ More information will follow as I find the time to update about the process and 
     - What criteria could be established to assess its consequences, and what protocols would you apply in case of negative outcomes (applied ethics)?
 	
 2. Design is "a material way of doing ethics" that must anticipate the trajectories of its products. Imagine a possible scenario that reflects the ideal application of your project: 
+
     - How are your intentions and values embedded or inscribed in it? 
     - What factors could cause a deviation in the context of use?
 

@@ -21,11 +21,11 @@ In the iteration I now have at the start of the second term, I have included the
 <figure markdown="span"> [Design Space](../../designSpace.md/#__tabbed_1_7){ .md-button } </figure>
 
 
-## Reflection 
+<!-- ## Reflection 
 
 Below is my audio reflection at the start of the second term of MDEF.
 
 <br>
 <figure markdown="span">
-  <!-- <audio controls src="../../../audio/DesignStudioReflection1.mp3"></audio> -->
-</figure>
+  <audio controls src="../../../audio/DesignStudioReflection1.mp3"></audio>
+</figure> -->
