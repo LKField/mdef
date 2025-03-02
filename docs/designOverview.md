@@ -24,7 +24,7 @@
             <img src="../images/term1/designstudio/thumbnails/Clothes.jpeg"></img>
             </div>
             <div style="padding: 10px; gap: 10px; width: 50%; color: #181040">
-            <b>Session 02</b><br>
+            <b>Session Two</b><br>
             Individual design intervention and roles of prototyping
             </div>
         </a>
@@ -37,7 +37,7 @@
         <img src="../images/term1/designstudio/thumbnails/CollectiveDS_All.jpg"></img>
         </div>
         <div style="padding: 10px; gap: 10px; width: 50%; color: #181040">
-        <b>Session 03</b><br>
+        <b>Session Three</b><br>
         Collaborative design spaces and interventions
         </div>
     </a>
@@ -50,7 +50,7 @@
         <img src="../images/term1/designstudio/thumbnails/Drawings.jpg"></img>
         </div>
         <div style="padding: 10px; gap: 10px; width: 50%; color: #181040">
-        <b>Session 04</b><br>
+        <b>Session Four</b><br>
         Collaborative design interventions
         </div>
     </a>
@@ -87,7 +87,7 @@
     </a>
 </div> 
 
-<!-- Session 1 -->
+<!-- Session 2 -->
 <div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
     <a style="box-shadow: 0px 0px 0px 0px #181040; display: flex; flex-direction: row; align-items: flex-start; width: 100%; height: 100%; object-fit: cover; background-color: #7e56c1" href="../term2/designStudio/design02WK02">
         <div style="display:flex; align-content: center; justify-content:center; width: 50%">
@@ -96,6 +96,32 @@
         <div style="padding: 10px; gap: 10px; width: 50%; color: #181040">
         <b>Session Two</b><br>
         First situated intervention 
+        </div>
+    </a>
+</div> 
+
+<!-- Session 3 -->
+<div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
+    <a style="box-shadow: 0px 0px 0px 0px #181040; display: flex; flex-direction: row; align-items: flex-start; width: 100%; height: 100%; object-fit: cover; background-color: #7e56c1" href="../term2/designStudio/design02WK03">
+        <div style="display:flex; align-content: center; justify-content:center; width: 50%">
+        <img src="../images/term2/designstudio/thumbnails/flyer.jpeg"></img>
+        </div>
+        <div style="padding: 10px; gap: 10px; width: 50%; color: #181040">
+        <b>Session Three</b><br>
+        Second situated intervention & Ethics 
+        </div>
+    </a>
+</div> 
+
+<!-- Session 4 -->
+<div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
+    <a style="box-shadow: 0px 0px 0px 0px #181040; display: flex; flex-direction: row; align-items: flex-start; width: 100%; height: 100%; object-fit: cover; background-color: #7e56c1" href="../term2/designStudio/design02WK04">
+        <div style="display:flex; align-content: center; justify-content:center; width: 50%">
+        <img src="../images/term2/designstudio/thumbnails/mending.jpeg"></img>
+        </div>
+        <div style="padding: 10px; gap: 10px; width: 50%; color: #181040">
+        <b>Session Four</b><br>
+        Third situated intervention & Research 
         </div>
     </a>
 </div> 

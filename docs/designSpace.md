@@ -69,4 +69,18 @@
     !!! abstract "Date" 
         02 February 2025
 
-    ![DS07](images/term2/designstudio/DesignSpaceOverview_08.png){ align=left }
+    ![DS08](images/term2/designstudio/DesignSpaceOverview_08.png){ align=left }
+
+=== "Design Space - 09" 
+
+    !!! abstract "Date" 
+        16 February 2025
+
+    ![DS09](images/term2/designstudio/DesignSpaceOverview_09.png){ align=left }
+
+=== "Design Space - 10" 
+
+    !!! abstract "Date" 
+        02 March 2025
+
+    ![DS10](images/term2/designstudio/DesignSpaceOverview_10.png){ align=left }

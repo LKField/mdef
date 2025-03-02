@@ -154,18 +154,37 @@ The options are many, and it was nice to get started actually testing this metho
 
 ## Reflection on Toni Llacer Research Talk 
 
+### Research Questions 
+
+Some initial thoughts about research questions: 
+
+- How does using 'visible mending' practices, such as darning or weaving patches with colorful thread or adding embroidery or colorful patches to clothing, elevate or diminish the desirability for people to wear the garment being modified? 
+- How does adding electronic interaction, through soft sensors, lights, and sounds, to add character and story influence people's engagement with the concept of repair and change how they might approach repair in their own lives? 
+
+### Theoretical Framework 
+
+2. Theoretical framework - In Progress 
+    a) Summarize your theoretical framework* (max. 5 lines)
+    b) Select 5 sources -min. 2 academic papers- and explain why they are enlightening for you
+
+### Methods 
+
+3. Methods - In Progress 
+Specify your practical approach: what data will you use, how will you gather it and when.
+
+
 ## Design Space 
 
-<!-- Updates to my Design Space to include the community and contacts I am starting to make here in Barcelona and some of those back home as well. 
+Updates to my Design Space to reflect my progress and projects
 
-<figure markdown="span"> [Design Space](../../designSpace.md/#__tabbed_1_8){ .md-button } </figure> 
- -->
+<figure markdown="span"> [Design Space](../../designSpace.md/#__tabbed_1_10){ .md-button } </figure> 
 
-## Reflection 
+
+<!-- ## Reflection 
 
 Below is my audio reflection for this week of design studio.
 
 <br>
 <figure markdown="span">
-    <!-- <audio controls src="../../../audio/DesignStudioReflection_02Feb.mp3"></audio> -->
-</figure>
+    <audio controls src="../../../audio/DesignStudioReflection_02Feb.mp3"></audio>
+</figure> -->
