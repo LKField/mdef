@@ -119,14 +119,14 @@ Check out the videos of the dance styles and the resulting patterns that were cr
 ![Rapper step pattern](../images/term2/hnmi/rapper_step_02.png)
 
 <figure>
-    <video src="https://github.com/user-attachments/assets/c8ac54e0-dea1-4dad-858e-4e3295814edf" controls="controls"></video> 
+    <video src="https://github.com/user-attachments/assets/80471063-3279-4ea5-b650-6276319ce9f3" controls="controls"></video> 
     <figcaption>Strathspey Setting Step</figcaption>
 </figure>
 
 ![Strathspey setting pattern](../images/term2/hnmi/strathspey_02.png)
 
 <figure>
-    <video src="https://github.com/user-attachments/assets/7fcb899a-6990-4988-ae74-7117cfa67598" controls="controls"></video> 
+    <video src="https://github.com/user-attachments/assets/00b93ab0-8a7c-4f16-8a34-007334eaa2f3" controls="controls"></video> 
     <figcaption>Pas de Basque Setting Step</figcaption>
 </figure>
 
@@ -150,6 +150,13 @@ If we were going to continue this project, there are some things we would like t
 
 ## Reflection 
 
+This project was a very fun way to get involved with "small data" and making our own sensors. I really enjoyed the low-tech nature of this sensor. It was intuitive to understand how this type of sensor works and exciting to be directly involved in the process of making the sensor we then used to gather data about a topic I am personally very interested in. 
+
+Throughout the process, I found it somewhat frustrating to be dealing with different programs and to be bouncing back and forth from P5.js to Processing and back. However, once we got our system working, it was very satisfying, as it always is with coding projects, to see it come together. 
+
+I made some interesting observations about myself while I was dancing as well. Since the amount of time we had to register the data was very limited, a function of the size of the window we had for visualization, I struggled to time the dancing with the music and with the data recording. This challenge made the dancer part of my brain very uncomfortable as I tried to fit the dances into a context that did not work for them. Additionally, dancing in a room full of people who did not have the context for what I was doing made me a bit anxious which influenced how I was dancing. The final observation I made was that by visualizing my steps, I opened myself up in a way that felt extremely personal and a bit uncomfortable. When I shared the videos and visualizations with some dance friends, I found it interesting to observe my own response to sharing the videos. I felt self conscious about my dancing skills with the context of them being able to see somewhat quantitative data about how I was dancing. These observations, even more than the project itself were interesting for me to note. 
+
+I would like to continue this project if I have the time. While I do not necessarily know if it has an application outside of being kind of cool, I enjoyed the challenge of it and would like to make it more visually interesting. Another potential use for this kind of information would be analyzing patterns within the pressure in a more quantitative way. The suggestion was made during our presentation that we could apply machine learning algorithms to the data to help identify patterns. I am hesitant to do this because the sensors are not the most consistent and I would worry that by applying more 'scientific' analysis to the pressure certain conclusions would be drawn based on unreliable data. However, I think this is a potentially interesting line of investigation to follow, given certain precautions about making quantitative assumptions from somewhat subjective data. 
 
 ## Resources for Live Coding Events 
 
