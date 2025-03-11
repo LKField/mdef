@@ -109,21 +109,21 @@ Check out the videos of the dance styles and the resulting patterns that were cr
 
 <div class="grid" markdown>
 <figure>
-    <video src="https://github.com/user-attachments/assets/2e695ce5-9add-46fc-99bd-422b1761f886" controls="controls"></video>  
+    <video src="https://github.com/user-attachments/assets/2eb915d7-b064-41a5-aca3-dc51b12673f8" controls="controls"></video>  
     <figcaption>Rapper Sword Dance Stepping</figcaption>
 </figure>
 
 ![Rapper step pattern](../images/term2/hnmi/rapper_step_02.png)
 
 <figure>
-    <video src="https://github.com/user-attachments/assets/117f3469-5ddd-451c-81e3-8ed479685531" controls="controls"></video> 
+    <video src="https://github.com/user-attachments/assets/80471063-3279-4ea5-b650-6276319ce9f3" controls="controls"></video> 
     <figcaption>Strathspey Setting Step</figcaption>
 </figure>
 
 ![Strathspey setting pattern](../images/term2/hnmi/strathspey_02.png)
 
 <figure>
-    <video src="https://github.com/user-attachments/assets/f087de1f-0450-4ef7-9274-643958345213" controls="controls"></video> 
+    <video src="https://github.com/user-attachments/assets/00b93ab0-8a7c-4f16-8a34-007334eaa2f3" controls="controls"></video> 
     <figcaption>Pas de Basque Setting Step</figcaption>
 </figure>
 
