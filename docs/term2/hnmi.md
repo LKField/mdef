@@ -118,10 +118,10 @@ Check out the videos of the dance styles and the resulting patterns that were cr
 
 <video src="https://github.com/user-attachments/assets/80471063-3279-4ea5-b650-6276319ce9f3" controls="controls"></video> 
 
-<figure>
+<!-- <figure>
 
     <figcaption>Strathspey Setting Step</figcaption>
-</figure>
+</figure> -->
 
 ![Strathspey setting pattern](../images/term2/hnmi/strathspey_02.png)
 
