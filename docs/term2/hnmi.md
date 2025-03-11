@@ -38,7 +38,8 @@ By changing the resistor from 1kOhms to 100Ohms, the saturation point of the ana
 
 To attempt to make the device wireless, the tenuous connections of the breadboard had to be made more secure. Therefore, once the circuit was complete, a perfboard was used to solder the resistors in place and make the connections more robust. 
 
-<video src="" controls="controls"></video> 
+<video src="https://github.com/user-attachments/assets/19415136-4cf3-4487-9165-932647cd7539
+" controls="controls"></video> 
 
 ### Attempts at wireless data transfer 
 
@@ -108,30 +109,25 @@ Check out the videos of the dance styles and the resulting patterns that were cr
 
 <div class="grid" markdown>
 <figure>
-    <video src="" controls="controls"></video>  
+    <video src="https://github.com/user-attachments/assets/2e695ce5-9add-46fc-99bd-422b1761f886" controls="controls"></video>  
     <figcaption>Rapper Sword Dance Stepping</figcaption>
 </figure>
-
 
 ![Rapper step pattern](../images/term2/hnmi/rapper_step_02.png)
 
 <figure>
-    <video src="" controls="controls"></video> 
+    <video src="https://github.com/user-attachments/assets/117f3469-5ddd-451c-81e3-8ed479685531" controls="controls"></video> 
     <figcaption>Strathspey Setting Step</figcaption>
 </figure>
 
 ![Strathspey setting pattern](../images/term2/hnmi/strathspey_02.png)
 
 <figure>
-    <video src="" controls="controls"></video> 
+    <video src="https://github.com/user-attachments/assets/f087de1f-0450-4ef7-9274-643958345213" controls="controls"></video> 
     <figcaption>Pas de Basque Setting Step</figcaption>
 </figure>
 
 ![Pas de basque setting pattern](../images/term2/hnmi/pasdebasque.png)   
-
-</div>
-
-<div class="grid" markdown>
 
 In most of these types of dance, the heels are not supposed to touch, therefore it appears in many of these patterns that the heel sensors were not working despite them functioning just fine as can be seen in the pattern made from walking normally.
 
