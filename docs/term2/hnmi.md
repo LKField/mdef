@@ -1,7 +1,7 @@
 # H(n)MI
 
 !!! abstract "Course Details"
-    **Name:** Human non-human Machine Interactions 
+    **Name:** Human (non-human) Machine Interactions 
 
     **Dates:** 11, 13-14, & 27-28 February 2025
 
