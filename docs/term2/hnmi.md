@@ -111,7 +111,7 @@ Check out the videos of the dance styles and the resulting patterns that were cr
 
 <div class="grid" markdown>
 <figure>
-    <video src="https://github.com/user-attachments/assets/2eb915d7-b064-41a5-aca3-dc51b12673f8" controls="controls"></video>  
+    <video src="https://github.com/user-attachments/assets/a8360e61-c3ab-40e6-9432-7c802cced95e" controls="controls"></video>  
     <figcaption>Rapper Sword Dance Stepping</figcaption>
 </figure>
 
