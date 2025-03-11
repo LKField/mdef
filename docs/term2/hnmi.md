@@ -9,11 +9,13 @@
 
 ## Project 
 
-Our work throughout the week was documented in the following GitHub repository. 
+Our work throughout the course was documented in the following GitHub repository. Checkout our various codes there as well as examples from the first part of the seminar. 
 
 <figure markdown="span">
     [GitHub](https://github.com/LKField/h_n_mi){ .md-button }
 </figure>
+
+For this project, we wanted to visualize the pressure applied to parts of the foot while doing different types of folk dance steps. As a folk dancer, I was wondering what sorts of insights into various forms of dance we could gain from an artistic representation of the pressure applied to my feet during the steps. Since the assignment was to gather data from our bodies and visualize or analyze it in some way, this felt like a perfect opportunity to explore combining my interest in electronics and folk dance. 
 
 ### The sensors 
 
@@ -115,13 +117,10 @@ Check out the videos of the dance styles and the resulting patterns that were cr
 
 ![Rapper step pattern](../images/term2/hnmi/rapper_step_02.png)
 
-
-<video src="https://github.com/user-attachments/assets/80471063-3279-4ea5-b650-6276319ce9f3" controls="controls"></video> 
-
-<!-- <figure>
-
+<figure>
+    <video src="https://github.com/user-attachments/assets/80471063-3279-4ea5-b650-6276319ce9f3" controls="controls"></video> 
     <figcaption>Strathspey Setting Step</figcaption>
-</figure> -->
+</figure>
 
 ![Strathspey setting pattern](../images/term2/hnmi/strathspey_02.png)
 
