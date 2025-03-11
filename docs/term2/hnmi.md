@@ -119,7 +119,7 @@ Check out the videos of the dance styles and the resulting patterns that were cr
 ![Rapper step pattern](../images/term2/hnmi/rapper_step_02.png)
 
 <figure>
-    <video src="https://github.com/user-attachments/assets/66aadb3b-c29e-461a-874b-8c914e73d501" controls="controls"></video> 
+    <video src="https://github.com/user-attachments/assets/c8ac54e0-dea1-4dad-858e-4e3295814edf" controls="controls"></video> 
     <figcaption>Strathspey Setting Step</figcaption>
 </figure>
 
