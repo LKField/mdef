@@ -110,6 +110,7 @@ We were able to test a few different dance styles to see the different ways the 
 Check out the videos of the dance styles and the resulting patterns that were created to see the differences. 
 
 <div class="grid" markdown>
+
 <figure>
     <video src="https://github.com/user-attachments/assets/a8360e61-c3ab-40e6-9432-7c802cced95e" controls="controls"></video>  
     <figcaption>Rapper Sword Dance Stepping</figcaption>
