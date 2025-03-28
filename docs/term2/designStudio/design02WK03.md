@@ -79,17 +79,17 @@ So, I bought some stickers and brought along markers so that people could make t
 On the day of the dance itself, 3 people who had said they were interested in joining reached out to say they could not make it. We ended up with a total of 9 people. I think 12 would have been more optimal, as it would have worked better for some of the dances, but it was still a nice event no matter what. 
 
 <figure markdown="span">
-    <video src="#" controls="controls" style="max-width: 100%;"></video>
+    <video src="https://github.com/user-attachments/assets/2311505c-8834-49d2-93f7-817eaea8fd13" controls="controls" style="max-width: 100%;"></video>
     <figcaption>Teaching Half Hannikin</figcaption>
 </figure>
 
 <figure markdown="span">
-    <video src="#" controls="controls" style="max-width: 100%;"></video>
+    <video src="https://github.com/user-attachments/assets/151efe31-03c7-44e7-be4e-62b66bbdff66" controls="controls" style="max-width: 100%;"></video>
     <figcaption>Sample Dancing</figcaption>
 </figure>
 
 <figure markdown="span">
-    <video src="#" controls="controls" style="max-width: 100%;"></video>
+    <video src="https://github.com/user-attachments/assets/4c9cb97b-5692-4e42-a12a-3b494d14272f" controls="controls" style="max-width: 100%;"></video>
     <figcaption>End of the night: Trenchmore Breakdown</figcaption>
 </figure>
 
