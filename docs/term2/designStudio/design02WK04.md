@@ -156,12 +156,35 @@ The options are many, and it was nice to get started actually testing this metho
 
 ### Research Questions 
 
-Some initial thoughts about research questions. There will likely be more, and broaden 
+I have been thinking a lot about the sorts of research questions I am investigating and have come up with a long list, going from broad to more narrow. 
 
-- How does using 'visible mending' practices, such as darning or weaving patches with colorful thread or adding embroidery or colorful patches to clothing, elevate or diminish the desirability for people to wear the garment being modified? 
-- How does adding electronic interaction, through soft sensors, lights, and sounds, to add character and story influence people's engagement with the concept of repair and change how they might approach repair in their own lives? 
+!!! question "Research Questions"
+
+    * What motivates people who repair/upcycle broken/old objects to repair? 
+    * What barriers to repairing do people who discard things without first attempting to repair them face to trying repair? 
+        * Lack of skills? 
+        * Lack of knowledge about repair as an option? 
+        * Lack of resources, materials, time, tools?
+        * Lack of community or support to repair?
+        * Social or other pressure to purchase new things? 
+    * How does age, culture, gender, and economics, influence who repairs?
+        * How can a younger generation be involved more in repair as a means of reducing waste, gaining craft skills, and engaging with stewardship of the objects we own that are so easily replaceable? 
+        * Who has the choice to repair? Who has no choice but to repair? Who has no choice but to buy new?
+        * What role does gender play in the realm of repair?
+    * What role does care and general upkeep play in reducing waste by treating objects as precious so that repairs may not be necessary for longer?  
+        * What role does the quality of the product play in the need for repair in the first place?
+    * How does using 'visible mending' practices, such as darning or weaving patches with colorful thread or adding colorful patches to clothing, elevate or diminish the desirability for people to wear the garment being modified? 
+    * How does adding electronic interaction, through soft sensors, LEDs, and sounds, to add character and story influence people's engagement with the concept of repair and change how they might approach repair in their own lives? 
+        * What method of interaction is more meaningful in creating engagement with the ideas of repair? 
+
+
+From my recent work in the space of repair, I am developing a hypothesis which I hope to test during my research. For now it is as follows: 
+
+Creating objects which facilitate engagement with repair will increase participant's interest in repair as a means of reducing waste, learning craft skills, and promoting stewardship of objects so that they examine their own purchasing and discarding habits and seek opportunities to repair rather than discard. 
 
 ### Theoretical Framework 
+
+
 
 2. Theoretical framework - In Progress 
     a) Summarize your theoretical framework* (max. 5 lines)
