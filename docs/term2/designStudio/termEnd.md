@@ -94,6 +94,8 @@ All the best,
 
 Lucretia Field 
 
+### The text of the supplemental letters:
+
 ??? note "Find Your Community" 
 
     Dear Reader, 
@@ -138,10 +140,6 @@ Lucretia Field
 	If you are not stuck in confusion at this point, perhaps you are feeling inspired to run off in many different directions all at once. This is a very exciting! Please be sure to save enough energy and provisions to make it back home though. Focus on a task, a purpose, a single investigation can be valuable, but so can a scavenger hunt that runs around all over the place. I simply caution you to remember to pause and reflect on these new horizons. Explore and learn, do and create, test and experiment, but remember to take a deep breath and a moment of reflection. 
 
 	So, when it comes time, redefine your trajectory and begin again. The adventure awaits! 
-
-	All the best, 
-	Lucretia 
-
 
 
 ## Peer Interpretation  
