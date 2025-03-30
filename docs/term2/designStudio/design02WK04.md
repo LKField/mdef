@@ -203,11 +203,11 @@ Updates to my Design Space to reflect my progress and projects
 <figure markdown="span"> [Design Space](../../designSpace.md/#__tabbed_1_10){ .md-button } </figure> 
 
 
-<!-- ## Reflection 
+## Reflection 
 
-Below is my audio reflection for this week of design studio.
+Below is my audio reflection after meeting with Penny. I recorded it right after leaving her studio, so please pardon the background noise of the city. 
 
 <br>
 <figure markdown="span">
-    <audio controls src="../../../audio/DesignStudioReflection_02Feb.mp3"></audio>
-</figure> -->
+    <audio controls src="../../../audio/DesignStudioReflection_Penny.mp3"></audio>
+</figure>

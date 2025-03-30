@@ -186,4 +186,11 @@ What follows is my interpretation of the first draft pictorial by [David](https:
 ### Design Space for Design Dialogue II 
 ![Design Space 11](../../images/term2/designstudio/DesignSpaceOverview_11.png)
 
+## Audio Reflection 
 
+Below is my audio reflection for the end of term 2. 
+
+<br>
+<figure markdown="span">
+    <audio controls src="../../../audio/DesignStudioReflection_EndTerm2.mp3"></audio>
+</figure>

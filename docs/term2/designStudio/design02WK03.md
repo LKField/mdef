@@ -139,11 +139,11 @@ Updates to my Design Space.
 
 <figure markdown="span"> [Design Space](../../designSpace.md/#__tabbed_1_9){ .md-button } </figure> 
 
-<!-- ## Reflection 
+## Reflection 
 
-Below is my audio reflection. 
+Below is my audio reflection after my dance event and about what I took away from the event. 
 
 <br>
 <figure markdown="span">
-    <audio controls src="../../../audio/DesignStudioReflection_02Feb.mp3"></audio>
-</figure> -->
+    <audio controls src="../../../audio/DesignStudioReflection_Dance.mp3"></audio>
+</figure>
