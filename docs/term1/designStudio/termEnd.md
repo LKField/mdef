@@ -7,7 +7,7 @@
 
     **Faculty:** Jana Tothill Calvo & Roger Guilemany
 
-## Draft Pictoral 
+## Draft Pictorial 
 
 Here is the draft of my pictoral. The idea has changed a bit since my initial proposal. After the Design Dialogues, I felt that my vision had changed about what I wanted to communicate and how. Now, I am interested in exploring the idea of taking small actions in the face global, overwhelming crises. I want to highlight the idea of scaling back. The format still includes a letter,  a hand-made envelope, and drawn reflections on my work. However now it focuses on communicating the idea of scale, measurable steps, and a somewhat chaotic process which feels integral to how my term has felt. I hope that the chaos does not distract too much from the message I am trying to get across. 
 

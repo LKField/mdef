@@ -40,13 +40,8 @@ So, then, just as the excitement was mounting, I started encountering barriers a
 
 So, I started by asking to use Valldaura and was told that this wouldn't work. So, after dealing with many moments of second guessing myself, I reached out to ask if there was space at Elisava for me to host the workshop, which was quickly approved.  
 
-<div class="grid" markdown>
-
 ![Email about unavailability of Valldaura](../../images/term2/designstudio/dance/ChiaraEmail.png)
-
-![Email about Elisava](../../images/term2/designstudio/#)
-
-</div>
+![Email about Elisava](../../images/term2/designstudio/dance/SaulEmail.png)
 
 #### Challenge 2: Overcome by own doubts
 
@@ -68,9 +63,9 @@ While I already had the most important thing, a teacher, who I knew could provid
 
 So, I bought some stickers and brought along markers so that people could make their own name tags. I think the theory of this practice is that at an event where not everyone knows each other, name tags allow people to feel more comfortable meeting new people because they don't have to try to remember their name. When asking someone new to dance, these can provide a nice reminder and equalizer. 
 
-![Name stickers and sign-in](../../images/term2/designstudio/dance/#)
+<!-- ![Name stickers and sign-in](../../images/term2/designstudio/dance/#)
 
-<!-- </div> -->
+</div> -->
 
 ### The event 
 
