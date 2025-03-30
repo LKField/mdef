@@ -184,18 +184,36 @@ Creating objects which facilitate engagement with repair will increase participa
 
 ### Theoretical Framework 
 
+I have yet to determine a clear theoretical framework for my research, I am in the process of trying to figure out exactly what this means, and I hope to seek assistance from my teachers soon. In the meantime, I have been reading a lot of research resources and trying to contextualize the landscape. 
 
+#### Sources 
 
-2. Theoretical framework - In Progress 
+- Lee Jones and Audrey Girouard. 2021. Patching Textiles: Insights from Visi- ble Mending Educators on Wearability, Extending the Life of Our Clothes, and Teaching Tangible Crafts. In Creativity and Cognition (C &C ’21), June 22–23, 2021, Virtual Event, Italy. ACM, New York, NY, USA, 11 pages. [https://doi.org/10.1145/3450741.3465265](https://doi.org/10.1145/3450741.3465265){:target="_blank"}
+
+This source was interesting because it addresses some of the questions I have been interested in around why people repair while also explaining practical ways in which repair of clothing, specifically visible mending, can be taught. 
+
+- Alexandra Crosby and Jesse Adams Stein. 2020. Repair. In Environmental Humanities 12:1, May 2020, 
+DOI 10.1215/22011919-8142275 [link](https://watermark.silverchair.com/179crosby.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA3AwggNsBgkqhkiG9w0BBwagggNdMIIDWQIBADCCA1IGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMFP9PQJVw0cpSlOv1AgEQgIIDI07SNKF35pvArSbDI0VnVR9eHUshcnw9YFXF_MWPXCeWZmgNC6BbJwRyzyZ2oNQaDBM9aRQCxOdFxtt-eJ-7QZMoXKRyo0D27m0D1LBkO55gstdGsnDxMT4KbQs83rOE1aPO3tUTXOH3IsMb5uS4e48lVZCkfc-JeRi_e82FKmWr1zrcbMaO1bcDOlx7WiiAhIRRXYXjp1NT3ccWYLo4blTHDLADmW6ICCz5_3EPRaqgqvT4hwXhhVxEB55vR5Usa1gM2akQRMdVLGsDpaTIPD0c477xuKjsrCIl9nKfwTcYvfv1W2QbkhA9cXnOQpqb_4T1Dkb6sPBwHsgdv1WKgV0sm7R4q3bMETUUSiWLgxk4RZxhe7RJQDIi7EPxQRf2_rzBTjhaxWKC4sBtPYa1T0xHYAppOHQoMo0mK4HMb2VXLb4znFg-T1laz3zBYXYx0de0EqieVMtFWgnqjHRLXZtxMSSb3UV2fKoPQKFBU-2MJh4H2ZnEAMrgMWJXFLLbImDn61VCWke_g4LuBv1yUnOuJ-Z6N1EDJ92fvoMyaoS5UDhEeRxwyR0rHkerB03PvHQKPvs2nggwpe3YHfVfH4dblqDsUpuYTl9RaVuBwq7sSTNjxuJ9lZ8ihxDpJ_PZ4_fqTTEDvMY2P6UQivuLYNdMv-Toqs8Mpwt0DGTJJtoxikx0wttJI_CwwDvRsAEJAsGpADKvN18MITiSMmycETCkbxju5_FN67UcB0Hu-ljsSmq2bsvJiR2Ua4lMg0gO8ltWbR9mdtHY568eSrAPYvwq_I0lq3woNaqOApIPxtVU_nPiKa4P80-B5jxbqg_mKFI0L4K3nv6cKhBsOODVaWkm4h2H9ql73iVZ13fK6-dO373qN43IY1GYTHPfs1tvd1zKiUKLIJYEEGrRGfPbPAKqhf2y-20JV5EU3o6WM7AHdlamxByZT8s-Jn-_wi7owhAK6qWlx4fU7gCSajyX7icDek4YWY8vi4ZQIYZxBhby2Sg9GFzDrLt_IWKVbN_GS9v453mhY5pi9tN6ddgAYBkhXNQ0SGZn8-N5DIqyUHV1LYAt){:target="_blank"}
+This is an open access article distributed under the terms of a Creative Commons license (CC BY-NC-ND 3.0).
+
+This paper talks about 'repair as design and designing for repair'. I have never really considered myself a designer, despite being a part of a design master's program, but I could perhaps get behind this idea of design, as part of the process of repair and repair as a part of the process of design. The focus of this paper on care and ethics within the context of design education is also interesting. 
+
+- Lee Vinsel. 2019. Fighting for the Right to Repair Our Stuff. Jul 23, 2019. [link](https://www.theamericanconservative.com/fighting-for-the-right-to-repair-our-stuff/){:target="_blank"}
+
+This article was interesting because it comes from an American conservative perspective and highlights that repair may be an area where people on both sides of the political divide in the USA might be able to agree. While reading this article I started thinking about the possibilities for repair to maybe be an entry point into some of the discussions I was hoping to address early in this term about information and ideological bubbles. I may be interested in exploring the political action angle of repair a bit more. 
+
+- I also read 2 papers by Blanca Callén that she sent me herself. However, the versions I have are labeled as not being ready to be cited. I will check with her about that before adding any information about them here. However, they have provided interesting context about the Restarters Barcelona and have also given me very good references to other papers which have positioned me much more in research mode than I have been for the rest of this course prior. 
+
+<!-- 2. Theoretical framework - In Progress 
     a) Summarize your theoretical framework* (max. 5 lines)
     b) Select 5 sources -min. 2 academic papers- and explain why they are enlightening for you
-
-### Methods 
+ -->
+<!-- ### Methods 
 
 3. Methods - In Progress 
 Specify your practical approach: what data will you use, how will you gather it and when.
 
-
+ -->
 ## Design Space 
 
 Updates to my Design Space to reflect my progress and projects

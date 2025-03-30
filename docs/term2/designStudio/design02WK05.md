@@ -102,17 +102,36 @@ At the Work in Progress showcase, I was able to get a few people to play the gam
 
 The real intervention with this game is yet to come. I have not pursued the chance to test it with repairers or with people involved in a repair workshop. Many people who have spoken to me have asked the purpose of the game, what I am aiming to achieve with it. Upon reflection, I think using it as an ice breaker at a workshop is probably the best place to start. Get people laughing and talking about repair with a simple game. Start a conversation about how we can potentially fix some small broken things and to get whimsical and creative about how we might be able to fix larger, more challenging things. I hope to test this game in that kind of setting soon, and to collect more feedback about it as well. 
 
-![Final Repair Party! setup ](../../images/term2/designstudio/game/IMG_5956.jpeg) 
+![Final Repair Party! setup](../../images/term2/designstudio/game/IMG_5956.jpeg) 
 
 
 ## Reflection on Transition Design Talk 
 
 ### Mapping the Landscape 
 
+![Mapping the Landscape](../../images/term2/designstudio/landscapeMapping.jpg) 
+
+Mapping the landscape about repair feels like it is reiterating on my design space, but with a more external look than I have previously had. I used scrap paper from our activity on Solar-Centered Design to sketch out the landscape as a means of trying to practice the things I preach in terms of reuse. I hope the messiness of the result is acceptable. 
+
+I know that this is not an exhaustive map of the landscape around repair. It has helped me to recognize that perhaps what I am most interested in is the specific concepts around "community-led repair efforts" rather than necessarily larger scale repair efforts. While I recognize that legislation about repair, companies who repair and reuse, and other large-scale efforts are necessary, for the context I am working with, smaller, community-led practices are more what I am interested in looking into going forward. 
+
 ### Actant Mapping
+
+With my clearer focus on community-led repair, I worked to map the actants in this space. While some of my focus has been on Barcelona, I also included information that is both more global, and more localized to my context in Baltimore, Maryland, back in the USA. I think continuing to do this sort of work as I progress through the rest of this program will be very helpful. Including the contacts that I make along the way and the people I admire will be helpful while continuing to remember to include people I may have less access to, but who have stakes in the outcomes of these sorts of initiatives. 
+
+![Mapping the Actants](../../images/term2/designstudio/actantMapping.jpg) 
 
 ### Theories of Change 
 
+I will admit, I did not fully understand this portion of the lecture on transition design. However, here is my best attempt at what I think is intended for this. 
+
+The ideal change I am going for is to have more space for community-led repair activities and Do It With Others (DIWO) repair efforts, to remove the power over our objects from corporations who just want to suck as much money as possible out of planned obsolescence and new upgrades to technology and fashion. 
+
+To do this, I want to make sure I am not negatively impacting existing repair infrastructure, people who currently make a living repairing, or by steam rolling any existing community-led repair efforts. I want to try to fit into the existing systems, help elevate them, and get more people interested in and seeking out repair opportunities. 
+
+I am still working to understand the current systems around repair communities. There are many different models, what works for one community may or may not work for another. This step is going to require continued research and investigation. I intend to engage more in the community here in Barcelona while I start making more meaningful connections with repair efforts in Baltimore, Boston, and the US in general. 
+
+I hope to support the transition from existing community-led repair efforts to more numerous and utilized repair efforts by learning from the places I have been and the experts I have spoken to and bringing those learning to existing spaces with the goal to facilitate further growth of the efforts. 
 
 ## Design Space 
 
