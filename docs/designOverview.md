@@ -64,7 +64,7 @@
         </div>
         <div style="padding: 10px; gap: 10px; width: 50%; color: #181040">
         <b>End of Term</b><br>
-        Design Dialogue and end of term 1 debrief 
+        Pictorial Draft & First Term wrap-up 
         </div>
     </a>
 </div>
@@ -122,6 +122,32 @@
         <div style="padding: 10px; gap: 10px; width: 50%; color: #181040">
         <b>Session Four</b><br>
         Third situated intervention & Research 
+        </div>
+    </a>
+</div> 
+
+<!-- Session 5 -->
+<div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
+    <a style="box-shadow: 0px 0px 0px 0px #181040; display: flex; flex-direction: row; align-items: flex-start; width: 100%; height: 100%; object-fit: cover; background-color: #7e56c1" href="../term2/designStudio/design02WK05">
+        <div style="display:flex; align-content: center; justify-content:center; width: 50%">
+        <img src="../images/term2/designstudio/thumbnails/game.jpeg"></img>
+        </div>
+        <div style="padding: 10px; gap: 10px; width: 50%; color: #181040">
+        <b>Session Five</b><br>
+        Final situated design intervention & Transition Design
+        </div>
+    </a>
+</div> 
+
+<!-- End of Term -->
+<div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
+    <a style="box-shadow: 0px 0px 0px 0px #181040; display: flex; flex-direction: row; align-items: flex-start; width: 100%; height: 100%; object-fit: cover; background-color: #7e56c1" href="../term2/designStudio/termEnd">
+        <div style="display:flex; align-content: center; justify-content:center; width: 50%">
+        <img src="../images/term2/designstudio/thumbnails/pictorial.jpeg"></img>
+        </div>
+        <div style="padding: 10px; gap: 10px; width: 50%; color: #181040">
+        <b>End of Term 2</b><br>
+        Pictorial Draft 2 & Second Term wrap-up 
         </div>
     </a>
 </div> 
