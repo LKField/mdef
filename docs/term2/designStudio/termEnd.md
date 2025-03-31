@@ -128,9 +128,6 @@ Lucretia Field
 
 	Dear adventurer, please remember to simplify. You are capable of great things, but they require small steps and consistent progress not giant bounds. 
 
-
-    From a grand plan to test my networking skills, to ideas about sustainable energy collection to extend my phone battery, sometimes 
-
 ??? note "Redefine your goals & next steps" 
 
     Dear Reader,
