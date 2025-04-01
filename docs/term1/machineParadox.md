@@ -3,7 +3,7 @@
 !!! abstract "Course Details"
     **Name:** Machine Paradox
 
-    **Dates:** 15 October to 18 October and 22 October to 25 October 2024 
+    **Dates:** 15 October to 18 October & 22 October to 25 October 2024 
 
     **Faculty:** Santiago Fuentemilla Garriga, Guillem Camprodon, Daniel Mateos, Josep Marti Elias, & Adai Surinach
 

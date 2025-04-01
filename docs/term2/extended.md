@@ -3,7 +3,7 @@
 !!! abstract "Course Details"
     **Name:** Extended Intelligences II
 
-    **Dates:** 19 to 21 February 2025
+    **Dates:** 19 February to 21 February 2025
 
     **Faculty:** Christian Ernst & Pietro Rustici
 

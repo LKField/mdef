@@ -3,7 +3,7 @@
 !!! abstract "Course Details"
     **Name:** Extended Intelligences 
 
-    **Dates:** 05 November to 07 November and 12 November to 15 November 2024 
+    **Dates:** 05 November to 07 November & 12 November to 15 November 2024 
 
     **Faculty:** Andres Colmenares & Pau Artigas
 

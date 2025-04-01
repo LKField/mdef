@@ -3,7 +3,7 @@
 !!! abstract "Course Details"
     **Name:** Collective Intelligences 
 
-    **Dates:** 22 to 24 January 2025
+    **Dates:** 22 January to 24 January 2025
 
     **Faculty:** Jessica Guy & Sally Bourdon
 

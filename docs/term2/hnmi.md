@@ -3,7 +3,7 @@
 !!! abstract "Course Details"
     **Name:** Human (non-human) Machine Interactions 
 
-    **Dates:** 11, 13-14, & 27-28 February 2025
+    **Dates:** 11 February, 13-14 February, & 27-28 February 2025
 
     **Faculty:** Citlali Hernández & Lina Bautista
 
