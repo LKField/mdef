@@ -3,7 +3,7 @@
 !!! abstract "Course Details"
     **Name:** Design Studio 03 - Second Session 
 
-    **Dates:** 20 January 2025 - UPDATE! 
+    **Dates:** 12 May 2025
 
     **Faculty:** Roger Guilemany with guests
 
