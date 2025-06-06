@@ -17,6 +17,7 @@ Reader, what weird will you embrace? Will you take pieces of a broken laptop to 
 I hope you will join me in this world of Darned Circuits where I imagine a world on the opposite extreme, and perhaps, we can start conversations with those still stuck in reality, so that we can meet in the middle. 
 
 All the best, 
+
 Lucretia Field  
 
 
