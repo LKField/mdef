@@ -31,11 +31,11 @@ Lucretia Field
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
-    <img src="../../images/project/#" style="width:100%">
+    <img src="../../images/project/laptop.jpg" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="../../images/project/#" style="width:100%">
+    <img src="../../images/project/mendingEvent.jpg" style="width:100%">
   </div>
 
   <div class="mySlides fade">
