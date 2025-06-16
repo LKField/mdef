@@ -64,6 +64,6 @@ I hope you will join me in this world of Darned Circuits where I imagine an oppo
 ### Horizontal Video for Desktop Viewing 
 
 <figure markdown="span">
-    <video src="##" controls="controls" style="max-width: 100%;"></video>
+    <video src="https://github.com/user-attachments/assets/fba321ed-3a6d-496c-9d8c-52563451acab" controls="controls" style="max-width: 100%;"></video>
     <figcaption></figcaption>
 </figure>
