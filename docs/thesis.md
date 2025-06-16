@@ -1,7 +1,7 @@
 # Final Project 
 
 <figure markdown="span">
-    <video src="https://github.com/user-attachments/assets/4d7d99b9-ca6d-433f-8652-81f54a7804fa" controls="controls" style="max-width: 100%;"></video>
+    <video autoplay src="https://github.com/user-attachments/assets/4d7d99b9-ca6d-433f-8652-81f54a7804fa" controls="controls" style="max-width: 100%;"></video>
     <figcaption></figcaption>
 </figure>
 
@@ -31,23 +31,23 @@ Lucretia Field
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
-    <img src="../../images/project/laptop.jpg" style="width:100%">
+    <img src="../images/project/laptop.jpg" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="../../images/project/mendingEvent.jpg" style="width:100%">
+    <img src="../images/project/mendingEvent.jpg" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="../../images/project/#" style="width:100%">
+    <img src="../images/term2/designstudio/endOfTerm/patch.jpeg" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="../../images/project/#" style="width:100%">
+    <img src="../images/project/vitti.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="../../images/project/#" style="width:100%">
+    <img src="../images/project/topViewCircuit.jpg" style="width:100%">
   </div>
 
   <!-- Next and previous buttons -->
