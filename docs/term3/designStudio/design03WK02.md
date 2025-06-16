@@ -1,4 +1,4 @@
-# Design Studio 02 - Second Session 
+# Design Studio 03 - Second Session 
 
 !!! abstract "Course Details"
     **Name:** Design Studio 03 - Second Session 
