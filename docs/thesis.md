@@ -17,7 +17,7 @@ In the real world, the United Nations reports 62 billion kgs of e-waste were gen
 
 Instead of throwing away our old, broken, or simply unwanted items, we need to shift collective habits to actually fix or reimagine our items, prolonging their useful life. Community repair efforts from Restart Parties, Repair Cafes, Mend in Public Days, to individual repair habits are a place to start addressing these practical problems and deepening our connection to the objects in our lives. However, when repair is not even an option in our collective thoughts, when we face external pressure from advisements and social judgement, why not embrace the weird? 
 
-Reader, what weird will you embrace? Will you take pieces of a broken laptop to ‘mend’ your clothes or ‘fix’ your electronics with cloth and thread? Instead of just fixing objects, will you fix your relationship with them by transforming them into new items that break the conventions of purpose and useful functioning? Or, will you try your hand at repairing your clothes in a more traditional manner? Will you find a community that can help you fix the fan that stopped working last summer? Can you keep your smartphone for just one year longer? Will you begin to brag about how old your items are, because really, it’s ridiculous that we don’t view the longevity of our objects as a personal achievement. 
+Reader, what weird will you embrace? Maybe you will take pieces of a broken laptop to ‘mend’ your clothes or ‘fix’ your electronics with cloth and thread. Perhaps instead of just fixing objects, will you fix your relationship with them by transforming them into new items that break the conventions of purpose and useful functioning. Or, will you try your hand at repairing your clothes in a traditional manner? Will you find a community that can help you fix the fan that stopped working last summer? Can you keep your smartphone for just one year longer? Will you begin to brag about how old your items are, because really, it’s ridiculous that we don’t view the longevity of our objects as a personal achievement. 
 
 I hope you will join me in this world of Darned Circuits where I imagine a world on the opposite extreme, and perhaps, we can start conversations with those still stuck in reality, so that we can meet in the middle. 
 
@@ -26,3 +26,47 @@ All the best,
 Lucretia Field  
 
 
+<!-- Slideshow container -->
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <img src="../../images/project/#" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="../../images/project/#" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="../../images/project/#" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="../../images/project/#" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="../../images/project/#" style="width:100%">
+  </div>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span>
+  <span class="dot" onclick="currentSlide(5)"></span>
+</div>
+
+
+
+<figure markdown="span">
+    <video src="#" controls="controls" style="max-width: 100%;"></video>
+    <figcaption></figcaption>
+</figure>
